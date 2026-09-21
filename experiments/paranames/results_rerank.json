@@ -1,0 +1,258 @@
+[
+ {
+  "id": "e015",
+  "source": "Leo",
+  "cands": [
+   "Лев",
+   "Лев",
+   "Лео Стиллман"
+  ],
+  "qwen_pick": "LEV",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": 1, \"answer\": \"LEV\"}",
+  "error": null
+ },
+ {
+  "id": "e024",
+  "source": "Avalon",
+  "cands": [
+   "Авалон",
+   "Авалон",
+   "Авалон",
+   "Авалон"
+  ],
+  "qwen_pick": "3",
+  "qwen_pick_ru": "Авалон",
+  "selected": "Авалон",
+  "raw": "{\"candidate_id\": 3, \"answer\": \"3\"}",
+  "error": null
+ },
+ {
+  "id": "e033",
+  "source": "Yinchuan",
+  "cands": [
+   "Иньчуань",
+   "Иньчуань"
+  ],
+  "qwen_pick": "2",
+  "qwen_pick_ru": "Иньчуань",
+  "selected": "Иньчуань",
+  "raw": "{\"candidate_id\": 2, \"answer\": \"2\"}",
+  "error": null
+ },
+ {
+  "id": "e035",
+  "source": "Sharp, Marshall",
+  "cands": [
+   "Маршалловы Острова",
+   "Маршалловы Острова"
+  ],
+  "qwen_pick": "2",
+  "qwen_pick_ru": "Маршалловы Острова",
+  "selected": "Маршалловы Острова",
+  "raw": "{\"candidate_id\": 2, \"answer\": \"2\"}",
+  "error": null
+ },
+ {
+  "id": "e039",
+  "source": "6th",
+  "cands": [
+   "Массачусетс",
+   "Массачусетс"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e061",
+  "source": "Walton",
+  "cands": [
+   "Уолтон",
+   "Уолтон",
+   "Уолтон, Нью-Йорк",
+   "Уолтон",
+   "Уолтон, Нью-Йорк"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e062",
+  "source": "Kirkkonummi",
+  "cands": [
+   "Киркконумми",
+   "Киркконумми"
+  ],
+  "qwen_pick": "Киркконумми (LOC)",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": 1, \"answer\": \"Киркконумми (LOC)\"}",
+  "error": null
+ },
+ {
+  "id": "e083",
+  "source": "Sasebo Naval Arsenal",
+  "cands": [
+   "Арсенал флота в Сасэбо",
+   "Арсенал флота в Сасэбо"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e090",
+  "source": "Marathon",
+  "cands": [
+   "Марафон",
+   "Марафон"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e107",
+  "source": "Keith Miller (1/2)",
+  "cands": [
+   "Кит Миллер",
+   "Кит Миллер",
+   "Кит Миллер",
+   "Кейт Миллер",
+   "Кит Миллер",
+   "Кит Миллер"
+  ],
+  "qwen_pick": "1",
+  "qwen_pick_ru": "Кит Миллер",
+  "selected": "Кит Миллер",
+  "raw": "{\"candidate_id\": 1, \"answer\": \"1\"}",
+  "error": null
+ },
+ {
+  "id": "e117",
+  "source": "Rita",
+  "cands": [
+   "Рита",
+   "Рита"
+  ],
+  "qwen_pick": "Rita",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": 1, \"answer\": \"Rita\"}",
+  "error": null
+ },
+ {
+  "id": "e124",
+  "source": "Manchester",
+  "cands": [
+   "Манчестер",
+   "Манчестер",
+   "Манчестер",
+   "Манчестер",
+   "Манчестер",
+   "Манчестер"
+  ],
+  "qwen_pick": "Манчестер (LOC)",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\n  \"candidate_id\": 1,\n  \"answer\": \"Манчестер (LOC)\"\n}",
+  "error": null
+ },
+ {
+  "id": "e133",
+  "source": "Marathon",
+  "cands": [
+   "Марафон",
+   "Марафон"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e142",
+  "source": "Honda",
+  "cands": [
+   "Хонда",
+   "Хонда"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": 2, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e165",
+  "source": "Clay",
+  "cands": [
+   "Клей",
+   "Клей",
+   "Клей",
+   "Клей",
+   "Клей",
+   "Клей"
+  ],
+  "qwen_pick": "Клей (ORG)",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": 4, \"answer\": \"Клей (ORG)\"}",
+  "error": null
+ },
+ {
+  "id": "e172",
+  "source": "Robert Smith",
+  "cands": [
+   "Роберт Смит",
+   "Роберт Смит",
+   "Роберт Смит",
+   "Роберт Смит",
+   "Роберт Смит",
+   "Роберт Смит"
+  ],
+  "qwen_pick": "1",
+  "qwen_pick_ru": "Роберт Смит",
+  "selected": "Роберт Смит",
+  "raw": "{\"candidate_id\": 1, \"answer\": \"1\"}",
+  "error": null
+ },
+ {
+  "id": "e176",
+  "source": "None",
+  "cands": [
+   "Ноне",
+   "Ноне"
+  ],
+  "qwen_pick": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "selected": null,
+  "raw": "{\"candidate_id\": null, \"answer\": \"NO_MATCH\"}",
+  "error": null
+ },
+ {
+  "id": "e199",
+  "source": "Handan",
+  "cands": [
+   "Ханьдань",
+   "Ханьдань"
+  ],
+  "qwen_pick": "2",
+  "qwen_pick_ru": "Ханьдань",
+  "selected": "Ханьдань",
+  "raw": "{\"candidate_id\": 2, \"answer\": \"2\"}",
+  "error": null
+ }
+]

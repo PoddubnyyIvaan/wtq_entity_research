@@ -1,0 +1,72 @@
+{
+ "note": "transliteration agreement is measured against Wikidata's conventional RU form on the confident subset; it is NOT accuracy vs a gold standard",
+ "n_sample": 200,
+ "n_reference_subset": 22,
+ "raw_translit_agreement": 0.045454545454545456,
+ "translit_plus_traditional_dict_agreement": 0.045454545454545456,
+ "agreement_by_type": {
+  "EVENT_WORK": {
+   "n": 3,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "FALSE_POSITIVE": {
+   "n": 1,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "LOCATION": {
+   "n": 1,
+   "translit_agree": 1.0,
+   "translit_plus_dict_agree": 1.0
+  },
+  "MULTI_WORD": {
+   "n": 3,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "ORGANIZATION": {
+   "n": 3,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "PERSON": {
+   "n": 7,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "SPORTS_TEAM": {
+   "n": 1,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "SURNAME": {
+   "n": 2,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  },
+  "UNKNOWN": {
+   "n": 1,
+   "translit_agree": 0.0,
+   "translit_plus_dict_agree": 0.0
+  }
+ },
+ "mandatory_cases_rule_only": {
+  "Smith": "Смит",
+  "Smyth": "Смит",
+  "New York": "Нью Йорк",
+  "Arsenal": "Арсенал",
+  "Washington": "Вашингтон",
+  "London": "Лондон",
+  "George": "Дордж"
+ },
+ "mandatory_cases_with_dict": {
+  "Smith": "Смит",
+  "Smyth": "Смит",
+  "New York": "Нью Йорк",
+  "Arsenal": "Арсенал",
+  "Washington": "Вашингтон",
+  "London": "Лондон",
+  "George": "Джордж"
+ }
+}

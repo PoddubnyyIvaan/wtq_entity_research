@@ -1,0 +1,36 @@
+{
+ "labels": {
+  "CORRECT": 11,
+  "PARTIAL": 7,
+  "WRONG": 5,
+  "n": 23,
+  "accuracy_strict": 0.478,
+  "accuracy_lenient": 0.783,
+  "evaluator": "single-rater manual (agent), not team gold"
+ },
+ "per_item": {
+  "e003": "CORRECT",
+  "e006": "CORRECT",
+  "e022": "CORRECT",
+  "e052": "WRONG",
+  "e053": "PARTIAL",
+  "e056": "WRONG",
+  "e057": "WRONG",
+  "e058": "CORRECT",
+  "e071": "CORRECT",
+  "e072": "PARTIAL",
+  "e074": "PARTIAL",
+  "e096": "PARTIAL",
+  "e110": "WRONG",
+  "e121": "PARTIAL",
+  "e135": "WRONG",
+  "e141": "CORRECT",
+  "e162": "CORRECT",
+  "e166": "CORRECT",
+  "e168": "CORRECT",
+  "e175": "CORRECT",
+  "e182": "PARTIAL",
+  "e193": "PARTIAL",
+  "e200": "CORRECT"
+ }
+}

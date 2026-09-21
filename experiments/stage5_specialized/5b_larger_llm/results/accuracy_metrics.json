@@ -1,0 +1,24 @@
+{
+ "qwen3b_freegen_manual40": {
+  "n": 40,
+  "correct": 25,
+  "accuracy": 0.625,
+  "harmful": 11,
+  "accepted_without_review": 18,
+  "evaluator": "single-rater manual (agent)"
+ },
+ "qwen7b_localizer_manual40": {
+  "n": 40,
+  "correct": 27,
+  "accuracy": 0.675,
+  "harmful": 5,
+  "accepted_without_review": 21,
+  "evaluator": "single-rater manual (agent)"
+ },
+ "qwen7b_localizer_vs_silver_surface_gold": {
+  "n": 36,
+  "normalized_hits": 9,
+  "exact_acceptable_rate": 0.25,
+  "note": "silver reference = WD/PN forms of L1/L2 examples; low rate reflects known candidate-rewriting behavior, not gold-human"
+ }
+}

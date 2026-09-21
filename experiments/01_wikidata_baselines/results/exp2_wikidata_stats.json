@@ -1,0 +1,22 @@
+{
+ "n": 200,
+ "candidate_coverage": 0.975,
+ "russian_form_coverage": 0.56,
+ "ru_source_dist": {
+  "ru_label_latin": 5,
+  "": 88,
+  "ru_label": 19,
+  "ru_sitelink": 84,
+  "ru_alias": 4
+ },
+ "flag_distribution": {
+  "RU form is Latin": 19,
+  "RU form missing": 83,
+  "multiple plausible QIDs": 93,
+  "low string match": 43,
+  "disambiguation_page": 1,
+  "no_candidates": 5
+ },
+ "score_mean": 0.82785,
+ "score_ge_0.8": 0.71
+}

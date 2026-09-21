@@ -1,0 +1,23 @@
+{"id": "e003", "source": "Not Free", "nllb_ru": "Не свободно", "error": null, "latency_s": 0.67}
+{"id": "e006", "source": "Real-time", "nllb_ru": "В режиме реального времени", "error": null, "latency_s": 0.09}
+{"id": "e022", "source": "Champions", "nllb_ru": "Чемпионы", "error": null, "latency_s": 0.06}
+{"id": "e052", "source": "TBD", "nllb_ru": "ТБД", "error": null, "latency_s": 0.06}
+{"id": "e053", "source": "Hanyang Private Use", "nllb_ru": "Частное использование Ханьян", "error": null, "latency_s": 0.11}
+{"id": "e056", "source": "[Data unknown/missing. You can help!]", "nllb_ru": "[Данные неизвестны/потеряются. Вы можете помочь!]", "error": null, "latency_s": 0.22}
+{"id": "e057", "source": "Modern Hot Records", "nllb_ru": "Современные горячие записи", "error": null, "latency_s": 0.13}
+{"id": "e058", "source": "Best Motion Picture", "nllb_ru": "Лучший фильм", "error": null, "latency_s": 0.11}
+{"id": "e071", "source": "Summer Nights", "nllb_ru": "Летние ночи", "error": null, "latency_s": 0.09}
+{"id": "e072", "source": "Club Play Singles", "nllb_ru": "Клубные игровые синглы", "error": null, "latency_s": 0.11}
+{"id": "e074", "source": "I Like It", "nllb_ru": "Мне нравится.", "error": null, "latency_s": 0.07}
+{"id": "e096", "source": "Pref. Aut.", "nllb_ru": "Преф. Авто.", "error": null, "latency_s": 0.08}
+{"id": "e110", "source": "Minimum to High", "nllb_ru": "Минимальный до высокий", "error": null, "latency_s": 0.09}
+{"id": "e121", "source": "F♯m, C♯m, E, E♭m", "nllb_ru": "Fm, Cm, E, Em", "error": null, "latency_s": 0.16}
+{"id": "e135", "source": "Brown/White", "nllb_ru": "Браун/Белый", "error": null, "latency_s": 0.11}
+{"id": "e141", "source": "Sportnet.hr", "nllb_ru": "Sportnet.hr", "error": null, "latency_s": 0.07}
+{"id": "e162", "source": "Rooftop/Outside Terrace", "nllb_ru": "Крыша/Внешняя терраса", "error": null, "latency_s": 0.14}
+{"id": "e166", "source": "Concertante", "nllb_ru": "Концертант", "error": null, "latency_s": 0.08}
+{"id": "e168", "source": "'Lock And Key'", "nllb_ru": "\"Замок и ключ\"", "error": null, "latency_s": 0.12}
+{"id": "e175", "source": "Ambassador Extraordinary and Plenipotentiary", "nllb_ru": "Чрезвычайный и Полномочный Посол", "error": null, "latency_s": 0.15}
+{"id": "e182", "source": "Nominated", "nllb_ru": "Номинация", "error": null, "latency_s": 0.08}
+{"id": "e193", "source": "Busy Doin' Nothin'", "nllb_ru": "\"Всё занято, ничего не делаю\"", "error": null, "latency_s": 0.14}
+{"id": "e200", "source": "Nursing Homes", "nllb_ru": "Дома престарелых", "error": null, "latency_s": 0.09}

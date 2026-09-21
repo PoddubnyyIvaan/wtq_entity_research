@@ -1,0 +1,140 @@
+[
+ {
+  "id": "e003",
+  "surface": "Not Free",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e006",
+  "surface": "Real-time",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e022",
+  "surface": "Champions",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e052",
+  "surface": "TBD",
+  "category": "COMMON_WORD",
+  "entity_type": "FALSE_POSITIVE"
+ },
+ {
+  "id": "e053",
+  "surface": "Hanyang Private Use",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e056",
+  "surface": "[Data unknown/missing. You can help!]",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e057",
+  "surface": "Modern Hot Records",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e058",
+  "surface": "Best Motion Picture",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e071",
+  "surface": "Summer Nights",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e072",
+  "surface": "Club Play Singles",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e074",
+  "surface": "I Like It",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e096",
+  "surface": "Pref. Aut.",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e110",
+  "surface": "Minimum to High",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e121",
+  "surface": "F♯m, C♯m, E, E♭m",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e135",
+  "surface": "Brown/White",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e141",
+  "surface": "Sportnet.hr",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e162",
+  "surface": "Rooftop/Outside Terrace",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e166",
+  "surface": "Concertante",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e168",
+  "surface": "'Lock And Key'",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e175",
+  "surface": "Ambassador Extraordinary and Plenipotentiary",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e182",
+  "surface": "Nominated",
+  "category": "COMMON_WORD",
+  "entity_type": "SHORT_AMBIGUOUS"
+ },
+ {
+  "id": "e193",
+  "surface": "Busy Doin' Nothin'",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ },
+ {
+  "id": "e200",
+  "surface": "Nursing Homes",
+  "category": "COMMON_WORD",
+  "entity_type": "MULTI_WORD"
+ }
+]

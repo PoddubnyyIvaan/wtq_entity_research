@@ -1,0 +1,1310 @@
+[
+ {
+  "id": "e013",
+  "dictionary": "wiktionary",
+  "surface": "Parent",
+  "candidates": [
+   "родитель",
+   "родительница",
+   "родитель",
+   "родительница",
+   "родитель",
+   "родительница",
+   "источник",
+   "причина"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e015",
+  "dictionary": "wiktionary",
+  "surface": "Leo",
+  "candidates": [
+   "лев",
+   "Лев",
+   "Лев",
+   "Лев",
+   "Леон",
+   "Лео"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "Лев",
+  "error": null
+ },
+ {
+  "id": "e020",
+  "dictionary": "wiktionary",
+  "surface": "Report",
+  "candidates": [
+   "репортаж",
+   "доклад",
+   "отчёт",
+   "сообщение",
+   "рапорт",
+   "сводка",
+   "репорт",
+   "являться",
+   "явиться",
+   "сообщать",
+   "сообщить",
+   "отчитываться",
+   "отчитаться",
+   "докладывать",
+   "доложить",
+   "отчитываться",
+   "отчитаться"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e025",
+  "dictionary": "wiktionary",
+  "surface": "Coral",
+  "candidates": [
+   "коралловый",
+   "коралл",
+   "коралловый риф",
+   "коралловый",
+   "коралл"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e028",
+  "dictionary": "wiktionary",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "недоступно",
+   "прочь",
+   "прочь",
+   "вон",
+   "долой",
+   "прочь",
+   "вон",
+   "долой"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e041",
+  "dictionary": "wiktionary",
+  "surface": "current",
+  "candidates": [
+   "нынешний",
+   "текущий",
+   "современный",
+   "текущий",
+   "поток",
+   "течение",
+   "ход",
+   "ток"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e043",
+  "dictionary": "wiktionary",
+  "surface": "Cup",
+  "candidates": [
+   "кубок",
+   "чашка",
+   "чаша",
+   "кубок",
+   "чашечка",
+   "кубок"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e069",
+  "dictionary": "wiktionary",
+  "surface": "Win",
+  "candidates": [
+   "выигрыш",
+   "победа",
+   "выигрывать",
+   "выиграть",
+   "побеждать",
+   "победить",
+   "побеждать",
+   "победить",
+   "побить",
+   "выигрывать",
+   "выиграть"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "выигрыш",
+  "error": null
+ },
+ {
+  "id": "e075",
+  "dictionary": "wiktionary",
+  "surface": "Finally",
+  "candidates": [
+   "окончательно",
+   "в конце концов",
+   "наконец"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "в конце концов",
+  "error": null
+ },
+ {
+  "id": "e090",
+  "dictionary": "wiktionary",
+  "surface": "Marathon",
+  "candidates": [
+   "марафон",
+   "марафон",
+   "Марафон"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e093",
+  "dictionary": "wiktionary",
+  "surface": "Friendly",
+  "candidates": [
+   "дружественный",
+   "дружеский",
+   "дружелюбный",
+   "приветливый",
+   "любезный",
+   "дружественный",
+   "товарищеский",
+   "дружелюбно",
+   "приветливо",
+   "любезно",
+   "дружественно"
+  ],
+  "qwen_answer": "5",
+  "qwen_pick_ru": "любезный",
+  "error": null
+ },
+ {
+  "id": "e106",
+  "dictionary": "wiktionary",
+  "surface": "Olympic Games",
+  "candidates": [
+   "Олимпийские игры",
+   "олимпиада"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "Олимпийские игры",
+  "error": null
+ },
+ {
+  "id": "e109",
+  "dictionary": "wiktionary",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "недоступно",
+   "прочь",
+   "прочь",
+   "вон",
+   "долой",
+   "прочь",
+   "вон",
+   "долой"
+  ],
+  "qwen_answer": "4",
+  "qwen_pick_ru": "прочь",
+  "error": null
+ },
+ {
+  "id": "e113",
+  "dictionary": "wiktionary",
+  "surface": "Run",
+  "candidates": [
+   "тираж",
+   "партия",
+   "бег",
+   "поток",
+   "ток",
+   "течение",
+   "бег",
+   "пробежка",
+   "бег",
+   "путь",
+   "маршрут",
+   "стрелка",
+   "перебирать",
+   "перебрать",
+   "бегать",
+   "побегать",
+   "бежать",
+   "побежать",
+   "работать",
+   "функционировать",
+   "баллотироваться",
+   "управлять",
+   "руководить",
+   "гнать",
+   "гонять",
+   "погонять",
+   "вести",
+   "водить",
+   "проводить",
+   "провести",
+   "выполнять",
+   "выполнить",
+   "простираться",
+   "тянуться",
+   "продолжаться",
+   "тянуться",
+   "проходить",
+   "бежать",
+   "убегать",
+   "убежать",
+   "течь",
+   "линять",
+   "полинять",
+   "расползаться",
+   "расползтись",
+   "работать",
+   "управлять",
+   "простирать",
+   "протягивать",
+   "проводить",
+   "провести",
+   "протягивать",
+   "протянуть",
+   "бегать",
+   "побегать",
+   "бежать",
+   "побежать",
+   "возить",
+   "везти"
+  ],
+  "qwen_answer": "3",
+  "qwen_pick_ru": "бег",
+  "error": null
+ },
+ {
+  "id": "e114",
+  "dictionary": "wiktionary",
+  "surface": "current",
+  "candidates": [
+   "нынешний",
+   "текущий",
+   "современный",
+   "текущий",
+   "поток",
+   "течение",
+   "ход",
+   "ток"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e124",
+  "dictionary": "wiktionary",
+  "surface": "Manchester",
+  "candidates": [
+   "манчестер",
+   "Манчестер"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "Манчестер",
+  "error": null
+ },
+ {
+  "id": "e126",
+  "dictionary": "wiktionary",
+  "surface": "Various",
+  "candidates": [
+   "разный",
+   "различный"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "разный",
+  "error": null
+ },
+ {
+  "id": "e131",
+  "dictionary": "wiktionary",
+  "surface": "N/A",
+  "candidates": [
+   "неприменимый",
+   "недоступный"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e132",
+  "dictionary": "wiktionary",
+  "surface": "N/A",
+  "candidates": [
+   "неприменимый",
+   "недоступный"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "неприменимый",
+  "error": null
+ },
+ {
+  "id": "e133",
+  "dictionary": "wiktionary",
+  "surface": "Marathon",
+  "candidates": [
+   "марафон",
+   "марафон",
+   "Марафон"
+  ],
+  "qwen_answer": "marafaon",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e136",
+  "dictionary": "wiktionary",
+  "surface": "Yes",
+  "candidates": [
+   "да",
+   "да",
+   "да",
+   "так",
+   "ещё как",
+   "наоборот",
+   "напротив"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "да",
+  "error": null
+ },
+ {
+  "id": "e138",
+  "dictionary": "wiktionary",
+  "surface": "Private",
+  "candidates": [
+   "частный",
+   "частный",
+   "закрытый",
+   "необщедоступный",
+   "частный",
+   "личный",
+   "приватный",
+   "рядовой",
+   "рядовой"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "частный",
+  "error": null
+ },
+ {
+  "id": "e144",
+  "dictionary": "wiktionary",
+  "surface": "link",
+  "candidates": [
+   "ссылка",
+   "гиперссылка",
+   "линк",
+   "звено",
+   "связь",
+   "связывать"
+  ],
+  "qwen_answer": "3",
+  "qwen_pick_ru": "линк",
+  "error": null
+ },
+ {
+  "id": "e157",
+  "dictionary": "wiktionary",
+  "surface": "Havoc",
+  "candidates": [
+   "опустошение",
+   "разрушение",
+   "беспорядок",
+   "хаос"
+  ],
+  "qwen_answer": "4",
+  "qwen_pick_ru": "хаос",
+  "error": null
+ },
+ {
+  "id": "e176",
+  "dictionary": "wiktionary",
+  "surface": "None",
+  "candidates": [
+   "никто",
+   "никакой"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e177",
+  "dictionary": "wiktionary",
+  "surface": "city",
+  "candidates": [
+   "город",
+   "град",
+   "Сити"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e184",
+  "dictionary": "wiktionary",
+  "surface": "n/a",
+  "candidates": [
+   "неприменимый",
+   "недоступный"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e185",
+  "dictionary": "wiktionary",
+  "surface": "N/A",
+  "candidates": [
+   "неприменимый",
+   "недоступный"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e190",
+  "dictionary": "wiktionary",
+  "surface": "Vault",
+  "candidates": [
+   "прыжок",
+   "хранилище",
+   "погреб",
+   "склеп",
+   "свод",
+   "арка",
+   "опорный прыжок",
+   "свод",
+   "перепрыгивать"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "хранилище",
+  "error": null
+ },
+ {
+  "id": "e194",
+  "dictionary": "wiktionary",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "недоступно",
+   "прочь",
+   "прочь",
+   "вон",
+   "долой",
+   "прочь",
+   "вон",
+   "долой"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e019",
+  "dictionary": "openrussian",
+  "surface": "Scattering",
+  "candidates": [
+   "россыпь",
+   "распыление",
+   "рассеивание"
+  ],
+  "qwen_answer": "3",
+  "qwen_pick_ru": "рассеивание",
+  "error": null
+ },
+ {
+  "id": "e020",
+  "dictionary": "openrussian",
+  "surface": "Report",
+  "candidates": [
+   "выстрел",
+   "доклад",
+   "отчёт",
+   "протокол",
+   "рапорт",
+   "донесение",
+   "сводка",
+   "корреспонденция",
+   "реляция",
+   "данные",
+   "рапорт",
+   "сообщить",
+   "явиться",
+   "сообщать",
+   "доносить",
+   "отчитываться",
+   "отрапортовать",
+   "рапортовать",
+   "отчитаться",
+   "отчётный"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e025",
+  "dictionary": "openrussian",
+  "surface": "Coral",
+  "candidates": [
+   "коралл",
+   "коралловый"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e028",
+  "dictionary": "openrussian",
+  "surface": "Away",
+  "candidates": [
+   "прочь",
+   "подальше"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e037",
+  "dictionary": "openrussian",
+  "surface": "@ Twins",
+  "candidates": [
+   "Близнецы",
+   "двойня",
+   "двойняшки"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "двойня",
+  "error": null
+ },
+ {
+  "id": "e038",
+  "dictionary": "openrussian",
+  "surface": "Cameo",
+  "candidates": [
+   "гемма",
+   "камея"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "камея",
+  "error": null
+ },
+ {
+  "id": "e041",
+  "dictionary": "openrussian",
+  "surface": "current",
+  "candidates": [
+   "течение",
+   "поток",
+   "ток",
+   "струя",
+   "текущий",
+   "ходячий",
+   "отчётный",
+   "общеупотребительный"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e043",
+  "dictionary": "openrussian",
+  "surface": "Cup",
+  "candidates": [
+   "чашка",
+   "чаша",
+   "стопка",
+   "чара",
+   "кубок",
+   "чарка",
+   "крюшон",
+   "кубковый"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e069",
+  "dictionary": "openrussian",
+  "surface": "Win",
+  "candidates": [
+   "победить",
+   "выиграть",
+   "завоевать",
+   "побеждать",
+   "выигрывать",
+   "завоёвывать",
+   "снискать",
+   "отвоёвывать",
+   "стяжать"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "выиграть",
+  "error": null
+ },
+ {
+  "id": "e075",
+  "dictionary": "openrussian",
+  "surface": "Finally",
+  "candidates": [
+   "наконец",
+   "окончательно",
+   "вчистую"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "наконец",
+  "error": null
+ },
+ {
+  "id": "e093",
+  "dictionary": "openrussian",
+  "surface": "Friendly",
+  "candidates": [
+   "дружеский",
+   "дружный",
+   "дружелюбный",
+   "приветливый",
+   "дружественный",
+   "товарищеский",
+   "приятельский",
+   "приветливо"
+  ],
+  "qwen_answer": "5",
+  "qwen_pick_ru": "дружественный",
+  "error": null
+ },
+ {
+  "id": "e109",
+  "dictionary": "openrussian",
+  "surface": "Away",
+  "candidates": [
+   "прочь",
+   "подальше"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "прочь",
+  "error": null
+ },
+ {
+  "id": "e113",
+  "dictionary": "openrussian",
+  "surface": "Run",
+  "candidates": [
+   "ход",
+   "бег",
+   "стая",
+   "спрос",
+   "заход",
+   "пробежка",
+   "пробег",
+   "рулада",
+   "рейс",
+   "ездка",
+   "бежать",
+   "провести",
+   "действовать",
+   "проводить",
+   "бегать",
+   "пробить",
+   "управлять",
+   "пробежать",
+   "наткнуться",
+   "сталкиваться",
+   "протекать",
+   "лить",
+   "пробегать",
+   "подействовать",
+   "воткнуть",
+   "вбежать",
+   "струиться",
+   "переливаться",
+   "гласить",
+   "орудовать",
+   "расплыться",
+   "натыкаться",
+   "расплываться",
+   "ворочать",
+   "нарваться",
+   "волочиться",
+   "напороться",
+   "растекаться",
+   "эксплуатировать",
+   "вбегать",
+   "наезжать",
+   "обежать",
+   "наскочить",
+   "погнаться",
+   "наплывать",
+   "втыкать",
+   "пролегать",
+   "линять",
+   "пробежаться",
+   "обегать",
+   "баллотироваться",
+   "растечься",
+   "нарываться",
+   "наскакивать",
+   "протечь",
+   "курсировать",
+   "подтекать",
+   "приударять",
+   "продёргивать",
+   "наплыть",
+   "подтечь",
+   "добегаться",
+   "приударить",
+   "пробегать",
+   "обегать"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "бег",
+  "error": null
+ },
+ {
+  "id": "e114",
+  "dictionary": "openrussian",
+  "surface": "current",
+  "candidates": [
+   "течение",
+   "поток",
+   "ток",
+   "струя",
+   "текущий",
+   "ходячий",
+   "отчётный",
+   "общеупотребительный"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e126",
+  "dictionary": "openrussian",
+  "surface": "Various",
+  "candidates": [
+   "разный",
+   "различный",
+   "разнообразный",
+   "всевозможный",
+   "разнохарактерный"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e138",
+  "dictionary": "openrussian",
+  "surface": "Private",
+  "candidates": [
+   "солдат",
+   "боец",
+   "личный",
+   "частный",
+   "рядовой",
+   "негласный",
+   "конфиденциальный",
+   "приватный",
+   "келейный"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e144",
+  "dictionary": "openrussian",
+  "surface": "link",
+  "candidates": [
+   "связь",
+   "ссылка",
+   "звено",
+   "ниточка",
+   "кулиса",
+   "серьга",
+   "сцеп"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "связь",
+  "error": null
+ },
+ {
+  "id": "e165",
+  "dictionary": "openrussian",
+  "surface": "Clay",
+  "candidates": [
+   "глина",
+   "глиняный"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "глина",
+  "error": null
+ },
+ {
+  "id": "e177",
+  "dictionary": "openrussian",
+  "surface": "city",
+  "candidates": [
+   "городской",
+   "общегородской"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e190",
+  "dictionary": "openrussian",
+  "surface": "Vault",
+  "candidates": [
+   "подвал",
+   "свод",
+   "погреб",
+   "склеп",
+   "перескочить",
+   "перескакивать",
+   "вольтижировать"
+  ],
+  "qwen_answer": "подвал",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e194",
+  "dictionary": "openrussian",
+  "surface": "Away",
+  "candidates": [
+   "прочь",
+   "подальше"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e009",
+  "dictionary": "statistical_full",
+  "surface": "Residential",
+  "candidates": [
+   "жилой",
+   "дом"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "жилой",
+  "error": null
+ },
+ {
+  "id": "e015",
+  "dictionary": "statistical_full",
+  "surface": "Leo",
+  "candidates": [
+   "лео",
+   "лев"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "лео",
+  "error": null
+ },
+ {
+  "id": "e020",
+  "dictionary": "statistical_full",
+  "surface": "Report",
+  "candidates": [
+   "доклад",
+   "отчёт",
+   "сообщить",
+   "сообщать",
+   "сообщение",
+   "сообщаться",
+   "отчётность",
+   "отчётный"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e025",
+  "dictionary": "statistical_full",
+  "surface": "Coral",
+  "candidates": [
+   "коралл",
+   "коралловый"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e028",
+  "dictionary": "statistical_full",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "далёкий",
+   "уйти",
+   "сразу",
+   "забрать",
+   "сбежать",
+   "отнять",
+   "вдали",
+   "убежать"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e041",
+  "dictionary": "statistical_full",
+  "surface": "current",
+  "candidates": [
+   "текущий",
+   "нынешний",
+   "ток",
+   "действовать",
+   "актуальный",
+   "современный",
+   "течение",
+   "существующий"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e043",
+  "dictionary": "statistical_full",
+  "surface": "Cup",
+  "candidates": [
+   "чашка",
+   "кубок",
+   "чемпионат",
+   "чаша",
+   "стакан",
+   "чашечка"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e061",
+  "dictionary": "statistical_full",
+  "surface": "Walton",
+  "candidates": [
+   "уолтон",
+   "бич"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e069",
+  "dictionary": "statistical_full",
+  "surface": "Win",
+  "candidates": [
+   "выиграть",
+   "победить",
+   "победа",
+   "выигрывать",
+   "выигрыш",
+   "побеждать",
+   "завоевать",
+   "одержать"
+  ],
+  "qwen_answer": "6",
+  "qwen_pick_ru": "побеждать",
+  "error": null
+ },
+ {
+  "id": "e075",
+  "dictionary": "statistical_full",
+  "surface": "Finally",
+  "candidates": [
+   "наконец",
+   "наконецтый",
+   "конец",
+   "окончательно",
+   "итог"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "наконец",
+  "error": null
+ },
+ {
+  "id": "e090",
+  "dictionary": "statistical_full",
+  "surface": "Marathon",
+  "candidates": [
+   "марафон",
+   "яркий"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e093",
+  "dictionary": "statistical_full",
+  "surface": "Friendly",
+  "candidates": [
+   "дружественный",
+   "дружелюбный",
+   "дружеский",
+   "экологически",
+   "дружный",
+   "доброжелательный",
+   "приветливый"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "дружественный",
+  "error": null
+ },
+ {
+  "id": "e109",
+  "dictionary": "statistical_full",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "далёкий",
+   "уйти",
+   "сразу",
+   "забрать",
+   "сбежать",
+   "отнять",
+   "вдали",
+   "убежать"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e113",
+  "dictionary": "statistical_full",
+  "surface": "Run",
+  "candidates": [
+   "бежать",
+   "работать",
+   "бегать",
+   "сбежать",
+   "убежать",
+   "управлять",
+   "убегать",
+   "запустить",
+   "побежать",
+   "бег"
+  ],
+  "qwen_answer": "2",
+  "qwen_pick_ru": "работать",
+  "error": null
+ },
+ {
+  "id": "e114",
+  "dictionary": "statistical_full",
+  "surface": "current",
+  "candidates": [
+   "текущий",
+   "нынешний",
+   "ток",
+   "действовать",
+   "актуальный",
+   "современный",
+   "течение",
+   "существующий"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e124",
+  "dictionary": "statistical_full",
+  "surface": "Manchester",
+  "candidates": [
+   "манчестер",
+   "юнайтед",
+   "сити"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e126",
+  "dictionary": "statistical_full",
+  "surface": "Various",
+  "candidates": [
+   "различный",
+   "разный",
+   "разнообразный"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e133",
+  "dictionary": "statistical_full",
+  "surface": "Marathon",
+  "candidates": [
+   "марафон",
+   "яркий"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e138",
+  "dictionary": "statistical_full",
+  "surface": "Private",
+  "candidates": [
+   "частный",
+   "частное",
+   "личный"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "частный",
+  "error": null
+ },
+ {
+  "id": "e144",
+  "dictionary": "statistical_full",
+  "surface": "link",
+  "candidates": [
+   "ссылка",
+   "связать",
+   "связь",
+   "звено",
+   "связанный",
+   "связывать",
+   "ссылаться"
+  ],
+  "qwen_answer": "6",
+  "qwen_pick_ru": "связывать",
+  "error": null
+ },
+ {
+  "id": "e165",
+  "dictionary": "statistical_full",
+  "surface": "Clay",
+  "candidates": [
+   "глина",
+   "глиняный",
+   "клэя",
+   "клей"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "глина",
+  "error": null
+ },
+ {
+  "id": "e167",
+  "dictionary": "statistical_full",
+  "surface": "petrol",
+  "candidates": [
+   "бензин",
+   "бензиновый",
+   "азс"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "бензин",
+  "error": null
+ },
+ {
+  "id": "e176",
+  "dictionary": "statistical_full",
+  "surface": "None",
+  "candidates": [
+   "один",
+   "никто",
+   "ничего",
+   "нет"
+  ],
+  "qwen_answer": null,
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e177",
+  "dictionary": "statistical_full",
+  "surface": "city",
+  "candidates": [
+   "город",
+   "астана",
+   "городской",
+   "ньюйорк"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ },
+ {
+  "id": "e190",
+  "dictionary": "statistical_full",
+  "surface": "Vault",
+  "candidates": [
+   "хранилище",
+   "свод"
+  ],
+  "qwen_answer": "1",
+  "qwen_pick_ru": "хранилище",
+  "error": null
+ },
+ {
+  "id": "e194",
+  "dictionary": "statistical_full",
+  "surface": "Away",
+  "candidates": [
+   "далеко",
+   "далёкий",
+   "уйти",
+   "сразу",
+   "забрать",
+   "сбежать",
+   "отнять",
+   "вдали",
+   "убежать"
+  ],
+  "qwen_answer": "NO_MATCH",
+  "qwen_pick_ru": null,
+  "error": null
+ }
+]

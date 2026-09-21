@@ -1,0 +1,147 @@
+{
+ "results": [
+  {
+   "test": "simple_translation",
+   "latency_s": 0,
+   "raw": "Нью-Йорк",
+   "contains_nyork": true
+  },
+  {
+   "test": "structured_json",
+   "parsed": true,
+   "raw": "{\n  \"translation\": \"Проваленная команда\",\n  \"entity_type\": \"Column\",\n  \"interpretation\": \"This column is used to indicate the losing team in a table related to football games.\"\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Smith",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "Smith",
+    "entity_type": "Person",
+    "interpretation": "The word 'Smith' is likely a surname or given name.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"Smith\",\n  \"entity_type\": \"Person\",\n  \"interpretation\": \"The word 'Smith' is likely a surname or given name.\",\n  \"needs_review\": false\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Smyth",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "Smyth",
+    "entity_type": "person",
+    "interpretation": "This appears to be a name, likely of a person named Smyth.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"Smyth\",\n  \"entity_type\": \"person\",\n  \"interpretation\": \"This appears to be a name, likely of a person named Smyth.\",\n  \"needs_review\": false\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Smith",
+   "ctx": "with context",
+   "parsed": {
+    "translation": "",
+    "entity_type": "none",
+    "interpretation": "The provided data does not contain any information about who scored a goal or when it was scored. The row contains player name, team, and year of an event (likely a sports match), but does not specify the scorer.",
+    "needs_review": false
+   },
+   "raw": "```json\n{\n  \"translation\": \"\",\n  \"entity_type\": \"none\",\n  \"interpretation\": \"The provided data does not contain any information about who scored a goal or when it was scored. The row contains player name, team, and year of an event (likely a sports match), but does not specify the scorer.\",\n  \"needs_review\": false\n}\n```"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Smyth",
+   "ctx": "with context",
+   "parsed": {
+    "translation": "",
+    "entity_type": "",
+    "interpretation": "The provided data does not contain information about who scored the first goal. It appears to be a record of Smyth playing for New York in 1998.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"\",\n  \"entity_type\": \"\",\n  \"interpretation\": \"The provided data does not contain information about who scored the first goal. It appears to be a record of Smyth playing for New York in 1998.\",\n  \"needs_review\": false\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Arsenal",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "Arsenal",
+    "entity_type": "Team/Crew",
+    "interpretation": "The provided input 'Arsenal' is a valid English word and appears to be the name of an English football club (soccer team) based in London, England.",
+    "needs_review": "false"
+   },
+   "raw": "{\n  \"translation\": \"Arsenal\",\n  \"entity_type\": \"Team/Crew\",\n  \"interpretation\": \"The provided input 'Arsenal' is a valid English word and appears to be the name of an English football club (soccer team) based in London, England.\",\n  \"needs_review\": \"false\"\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Arsenal",
+   "ctx": "with context",
+   "parsed": {
+    "translation": "哪支球队赢得了比赛？",
+    "entity_type": "None",
+    "interpretation": "阿森纳赢得的比赛。",
+    "needs_review": "False"
+   },
+   "raw": "{\n  \"translation\": \"哪支球队赢得了比赛？\",\n  \"entity_type\": \"None\",\n  \"interpretation\": \"阿森纳赢得的比赛。\",\n  \"needs_review\": \"False\"\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Washington",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "WASHINGTON",
+    "entity_type": "Location",
+    "interpretation": "Washington represents the name of a city and state in the United States.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"WASHINGTON\",\n  \"entity_type\": \"Location\",\n  \"interpretation\": \"Washington represents the name of a city and state in the United States.\",\n  \"needs_review\": false\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Washington",
+   "ctx": "with context",
+   "parsed": {
+    "translation": "哪里出生了那位演员？",
+    "entity_type": "None",
+    "interpretation": "那位演员出生于华盛顿。",
+    "needs_review": "false"
+   },
+   "raw": "{\n  \"translation\": \"哪里出生了那位演员？\",\n  \"entity_type\": \"None\",\n  \"interpretation\": \"那位演员出生于华盛顿。\",\n  \"needs_review\": \"false\"\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Giants",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "巨人",
+    "entity_type": "ChineseWord",
+    "interpretation": "This is the Chinese character '巨', which can be pronounced as 'jù' or 'jū'. It often represents a giant or large entity in Chinese culture.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"巨人\",\n  \"entity_type\": \"ChineseWord\",\n  \"interpretation\": \"This is the Chinese character '巨', which can be pronounced as 'jù' or 'jū'. It often represents a giant or large entity in Chinese culture.\",\n  \"needs_review\": false\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Red Box",
+   "ctx": "cell only",
+   "parsed": {
+    "translation": "Red Box",
+    "entity_type": "phrase",
+    "interpretation": "The phrase 'Red Box' is a simple description or title of an object.",
+    "needs_review": "false"
+   },
+   "raw": "{\n  \"translation\": \"Red Box\",\n  \"entity_type\": \"phrase\",\n  \"interpretation\": \"The phrase 'Red Box' is a simple description or title of an object.\",\n  \"needs_review\": \"false\"\n}"
+  },
+  {
+   "test": "context_sensitivity",
+   "cell": "Red Box",
+   "ctx": "with context",
+   "parsed": {
+    "translation": "Which band released this song?",
+    "entity_type": "question",
+    "interpretation": "The band that released the song 'Lean On Me' from Red Box in 1985 is needed to be identified.",
+    "needs_review": false
+   },
+   "raw": "{\n  \"translation\": \"Which band released this song?\",\n  \"entity_type\": \"question\",\n  \"interpretation\": \"The band that released the song 'Lean On Me' from Red Box in 1985 is needed to be identified.\",\n  \"needs_review\": false\n}"
+  }
+ ]
+}

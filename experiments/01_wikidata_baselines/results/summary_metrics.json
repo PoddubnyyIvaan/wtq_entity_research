@@ -1,0 +1,68 @@
+{
+ "exp0_copy": {
+  "identity_preserved": 1.0,
+  "ru_form_provided": 0.0
+ },
+ "exp2_wikidata": {
+  "candidate_coverage": 0.975,
+  "ru_form_coverage": 0.56,
+  "ru_source_dist": {
+   "ru_sitelink": 84,
+   "ru_label": 19,
+   "ru_alias": 4,
+   "latin": 5
+  },
+  "flags": {
+   "no_candidates": 5,
+   "multiple_plausible_qids": 93,
+   "unknown": 0
+  }
+ },
+ "exp3_sources": {
+  "langlinks_vs_sitelink_agreement": 100,
+  "label_cyrillic": 86,
+  "sitelink_cyrillic": 54,
+  "alias_only_extra": 0,
+  "langlinks_only": 13
+ },
+ "exp4_translit": {
+  "reference_subset_n": 22,
+  "raw_agreement": 0.045,
+  "with_dict_on_mandatory_cases": "New York/London/George/Smith/Smyth/Arsenal/Washington OK; Smith and Smyth both -> Смит (collision)"
+ },
+ "exp5_jrcnames": {
+  "data_available": true,
+  "url": "https://wt-public.emm4u.eu/data/entities.gzip",
+  "variants_total": 1445012,
+  "cyrillic_variants": 80668,
+  "types": "persons+orgs only",
+  "locations": "absent"
+ },
+ "exp6_qc": {
+  "roundtrip_exact_matches_of_ru_vs_source": "6/112",
+  "lex_match_en_label_vs_source": 0.577,
+  "identity_verified_rate": 0.348,
+  "reverse_mismatch": 6,
+  "tm_inconsistencies": 0,
+  "llm_judge": "NOT RUN no credentials"
+ },
+ "exp6b_status": {
+  "VERIFIED": 33,
+  "ACCEPTABLE_WITHOUT_ENTITY_ID": 14,
+  "AMBIGUOUS": 66,
+  "SUSPICIOUS": 36,
+  "UNRESOLVED": 36,
+  "NA_ENTITY_QC": 15,
+  "manual_review_rate": 0.51,
+  "gold_n": 40,
+  "rule_human_agreement_strict": 30,
+  "partial": 4,
+  "wrong": 6
+ },
+ "sampling": {
+  "seed": 42,
+  "n": 200,
+  "dev": 20,
+  "eval": 180
+ }
+}

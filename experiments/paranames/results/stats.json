@@ -1,0 +1,13 @@
+{
+ "n": 200,
+ "match_type": {
+  "none": 151,
+  "single": 31,
+  "multiple": 18
+ },
+ "decision": {
+  "NO_MATCH": 151,
+  "ACCEPT": 31,
+  "REVIEW": 18
+ }
+}

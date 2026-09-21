@@ -1,0 +1,234 @@
+{
+ "e001": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "unicode name; fine"
+ },
+ "e002": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "band -> box"
+ },
+ "e004": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "студентка gender shift"
+ },
+ "e005": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Компания моды loses magazine; ignored better candidate"
+ },
+ "e007": {
+  "harmful": false,
+  "semantic_ok": null,
+  "needs_review": false,
+  "note": "NO_CANDIDATE honest (candidate was wrong GAA/NFL)"
+ },
+ "e014": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "typo Коопер vs Купер"
+ },
+ "e026": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "garbled surname Исламуддин Сиддик (candidate was better)"
+ },
+ "e029": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "Аллсвенскан better than descriptive candidate"
+ },
+ "e030": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "typo Мэй/Мей acceptable"
+ },
+ "e033": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "garbled Йinchuan; candidate Иньчуань was correct"
+ },
+ "e034": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Гиганты myth, harmful; kept @"
+ },
+ "e042": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "typo Джери"
+ },
+ "e046": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "Дан vs Дэн"
+ },
+ "e056": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "template translated"
+ },
+ "e065": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "code-ish"
+ },
+ "e067": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "История изменений - good meaning"
+ },
+ "e068": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "direction kept"
+ },
+ "e070": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "empty output"
+ },
+ "e073": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "copy; rejected bad candidate - good"
+ },
+ "e076": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "empty output"
+ },
+ "e082": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e087": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Биллс Бффало garbled; candidate was correct"
+ },
+ "e095": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "ГмбХ transliteration partial"
+ },
+ "e101": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e103": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "added Команда - acceptable"
+ },
+ "e106": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e114": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "current = до настоящего времени"
+ },
+ "e115": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "position: левый крайний"
+ },
+ "e119": {
+  "harmful": false,
+  "semantic_ok": null,
+  "needs_review": false,
+  "note": "NO_CANDIDATE honest"
+ },
+ "e121": {
+  "harmful": false,
+  "semantic_ok": null,
+  "needs_review": false,
+  "note": "NO_CANDIDATE; WD candidate was junk"
+ },
+ "e122": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "kept as-is"
+ },
+ "e129": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e131": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e140": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "title translation debatable"
+ },
+ "e158": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e169": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e180": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e181": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "typo"
+ },
+ "e182": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "gender"
+ },
+ "e197": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "translit ok"
+ }
+}

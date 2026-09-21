@@ -1,0 +1,11 @@
+{
+ "model": "facebook/nllb-200-distilled-600M",
+ "device": "cuda fp16, beams=4",
+ "n": 23,
+ "load_s": 167.3,
+ "latency_mean_s": 0.13,
+ "latency_median_s": 0.11,
+ "latency_p95_s": 0.22,
+ "total_runtime_s": 3.0,
+ "model_revision_note": "revision recorded in DATASET_INFO.md"
+}

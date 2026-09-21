@@ -1,0 +1,42 @@
+{
+ "n": 800,
+ "model": "qwen2.5:3b",
+ "prompt": "prompt_v2",
+ "temperature": 0.0,
+ "parse_success": 0.9775,
+ "http_errors": 0,
+ "latency_mean_s": 0.83,
+ "latency_median_s": 0.81,
+ "latency_p95_s": 1.02,
+ "total_runtime_s": 660.1,
+ "is_entity_stable_across_modes": 158,
+ "entity_type_stable_across_modes": 137,
+ "translation_differs_across_modes": 112,
+ "self_reported_needs_review": 0,
+ "entity_share_by_mode": {
+  "A": 0.525,
+  "B": 0.52,
+  "C": 0.555,
+  "D": 0.55
+ },
+ "parse_failures": [
+  "e028/A",
+  "e028/B",
+  "e028/C",
+  "e028/D",
+  "e107/B",
+  "e109/A",
+  "e109/B",
+  "e109/C",
+  "e109/D",
+  "e179/A",
+  "e179/B",
+  "e179/C",
+  "e179/D",
+  "e180/B",
+  "e194/A",
+  "e194/B",
+  "e194/C",
+  "e194/D"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "n_qid_linked": 195,
+ "coverage": {
+  "wiki_langlinks_ru": 0.4358974358974359,
+  "wd_ru_sitelink": 0.4358974358974359,
+  "wd_ru_label": 0.5794871794871795
+ },
+ "alias_coverage": 0.31794871794871793,
+ "agreement": {
+  "langlinks_vs_sitelink": 1.0,
+  "langlinks_vs_label": 0.6
+ },
+ "class_dist_per_source": {
+  "langlinks": {
+   "cyrillic_clean": 53,
+   "latin": 14,
+   "disambig_style": 18,
+   "missing": 110
+  },
+  "sitelink": {
+   "cyrillic_clean": 54,
+   "latin": 14,
+   "disambig_style": 17,
+   "missing": 110
+  },
+  "label": {
+   "cyrillic_clean": 86,
+   "latin": 27,
+   "disambig_style": 0,
+   "missing": 82
+  },
+  "alias": {
+   "cyrillic_clean": 41,
+   "latin": 21,
+   "disambig_style": 0,
+   "missing": 133
+  }
+ },
+ "sitelink_better_than_label": 0,
+ "alias_needed": 0,
+ "langlinks_only": 13
+}

@@ -1,0 +1,68 @@
+HF_HOME: /home/aldar/github/wtq-translator/wtq_entity_research/experiments/stage5_specialized/.cache/hf
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights:  81%|████████▏ | 140/172 [00:00<00:00, 1399.63it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 1461.30it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+{'loss': '0.431', 'grad_norm': '0.5273', 'learning_rate': '0.0009734', 'epoch': '0.08'}
+{'loss': '0.2357', 'grad_norm': '0.4922', 'learning_rate': '0.0009467', 'epoch': '0.16'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.17it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.17it/s]
+{'loss': '0.2123', 'grad_norm': '0.6289', 'learning_rate': '0.0009201', 'epoch': '0.24'}
+{'loss': '0.1986', 'grad_norm': '0.3965', 'learning_rate': '0.0008934', 'epoch': '0.32'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.24it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.24it/s]
+{'loss': '0.1885', 'grad_norm': '0.6914', 'learning_rate': '0.0008667', 'epoch': '0.4'}
+{'loss': '0.1775', 'grad_norm': '0.543', 'learning_rate': '0.0008401', 'epoch': '0.48'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.44it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.44it/s]
+{'loss': '0.1757', 'grad_norm': '0.3945', 'learning_rate': '0.0008134', 'epoch': '0.56'}
+{'loss': '0.1674', 'grad_norm': '0.2812', 'learning_rate': '0.0007867', 'epoch': '0.64'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.45it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.45it/s]
+{'loss': '0.1661', 'grad_norm': '0.4453', 'learning_rate': '0.0007601', 'epoch': '0.72'}
+{'loss': '0.1657', 'grad_norm': '0.4805', 'learning_rate': '0.0007334', 'epoch': '0.8'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.27it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.27it/s]
+{'loss': '0.1579', 'grad_norm': '0.4941', 'learning_rate': '0.0007067', 'epoch': '0.88'}
+{'loss': '0.1567', 'grad_norm': '0.3359', 'learning_rate': '0.0006801', 'epoch': '0.96'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.53it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.53it/s]
+{'eval_loss': '0.1328', 'eval_runtime': '6.553', 'eval_samples_per_second': '457.8', 'eval_steps_per_second': '14.34', 'epoch': '1'}
+{'loss': '0.1487', 'grad_norm': '0.3262', 'learning_rate': '0.0006534', 'epoch': '1.04'}
+{'loss': '0.1456', 'grad_norm': '0.4141', 'learning_rate': '0.0006267', 'epoch': '1.12'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.59it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.59it/s]
+{'loss': '0.1483', 'grad_norm': '0.3262', 'learning_rate': '0.0006001', 'epoch': '1.2'}
+{'loss': '0.1458', 'grad_norm': '0.2812', 'learning_rate': '0.0005734', 'epoch': '1.28'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]
+{'loss': '0.1418', 'grad_norm': '0.2354', 'learning_rate': '0.0005467', 'epoch': '1.36'}
+{'loss': '0.1424', 'grad_norm': '0.3398', 'learning_rate': '0.0005201', 'epoch': '1.44'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.32it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.32it/s]
+{'loss': '0.1417', 'grad_norm': '0.2949', 'learning_rate': '0.0004934', 'epoch': '1.52'}
+{'loss': '0.1417', 'grad_norm': '0.5156', 'learning_rate': '0.0004667', 'epoch': '1.6'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.27it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.27it/s]
+{'loss': '0.1402', 'grad_norm': '0.3242', 'learning_rate': '0.0004401', 'epoch': '1.68'}
+{'loss': '0.1395', 'grad_norm': '0.3926', 'learning_rate': '0.0004134', 'epoch': '1.76'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.37it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.37it/s]
+{'loss': '0.1394', 'grad_norm': '0.3184', 'learning_rate': '0.0003867', 'epoch': '1.84'}
+{'loss': '0.1409', 'grad_norm': '0.5234', 'learning_rate': '0.0003601', 'epoch': '1.92'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.60it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.60it/s]
+{'loss': '0.1401', 'grad_norm': '0.2676', 'learning_rate': '0.0003334', 'epoch': '2'}
+{'eval_loss': '0.1268', 'eval_runtime': '7.406', 'eval_samples_per_second': '405.1', 'eval_steps_per_second': '12.69', 'epoch': '2'}
+{'loss': '0.1337', 'grad_norm': '0.2852', 'learning_rate': '0.0003067', 'epoch': '2.08'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.33it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.33it/s]
+{'loss': '0.1339', 'grad_norm': '0.3555', 'learning_rate': '0.0002801', 'epoch': '2.16'}
+{'loss': '0.1378', 'grad_norm': '0.3809', 'learning_rate': '0.0002534', 'epoch': '2.24'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.21it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.21it/s]
+{'loss': '0.1332', 'grad_norm': '0.3496', 'learning_rate': '0.0002267', 'epoch': '2.32'}
+{'loss': '0.1366', 'grad_norm': '0.3555', 'learning_rate': '0.0002001', 'epoch': '2.4'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.37it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.37it/s]
+{'loss': '0.1349', 'grad_norm': '0.3164', 'learning_rate': '0.0001734', 'epoch': '2.48'}
+{'loss': '0.1328', 'grad_norm': '0.291', 'learning_rate': '0.0001467', 'epoch': '2.56'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.54it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.54it/s]
+{'loss': '0.135', 'grad_norm': '0.4512', 'learning_rate': '0.0001201', 'epoch': '2.64'}
+{'loss': '0.1341', 'grad_norm': '0.4258', 'learning_rate': '9.339e-05', 'epoch': '2.72'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.62it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.62it/s]
+{'loss': '0.1338', 'grad_norm': '0.5312', 'learning_rate': '6.672e-05', 'epoch': '2.8'}
+{'loss': '0.1342', 'grad_norm': '0.4121', 'learning_rate': '4.005e-05', 'epoch': '2.88'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.51it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.51it/s]
+{'loss': '0.1325', 'grad_norm': '0.3242', 'learning_rate': '1.339e-05', 'epoch': '2.96'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.42it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.42it/s]
+{'eval_loss': '0.1265', 'eval_runtime': '6.878', 'eval_samples_per_second': '436.2', 'eval_steps_per_second': '13.67', 'epoch': '3'}
+{'train_runtime': '5568', 'train_samples_per_second': '107.8', 'train_steps_per_second': '3.368', 'train_loss': '0.1592', 'epoch': '3'}
+train done in 5568.1s, peak VRAM 2751 MiB
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.20it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.20it/s]
+saved model + meta

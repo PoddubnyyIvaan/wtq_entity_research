@@ -1,0 +1,12 @@
+{
+ "n": 80,
+ "model": "qwen2.5:3b",
+ "prompt": "prompt_v2",
+ "temperature": 0.0,
+ "parse_success": 1.0,
+ "http_errors": 0,
+ "latency_mean_s": 0.76,
+ "latency_median_s": 0.74,
+ "latency_p95_s": 1.05,
+ "total_runtime_s": 61.2
+}

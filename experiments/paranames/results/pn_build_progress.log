@@ -1,0 +1,40 @@
+progress 5000000 rows, 3 s
+progress 10000000 rows, 7 s
+progress 15000000 rows, 10 s
+progress 20000000 rows, 14 s
+progress 25000000 rows, 17 s
+progress 30000000 rows, 21 s
+progress 35000000 rows, 25 s
+progress 40000000 rows, 29 s
+progress 45000000 rows, 33 s
+progress 50000000 rows, 36 s
+progress 55000000 rows, 40 s
+progress 60000000 rows, 43 s
+progress 65000000 rows, 47 s
+progress 70000000 rows, 50 s
+progress 75000000 rows, 54 s
+progress 80000000 rows, 57 s
+progress 85000000 rows, 61 s
+progress 90000000 rows, 64 s
+progress 95000000 rows, 68 s
+progress 100000000 rows, 72 s
+progress 105000000 rows, 75 s
+progress 110000000 rows, 79 s
+progress 115000000 rows, 82 s
+progress 120000000 rows, 86 s
+progress 125000000 rows, 89 s
+progress 130000000 rows, 93 s
+progress 135000000 rows, 96 s
+progress 140000000 rows, 100 s
+{
+ "total_records": 140140300,
+ "en_rows": 17154540,
+ "ru_rows": 1534139,
+ "distinct_en_keys_with_ru": 1260283,
+ "type_distribution": {
+  "LOC": 29689224,
+  "ORG": 16719203,
+  "PER": 93731873
+ },
+ "elapsed_s": 104.7
+}

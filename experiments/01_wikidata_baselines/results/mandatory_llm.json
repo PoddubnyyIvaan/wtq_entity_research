@@ -1,0 +1,182 @@
+[
+ {
+  "case": {
+   "cell": "Smith",
+   "column": "not available",
+   "row": "not available",
+   "question": "not available",
+   "title": "not available",
+   "note": "cell-only"
+  },
+  "llm": {
+   "source": "Smith",
+   "translation": "Смит",
+   "is_entity": true,
+   "entity_type": "PERSON",
+   "interpretation": "Персональное имя человека",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "Smyth",
+   "column": "not available",
+   "row": "not available",
+   "question": "not available",
+   "title": "not available",
+   "note": "cell-only (collision)"
+  },
+  "llm": {
+   "source": "Smyth",
+   "translation": "Смит",
+   "is_entity": true,
+   "entity_type": "PERSON",
+   "interpretation": "Персонаж из английского текста",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "Smith",
+   "column": "Player",
+   "row": "Smith | New York | 1998",
+   "question": "who scored most points?",
+   "title": "Team roster",
+   "note": "row+col"
+  },
+  "llm": {
+   "source": "Smith",
+   "translation": "Смит",
+   "is_entity": true,
+   "entity_type": "PERSON",
+   "interpretation": "Персонаж из таблицы игроков",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "Smyth",
+   "column": "Player",
+   "row": "Smyth | New York | 1998",
+   "question": "who scored most points?",
+   "title": "Team roster",
+   "note": "row+col (collision)"
+  },
+  "llm": {
+   "source": "Smyth",
+   "translation": "Смит",
+   "is_entity": true,
+   "entity_type": "PERSON",
+   "interpretation": "Named entity (person) from the row header",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "New York",
+   "column": "City",
+   "row": "not available",
+   "question": "in what city did piotr's last 1st place finish occur?",
+   "title": "Planning",
+   "note": "traditional"
+  },
+  "llm": {
+   "source": "New York",
+   "translation": "Нью-Йорк",
+   "is_entity": true,
+   "entity_type": "LOCATION",
+   "interpretation": "City name in the table",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "London",
+   "column": "City",
+   "row": "not available",
+   "question": "where did the banquet take place?",
+   "title": "not available",
+   "note": "traditional"
+  },
+  "llm": {
+   "source": "Лондон",
+   "translation": "Лондон",
+   "is_entity": true,
+   "entity_type": "LOCATION",
+   "interpretation": "Named entity (city name)",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "George",
+   "column": "First name",
+   "row": "George | Harrison | 1943",
+   "question": "where was the singer born?",
+   "title": "The Beatles",
+   "note": "first name"
+  },
+  "llm": {
+   "source": "George",
+   "translation": "Гейри",
+   "is_entity": true,
+   "entity_type": "PERSON",
+   "interpretation": "Персонаж из таблицы The Beatles",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "Arsenal",
+   "column": "Club",
+   "row": "Arsenal | London | 2004",
+   "question": "which club won the premier league?",
+   "title": "Premier League champions",
+   "note": "club"
+  },
+  "llm": {
+   "source": "Arsenal",
+   "translation": "Арсенал",
+   "is_entity": true,
+   "entity_type": "ORGANIZATION",
+   "interpretation": "Translation of the club name to Russian",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ },
+ {
+  "case": {
+   "cell": "Washington",
+   "column": "Birthplace",
+   "row": "Denzel | Washington | 1954",
+   "question": "where was the actor born?",
+   "title": "Filmography",
+   "note": "person surname-as-place"
+  },
+  "llm": {
+   "source": "Washington",
+   "translation": "Вашингтон",
+   "is_entity": true,
+   "entity_type": "LOCATION",
+   "interpretation": "Birthplace of the actor mentioned in the row above",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  "error": null
+ }
+]

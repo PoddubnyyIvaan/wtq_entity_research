@@ -1,0 +1,18 @@
+{
+ "decision_rule_status_distribution": {
+  "SUSPICIOUS": 36,
+  "AMBIGUOUS": 66,
+  "ACCEPTABLE_WITHOUT_ENTITY_ID": 14,
+  "UNRESOLVED": 36,
+  "VERIFIED": 33,
+  "NA_ENTITY_QC": 15
+ },
+ "note": "LLM-judge-based ACCEPT branch not simulated (no LLM access); manual-review rate is the share not VERIFIED/ACCEPTABLE",
+ "manual_review_rate": 0.51,
+ "unresolved_rate": 0.18,
+ "verified_or_acceptable_rate": 0.235,
+ "gold_checked": 40,
+ "rule_human_agreement_strict": 30,
+ "rule_human_agreement_partial": 4,
+ "rule_human_agreement_wrong": 6
+}

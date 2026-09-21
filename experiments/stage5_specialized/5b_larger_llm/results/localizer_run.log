@@ -1,0 +1,21 @@
+qwen2.5:7b localizer 25/200 elapsed=34s
+qwen2.5:7b localizer 50/200 elapsed=60s
+qwen2.5:7b localizer 75/200 elapsed=90s
+qwen2.5:7b localizer 100/200 elapsed=118s
+qwen2.5:7b localizer 125/200 elapsed=145s
+qwen2.5:7b localizer 150/200 elapsed=170s
+qwen2.5:7b localizer 175/200 elapsed=199s
+qwen2.5:7b localizer 200/200 elapsed=226s
+{
+ "model": "qwen2.5:7b",
+ "n": 200,
+ "parse_success": 0.7,
+ "no_candidate_rate": 0.05,
+ "latency_mean_s": 1.13,
+ "latency_median_s": 1.04,
+ "latency_p95_s": 1.44,
+ "total_runtime_s": 227.0,
+ "temperature": 0.0,
+ "max_tokens": 200,
+ "gpu_check": "ollama ps: size_vram == model size (full GPU offload), see stage5 report"
+}

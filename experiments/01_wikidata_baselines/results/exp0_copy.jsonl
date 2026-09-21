@@ -1,0 +1,200 @@
+{"example_id": "e001", "candidate_type": "UNKNOWN", "source": "DIGIT FIVE", "translation": "DIGIT FIVE", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e002", "candidate_type": "ORGANIZATION", "source": "Red Box", "translation": "Red Box", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e003", "candidate_type": "MULTI_WORD", "source": "Not Free", "translation": "Not Free", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e004", "candidate_type": "ORGANIZATION", "source": "Student/Model", "translation": "Student/Model", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e005", "candidate_type": "LOCATION", "source": "Fashion Magazine", "translation": "Fashion Magazine", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e006", "candidate_type": "SHORT_AMBIGUOUS", "source": "Real-time", "translation": "Real-time", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e007", "candidate_type": "EVENT_WORK", "source": "National Football League Round 6", "translation": "National Football League Round 6", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e008", "candidate_type": "UNKNOWN", "source": "lethal injection", "translation": "lethal injection", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e009", "candidate_type": "LOCATION", "source": "Residential", "translation": "Residential", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e010", "candidate_type": "SPORTS_TEAM", "source": "Team Rahal", "translation": "Team Rahal", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e011", "candidate_type": "SPORTS_TEAM", "source": "KV Racing Technology", "translation": "KV Racing Technology", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e012", "candidate_type": "EVENT_WORK", "source": "World Indoor Championships", "translation": "World Indoor Championships", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e013", "candidate_type": "SURNAME", "source": "Parent", "translation": "Parent", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e014", "candidate_type": "SURNAME", "source": "Cooper-Maserati", "translation": "Cooper-Maserati", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e015", "candidate_type": "LOCATION", "source": "Leo", "translation": "Leo", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e016", "candidate_type": "SPORTS_TEAM", "source": "Husqvarna", "translation": "Husqvarna", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e017", "candidate_type": "EVENT_WORK", "source": "Horsemen", "translation": "Horsemen", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e018", "candidate_type": "EVENT_WORK", "source": "HXD3B0001-HXD3B0500", "translation": "HXD3B0001-HXD3B0500", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e019", "candidate_type": "SURNAME", "source": "Scattering", "translation": "Scattering", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e020", "candidate_type": "SHORT_AMBIGUOUS", "source": "Report", "translation": "Report", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e021", "candidate_type": "MULTI_WORD", "source": "+ 3 Laps", "translation": "+ 3 Laps", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e022", "candidate_type": "SHORT_AMBIGUOUS", "source": "Champions", "translation": "Champions", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e023", "candidate_type": "PERSON", "source": "Hon Sol Rosevear", "translation": "Hon Sol Rosevear", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e024", "candidate_type": "SHORT_AMBIGUOUS", "source": "Avalon", "translation": "Avalon", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e025", "candidate_type": "SURNAME", "source": "Coral", "translation": "Coral", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e026", "candidate_type": "PERSON", "source": "Islahuddin Siddique", "translation": "Islahuddin Siddique", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e027", "candidate_type": "ORGANIZATION", "source": "Game Boy Advance", "translation": "Game Boy Advance", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e028", "candidate_type": "SHORT_AMBIGUOUS", "source": "Away", "translation": "Away", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e029", "candidate_type": "EVENT_WORK", "source": "Allsvenskan", "translation": "Allsvenskan", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e030", "candidate_type": "SPORTS_TEAM", "source": "Toronto Maple Leafs", "translation": "Toronto Maple Leafs", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e031", "candidate_type": "SPORTS_TEAM", "source": "Ware Racing Enterprises", "translation": "Ware Racing Enterprises", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e032", "candidate_type": "ORGANIZATION", "source": "LFPO", "translation": "LFPO", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e033", "candidate_type": "LOCATION", "source": "Yinchuan", "translation": "Yinchuan", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e034", "candidate_type": "SPORTS_TEAM", "source": "@ Giants", "translation": "@ Giants", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e035", "candidate_type": "PERSON", "source": "Sharp, Marshall", "translation": "Sharp, Marshall", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e036", "candidate_type": "LOCATION", "source": "Sandhill", "translation": "Sandhill", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e037", "candidate_type": "UNKNOWN", "source": "@ Twins", "translation": "@ Twins", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e038", "candidate_type": "SURNAME", "source": "Cameo", "translation": "Cameo", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e039", "candidate_type": "FALSE_POSITIVE", "source": "6th", "translation": "6th", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e040", "candidate_type": "PERSON", "source": "Neil Riser", "translation": "Neil Riser", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e041", "candidate_type": "FALSE_POSITIVE", "source": "current", "translation": "current", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e042", "candidate_type": "PERSON", "source": "Jerry Bailey", "translation": "Jerry Bailey", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e043", "candidate_type": "EVENT_WORK", "source": "Cup", "translation": "Cup", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e044", "candidate_type": "SURNAME", "source": "Luftwaffe", "translation": "Luftwaffe", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e045", "candidate_type": "EVENT_WORK", "source": "Toyota Cup", "translation": "Toyota Cup", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e046", "candidate_type": "PERSON", "source": "Dan Severn", "translation": "Dan Severn", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e047", "candidate_type": "PERSON", "source": "Joe Hennessy", "translation": "Joe Hennessy", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e048", "candidate_type": "SURNAME", "source": "Heer", "translation": "Heer", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e049", "candidate_type": "LOCATION", "source": "#2 NC State", "translation": "#2 NC State", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e050", "candidate_type": "ORGANIZATION", "source": "LFGK", "translation": "LFGK", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e051", "candidate_type": "EVENT_WORK", "source": "Come in From the Rain", "translation": "Come in From the Rain", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e052", "candidate_type": "FALSE_POSITIVE", "source": "TBD", "translation": "TBD", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e053", "candidate_type": "MULTI_WORD", "source": "Hanyang Private Use", "translation": "Hanyang Private Use", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e054", "candidate_type": "ORGANIZATION", "source": "NRL", "translation": "NRL", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e055", "candidate_type": "PERSON", "source": "Besnik Shanaj (34.48 %)", "translation": "Besnik Shanaj (34.48 %)", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e056", "candidate_type": "MULTI_WORD", "source": "[Data unknown/missing. You can help!]", "translation": "[Data unknown/missing. You can help!]", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e057", "candidate_type": "MULTI_WORD", "source": "Modern Hot Records", "translation": "Modern Hot Records", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e058", "candidate_type": "MULTI_WORD", "source": "Best Motion Picture", "translation": "Best Motion Picture", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e059", "candidate_type": "PERSON", "source": "Oeste Potiguar", "translation": "Oeste Potiguar", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e060", "candidate_type": "EVENT_WORK", "source": "National Football League Round 4", "translation": "National Football League Round 4", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e061", "candidate_type": "LOCATION", "source": "Walton", "translation": "Walton", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e062", "candidate_type": "LOCATION", "source": "Kirkkonummi", "translation": "Kirkkonummi", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e063", "candidate_type": "EVENT_WORK", "source": "World Championships", "translation": "World Championships", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e064", "candidate_type": "LOCATION", "source": "Queensland Government Railways", "translation": "Queensland Government Railways", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e065", "candidate_type": "UNKNOWN", "source": "7ZL", "translation": "7ZL", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e066", "candidate_type": "UNKNOWN", "source": "19°56′34″S 146°14′21″E﻿ / ﻿19.94278°S 146.23917°E", "translation": "19°56′34″S 146°14′21″E﻿ / ﻿19.94278°S 146.23917°E", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e067", "candidate_type": "SHORT_AMBIGUOUS", "source": "Changelog", "translation": "Changelog", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e068", "candidate_type": "LOCATION", "source": "OR 99W northeast of Dayton", "translation": "OR 99W northeast of Dayton", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e069", "candidate_type": "SHORT_AMBIGUOUS", "source": "Win", "translation": "Win", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e070", "candidate_type": "SPORTS_TEAM", "source": "All American Racing", "translation": "All American Racing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e071", "candidate_type": "MULTI_WORD", "source": "Summer Nights", "translation": "Summer Nights", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e072", "candidate_type": "MULTI_WORD", "source": "Club Play Singles", "translation": "Club Play Singles", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e073", "candidate_type": "FALSE_POSITIVE", "source": "Ha-218", "translation": "Ha-218", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e074", "candidate_type": "MULTI_WORD", "source": "I Like It", "translation": "I Like It", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e075", "candidate_type": "EVENT_WORK", "source": "Finally", "translation": "Finally", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e076", "candidate_type": "UNKNOWN", "source": "Civil parish", "translation": "Civil parish", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e077", "candidate_type": "LOCATION", "source": "Much Wenlock", "translation": "Much Wenlock", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e078", "candidate_type": "EVENT_WORK", "source": "World Cup Final - third place playoff", "translation": "World Cup Final - third place playoff", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e079", "candidate_type": "EVENT_WORK", "source": "Super League XIII", "translation": "Super League XIII", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e080", "candidate_type": "EVENT_WORK", "source": "World Junior Championships", "translation": "World Junior Championships", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e081", "candidate_type": "EVENT_WORK", "source": "If You Were a Woman and I Was a Man", "translation": "If You Were a Woman and I Was a Man", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e082", "candidate_type": "PERSON", "source": "Michael Andretti", "translation": "Michael Andretti", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e083", "candidate_type": "ORGANIZATION", "source": "Sasebo Naval Arsenal", "translation": "Sasebo Naval Arsenal", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e084", "candidate_type": "SPORTS_TEAM", "source": "Aylesbury United", "translation": "Aylesbury United", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e085", "candidate_type": "LOCATION", "source": "Seybertown", "translation": "Seybertown", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e086", "candidate_type": "MULTI_WORD", "source": "1st Round", "translation": "1st Round", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e087", "candidate_type": "LOCATION", "source": "Buffalo Bills", "translation": "Buffalo Bills", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e088", "candidate_type": "PERSON", "source": "Liu Shaoqi", "translation": "Liu Shaoqi", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e089", "candidate_type": "LOCATION", "source": "Healy Park, Omagh", "translation": "Healy Park, Omagh", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e090", "candidate_type": "SHORT_AMBIGUOUS", "source": "Marathon", "translation": "Marathon", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e091", "candidate_type": "SPORTS_TEAM", "source": "Lola Cars Ltd. / Team Surtees", "translation": "Lola Cars Ltd. / Team Surtees", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e092", "candidate_type": "SPORTS_TEAM", "source": "Edgewood Eagles", "translation": "Edgewood Eagles", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e093", "candidate_type": "EVENT_WORK", "source": "Friendly", "translation": "Friendly", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e094", "candidate_type": "ORGANIZATION", "source": "MCX: LKOH", "translation": "MCX: LKOH", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e095", "candidate_type": "SPORTS_TEAM", "source": "BMW Motorsport GmbH", "translation": "BMW Motorsport GmbH", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e096", "candidate_type": "MULTI_WORD", "source": "Pref. Aut.", "translation": "Pref. Aut.", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e097", "candidate_type": "SPORTS_TEAM", "source": "@ Braves", "translation": "@ Braves", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e098", "candidate_type": "SPORTS_TEAM", "source": "Circle Bar Racing", "translation": "Circle Bar Racing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e099", "candidate_type": "LOCATION", "source": "Big 12", "translation": "Big 12", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e100", "candidate_type": "LOCATION", "source": "Grays Harbor", "translation": "Grays Harbor", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e101", "candidate_type": "MULTI_WORD", "source": "Giant Slalom", "translation": "Giant Slalom", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e102", "candidate_type": "ORGANIZATION", "source": "RTP Payload Format for the Speex Codec", "translation": "RTP Payload Format for the Speex Codec", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e103", "candidate_type": "SPORTS_TEAM", "source": "PacWest Racing Group", "translation": "PacWest Racing Group", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e104", "candidate_type": "EVENT_WORK", "source": "Pan Arab Games", "translation": "Pan Arab Games", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e105", "candidate_type": "LOCATION", "source": "Draco", "translation": "Draco", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e106", "candidate_type": "EVENT_WORK", "source": "Olympic Games", "translation": "Olympic Games", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e107", "candidate_type": "ORGANIZATION", "source": "Keith Miller (1/2)", "translation": "Keith Miller (1/2)", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e108", "candidate_type": "EVENT_WORK", "source": "Euro/African Zone Group I, Quarterfinals", "translation": "Euro/African Zone Group I, Quarterfinals", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e109", "candidate_type": "SHORT_AMBIGUOUS", "source": "Away", "translation": "Away", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e110", "candidate_type": "MULTI_WORD", "source": "Minimum to High", "translation": "Minimum to High", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e111", "candidate_type": "FALSE_POSITIVE", "source": "U+0026", "translation": "U+0026", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e112", "candidate_type": "SURNAME", "source": "Ode", "translation": "Ode", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e113", "candidate_type": "EVENT_WORK", "source": "Run", "translation": "Run", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e114", "candidate_type": "FALSE_POSITIVE", "source": "current", "translation": "current", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e115", "candidate_type": "MULTI_WORD", "source": "Left Wing", "translation": "Left Wing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e116", "candidate_type": "PERSON", "source": "1804 (completed)", "translation": "1804 (completed)", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e117", "candidate_type": "SURNAME", "source": "Rita", "translation": "Rita", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e118", "candidate_type": "PERSON", "source": "H. C. McNeile", "translation": "H. C. McNeile", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e119", "candidate_type": "EVENT_WORK", "source": "National Football League Round 1", "translation": "National Football League Round 1", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e120", "candidate_type": "FALSE_POSITIVE", "source": "U+0043", "translation": "U+0043", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e121", "candidate_type": "MULTI_WORD", "source": "F♯m, C♯m, E, E♭m", "translation": "F♯m, C♯m, E, E♭m", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e122", "candidate_type": "ORGANIZATION", "source": "LSE: BP", "translation": "LSE: BP", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e123", "candidate_type": "LOCATION", "source": "FAU Stadium, Miami, USA", "translation": "FAU Stadium, Miami, USA", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e124", "candidate_type": "LOCATION", "source": "Manchester", "translation": "Manchester", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e125", "candidate_type": "UNKNOWN", "source": "54.43 m", "translation": "54.43 m", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e126", "candidate_type": "SURNAME", "source": "Various", "translation": "Various", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e127", "candidate_type": "PERSON", "source": "Horse trainer", "translation": "Horse trainer", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e128", "candidate_type": "LOCATION", "source": "Soritor", "translation": "Soritor", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e129", "candidate_type": "FALSE_POSITIVE", "source": "14th", "translation": "14th", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e130", "candidate_type": "SHORT_AMBIGUOUS", "source": "Won", "translation": "Won", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e131", "candidate_type": "FALSE_POSITIVE", "source": "N/A", "translation": "N/A", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e132", "candidate_type": "FALSE_POSITIVE", "source": "N/A", "translation": "N/A", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e133", "candidate_type": "SHORT_AMBIGUOUS", "source": "Marathon", "translation": "Marathon", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e134", "candidate_type": "ORGANIZATION", "source": "INC", "translation": "INC", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e135", "candidate_type": "SHORT_AMBIGUOUS", "source": "Brown/White", "translation": "Brown/White", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e136", "candidate_type": "SHORT_AMBIGUOUS", "source": "Yes", "translation": "Yes", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e137", "candidate_type": "PERSON", "source": "Joseph Lamb", "translation": "Joseph Lamb", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e138", "candidate_type": "SHORT_AMBIGUOUS", "source": "Private", "translation": "Private", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e139", "candidate_type": "SURNAME", "source": "Skimo", "translation": "Skimo", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e140", "candidate_type": "PERSON", "source": "Der bleiche Zauberer", "translation": "Der bleiche Zauberer", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e141", "candidate_type": "SHORT_AMBIGUOUS", "source": "Sportnet.hr", "translation": "Sportnet.hr", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e142", "candidate_type": "ORGANIZATION", "source": "Honda", "translation": "Honda", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e143", "candidate_type": "SPORTS_TEAM", "source": "Société des Automobiles Alpine", "translation": "Société des Automobiles Alpine", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e144", "candidate_type": "FALSE_POSITIVE", "source": "link", "translation": "link", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e145", "candidate_type": "PERSON", "source": "NZR Addington", "translation": "NZR Addington", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e146", "candidate_type": "SPORTS_TEAM", "source": "Stewart-Haas Racing", "translation": "Stewart-Haas Racing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e147", "candidate_type": "PERSON", "source": "Dan Mackinnon", "translation": "Dan Mackinnon", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e148", "candidate_type": "ORGANIZATION", "source": "ESPN", "translation": "ESPN", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e149", "candidate_type": "SPORTS_TEAM", "source": "Wimbledon", "translation": "Wimbledon", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e150", "candidate_type": "PERSON", "source": "Jerry York", "translation": "Jerry York", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e151", "candidate_type": "LOCATION", "source": "Recettear: An Item Shop's Tale", "translation": "Recettear: An Item Shop's Tale", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e152", "candidate_type": "SURNAME", "source": "Stromae", "translation": "Stromae", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e153", "candidate_type": "PERSON", "source": "Jimmy Connors", "translation": "Jimmy Connors", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e154", "candidate_type": "PERSON", "source": "1860 (established)", "translation": "1860 (established)", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e155", "candidate_type": "SURNAME", "source": "Franz", "translation": "Franz", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e156", "candidate_type": "PERSON", "source": "Andy Suhy", "translation": "Andy Suhy", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e157", "candidate_type": "SURNAME", "source": "Havoc", "translation": "Havoc", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e158", "candidate_type": "UNKNOWN", "source": "Oil and gas", "translation": "Oil and gas", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e159", "candidate_type": "UNKNOWN", "source": "Strings of my guitar", "translation": "Strings of my guitar", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e160", "candidate_type": "PERSON", "source": "Dino Lusuardi", "translation": "Dino Lusuardi", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e161", "candidate_type": "PERSON", "source": "Peter Maxwell Davies", "translation": "Peter Maxwell Davies", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e162", "candidate_type": "MULTI_WORD", "source": "Rooftop/Outside Terrace", "translation": "Rooftop/Outside Terrace", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e163", "candidate_type": "SPORTS_TEAM", "source": "Davis Racing", "translation": "Davis Racing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e164", "candidate_type": "PERSON", "source": "Marc Coleselli", "translation": "Marc Coleselli", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e165", "candidate_type": "SHORT_AMBIGUOUS", "source": "Clay", "translation": "Clay", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e166", "candidate_type": "SHORT_AMBIGUOUS", "source": "Concertante", "translation": "Concertante", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e167", "candidate_type": "FALSE_POSITIVE", "source": "petrol", "translation": "petrol", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e168", "candidate_type": "MULTI_WORD", "source": "'Lock And Key'", "translation": "'Lock And Key'", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e169", "candidate_type": "PERSON", "source": "BMW M1", "translation": "BMW M1", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e170", "candidate_type": "SURNAME", "source": "Heer", "translation": "Heer", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e171", "candidate_type": "ORGANIZATION", "source": "HH Bridge", "translation": "HH Bridge", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e172", "candidate_type": "PERSON", "source": "Robert Smith", "translation": "Robert Smith", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e173", "candidate_type": "ORGANIZATION", "source": "LFJU", "translation": "LFJU", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e174", "candidate_type": "EVENT_WORK", "source": "Friendly match", "translation": "Friendly match", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e175", "candidate_type": "MULTI_WORD", "source": "Ambassador Extraordinary and Plenipotentiary", "translation": "Ambassador Extraordinary and Plenipotentiary", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e176", "candidate_type": "LOCATION", "source": "None", "translation": "None", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e177", "candidate_type": "FALSE_POSITIVE", "source": "city", "translation": "city", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e178", "candidate_type": "UNKNOWN", "source": "lethal injection", "translation": "lethal injection", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e179", "candidate_type": "LOCATION", "source": "U.S. Route 97", "translation": "U.S. Route 97", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e180", "candidate_type": "PERSON", "source": "Michael Cage", "translation": "Michael Cage", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e181", "candidate_type": "ORGANIZATION", "source": "Carroll D. Kearns", "translation": "Carroll D. Kearns", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e182", "candidate_type": "SHORT_AMBIGUOUS", "source": "Nominated", "translation": "Nominated", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e183", "candidate_type": "EVENT_WORK", "source": "European Team Championships", "translation": "European Team Championships", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e184", "candidate_type": "FALSE_POSITIVE", "source": "n/a", "translation": "n/a", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e185", "candidate_type": "FALSE_POSITIVE", "source": "N/A", "translation": "N/A", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e186", "candidate_type": "EVENT_WORK", "source": "If You Were a Woman and I Was a Man", "translation": "If You Were a Woman and I Was a Man", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e187", "candidate_type": "ORGANIZATION", "source": "Dave Brubeck", "translation": "Dave Brubeck", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e188", "candidate_type": "EVENT_WORK", "source": "FA Cup / 4th QF (replay)", "translation": "FA Cup / 4th QF (replay)", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e189", "candidate_type": "ORGANIZATION", "source": "Internazionali BNL d'Italia", "translation": "Internazionali BNL d'Italia", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e190", "candidate_type": "SHORT_AMBIGUOUS", "source": "Vault", "translation": "Vault", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e191", "candidate_type": "PERSON", "source": "Ayrton Senna", "translation": "Ayrton Senna", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e192", "candidate_type": "LOCATION", "source": "Ranking member of the Rules Committee", "translation": "Ranking member of the Rules Committee", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e193", "candidate_type": "MULTI_WORD", "source": "Busy Doin' Nothin'", "translation": "Busy Doin' Nothin'", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e194", "candidate_type": "SHORT_AMBIGUOUS", "source": "Away", "translation": "Away", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e195", "candidate_type": "PERSON", "source": "P.S. Appu", "translation": "P.S. Appu", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e196", "candidate_type": "SPORTS_TEAM", "source": "Madison Mustangs", "translation": "Madison Mustangs", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e197", "candidate_type": "SPORTS_TEAM", "source": "Dreyer & Reinbold Racing", "translation": "Dreyer & Reinbold Racing", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e198", "candidate_type": "ORGANIZATION", "source": "patrol flying boat", "translation": "patrol flying boat", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e199", "candidate_type": "LOCATION", "source": "Handan", "translation": "Handan", "method": "copy", "confidence": 1.0, "needs_review": false}
+{"example_id": "e200", "candidate_type": "MULTI_WORD", "source": "Nursing Homes", "translation": "Nursing Homes", "method": "copy", "confidence": 1.0, "needs_review": false}

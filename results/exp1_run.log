@@ -1,0 +1,32 @@
+exp1: 10/200 elapsed=29s
+exp1: 20/200 elapsed=61s
+exp1: 30/200 elapsed=92s
+exp1: 40/200 elapsed=122s
+exp1: 50/200 elapsed=153s
+exp1: 60/200 elapsed=185s
+exp1: 70/200 elapsed=220s
+exp1: 80/200 elapsed=251s
+exp1: 90/200 elapsed=284s
+exp1: 100/200 elapsed=318s
+exp1: 110/200 elapsed=353s
+exp1: 120/200 elapsed=385s
+exp1: 130/200 elapsed=420s
+exp1: 140/200 elapsed=451s
+exp1: 150/200 elapsed=487s
+exp1: 160/200 elapsed=522s
+exp1: 170/200 elapsed=556s
+exp1: 180/200 elapsed=590s
+exp1: 190/200 elapsed=625s
+exp1: 200/200 elapsed=660s
+{
+ "n": 800,
+ "model": "qwen2.5:3b",
+ "prompt": "prompt_v2",
+ "temperature": 0.0,
+ "parse_success": 0.9775,
+ "http_errors": 0,
+ "latency_mean_s": 0.83,
+ "latency_median_s": 0.81,
+ "latency_p95_s": 1.02,
+ "total_runtime_s": 660.1
+}

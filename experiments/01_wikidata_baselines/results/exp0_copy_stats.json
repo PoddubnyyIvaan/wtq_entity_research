@@ -1,0 +1,8 @@
+{
+ "n": 200,
+ "identity_preserved": 1.0,
+ "ru_form_provided": 0.0,
+ "latin_script_source_cells": 200,
+ "latin_share": 1.0,
+ "note": "copy leaves 100% identity but provides no Russian surface form; for a RU dataset every cell would remain English"
+}

@@ -1,0 +1,11 @@
+metric,value
+n,200
+candidate_coverage,0.58
+surface_gold_n,37
+identity_gold_n,50
+identity_recall@1,44
+identity_recall@3,44
+identity_recall@5,44
+surface_recall@1,37
+surface_recall@3,37
+surface_recall@5,37

@@ -1,0 +1,71 @@
+{
+ "features": [
+  "lex_sim",
+  "exact",
+  "cyrillic",
+  "len",
+  "src_wd_sitelink",
+  "src_wd_label",
+  "src_wd_alias",
+  "src_paranames",
+  "src_oracle",
+  "qid_known",
+  "hdr_team",
+  "hdr_geo",
+  "stratum_entity"
+ ],
+ "importance": [
+  {
+   "feature": "src_wd_alias",
+   "importance": 0.856
+  },
+  {
+   "feature": "src_paranames",
+   "importance": 0.082
+  },
+  {
+   "feature": "len",
+   "importance": 0.046
+  },
+  {
+   "feature": "src_wd_sitelink",
+   "importance": 0.01
+  },
+  {
+   "feature": "src_wd_label",
+   "importance": 0.005
+  },
+  {
+   "feature": "lex_sim",
+   "importance": 0.0
+  },
+  {
+   "feature": "exact",
+   "importance": 0.0
+  },
+  {
+   "feature": "cyrillic",
+   "importance": 0.0
+  },
+  {
+   "feature": "src_oracle",
+   "importance": 0.0
+  },
+  {
+   "feature": "qid_known",
+   "importance": 0.0
+  },
+  {
+   "feature": "hdr_team",
+   "importance": 0.0
+  },
+  {
+   "feature": "hdr_geo",
+   "importance": 0.0
+  },
+  {
+   "feature": "stratum_entity",
+   "importance": 0.0
+  }
+ ]
+}

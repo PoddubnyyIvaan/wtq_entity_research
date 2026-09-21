@@ -1,0 +1,12 @@
+{
+ "model": "google/byt5-small",
+ "epochs": 3,
+ "batch": 32,
+ "lr": 0.001,
+ "bf16": true,
+ "gradient_checkpointing": true,
+ "train_time_s": 5568.1,
+ "peak_vram_mib": 2751.0,
+ "train_size": 200000,
+ "device": "NVIDIA GeForce RTX 4060"
+}

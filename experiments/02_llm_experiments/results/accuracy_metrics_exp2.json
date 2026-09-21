@@ -1,0 +1,45 @@
+{
+ "reference": "silver acceptable RU forms (L1/L2, WD+PN supported); SINGLE-RATER where manual",
+ "translation_hit_rate_vs_silver": {
+  "A": {
+   "n": 37,
+   "hits": 7,
+   "rate": 0.189
+  },
+  "B": {
+   "n": 36,
+   "hits": 7,
+   "rate": 0.194
+  },
+  "C": {
+   "n": 37,
+   "hits": 6,
+   "rate": 0.162
+  },
+  "D": {
+   "n": 37,
+   "hits": 7,
+   "rate": 0.189
+  },
+  "note": "low by design: model rephrases candidates (cf. Stage 6), and silver forms are WD/PN"
+ },
+ "manual_40_mode_D": {
+  "accuracy_strict": 0.625,
+  "accepted_without_review": 0.45,
+  "harmful": 11,
+  "n": 40,
+  "evaluator": "single-rater manual (agent)"
+ },
+ "is_entity_accuracy_vs_project_strata_mode_D": {
+  "rate": 0.755,
+  "n": 196
+ },
+ "entity_type_exact_agreement": {
+  "rate": 0.311,
+  "n": 196
+ },
+ "judge_accuracy_vs_manual_40": {
+  "needs_review_agreement": 0.55,
+  "n": 40
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "total": 200,
+ "unique_forms": 190,
+ "match_type": {
+  "none": 168,
+  "single": 11,
+  "multiple": 21
+ },
+ "decision": {
+  "NO_MATCH": 168,
+  "SINGLE_CANDIDATE": 11,
+  "MULTIPLE": 21
+ },
+ "category": {
+  "UNKNOWN": 7,
+  "NAMED_ENTITY": 121,
+  "COMMON_WORD": 48,
+  "JUNK": 24
+ },
+ "category_match": {
+  "COMMON_WORD": {
+   "matched": 16,
+   "n": 48
+  },
+  "NAMED_ENTITY": {
+   "matched": 14,
+   "n": 121
+  },
+  "NUMBER": {
+   "matched": 0,
+   "n": 0
+  },
+  "JUNK": {
+   "matched": 0,
+   "n": 24
+  },
+  "UNKNOWN": {
+   "matched": 2,
+   "n": 7
+  }
+ }
+}

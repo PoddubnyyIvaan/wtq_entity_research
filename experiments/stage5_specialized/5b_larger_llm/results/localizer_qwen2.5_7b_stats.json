@@ -1,0 +1,13 @@
+{
+ "model": "qwen2.5:7b",
+ "n": 200,
+ "parse_success": 0.99,
+ "no_candidate_rate": 0.06,
+ "latency_mean_s": 1.32,
+ "latency_median_s": 1.3,
+ "latency_p95_s": 1.79,
+ "total_runtime_s": 264.1,
+ "temperature": 0.0,
+ "max_tokens": 200,
+ "gpu_check": "ollama ps: size_vram == model size (full GPU offload), see stage5 report"
+}

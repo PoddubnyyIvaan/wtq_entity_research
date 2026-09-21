@@ -1,0 +1,12 @@
+{
+ "model": "qwen2.5:7b",
+ "n": 200,
+ "parse_success": 0.995,
+ "needs_review_rate": 0.91,
+ "harmful_substitution_rate": 0.055,
+ "latency_mean_s": 0.94,
+ "latency_median_s": 0.9,
+ "latency_p95_s": 1.41,
+ "total_runtime_s": 187.9,
+ "prompt": "judge_v1"
+}

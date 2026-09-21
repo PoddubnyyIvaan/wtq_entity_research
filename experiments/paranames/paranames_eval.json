@@ -1,0 +1,80 @@
+{
+ "identity_path_cases": {
+  "qid_present": 195,
+  "pn_has_ru_for_same_qid": 27,
+  "pn_ru_equals_wd_ru_normalized": 14
+ },
+ "string_agreement_all_matches": null,
+ "coverage_by_type": {
+  "EVENT_WORK": {
+   "pn_match": 4,
+   "wd_ru": 14,
+   "n": 25
+  },
+  "FALSE_POSITIVE": {
+   "pn_match": 2,
+   "wd_ru": 13,
+   "n": 15
+  },
+  "LOCATION": {
+   "pn_match": 12,
+   "wd_ru": 15,
+   "n": 25
+  },
+  "MULTI_WORD": {
+   "pn_match": 1,
+   "wd_ru": 9,
+   "n": 20
+  },
+  "ORGANIZATION": {
+   "pn_match": 6,
+   "wd_ru": 11,
+   "n": 20
+  },
+  "PERSON": {
+   "pn_match": 12,
+   "wd_ru": 18,
+   "n": 30
+  },
+  "SHORT_AMBIGUOUS": {
+   "pn_match": 4,
+   "wd_ru": 8,
+   "n": 20
+  },
+  "SPORTS_TEAM": {
+   "pn_match": 3,
+   "wd_ru": 8,
+   "n": 20
+  },
+  "SURNAME": {
+   "pn_match": 4,
+   "wd_ru": 12,
+   "n": 15
+  },
+  "UNKNOWN": {
+   "pn_match": 1,
+   "wd_ru": 4,
+   "n": 10
+  }
+ },
+ "mandatory_in_sample": {
+  "Smith": "NOT_FOUND_IN_SAMPLE",
+  "Smyth": "NOT_FOUND_IN_SAMPLE",
+  "New York": "NOT_FOUND_IN_SAMPLE",
+  "London": "NOT_FOUND_IN_SAMPLE",
+  "George": "NOT_FOUND_IN_SAMPLE",
+  "Arsenal": "NOT_FOUND_IN_SAMPLE",
+  "Washington": "NOT_FOUND_IN_SAMPLE",
+  "Yinchuan": "FOUND",
+  "Red Box": "FOUND",
+  "@ Giants": "FOUND",
+  "National Football League Round 6": "FOUND",
+  "current": "FOUND",
+  "Ha-218": "FOUND",
+  "Fashion Magazine": "FOUND",
+  "Student/Model": "FOUND",
+  "Allsvenskan": "FOUND",
+  "Toronto Maple Leafs": "FOUND",
+  "Cooper-Maserati": "FOUND"
+ }
+}

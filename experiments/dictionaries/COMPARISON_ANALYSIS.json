@@ -1,0 +1,1960 @@
+{
+ "special_probes": {
+  "book": {
+   "wikidict": [
+    "Книга"
+   ],
+   "wiktionary": [
+    "книга",
+    "книжка",
+    "альбом",
+    "книга",
+    "бронировать",
+    "забронировать"
+   ],
+   "openrussian": [
+    "книга",
+    "книжка",
+    "заказать",
+    "разнести",
+    "заказывать",
+    "разносить"
+   ],
+   "statistical_full": [
+    "книга",
+    "бронирование",
+    "забронировать"
+   ],
+   "statistical_filtered": [
+    "книга"
+   ]
+  },
+  "current": {
+   "wikidict": [
+    "Куран"
+   ],
+   "wiktionary": [
+    "нынешний",
+    "текущий",
+    "современный",
+    "текущий",
+    "поток",
+    "течение"
+   ],
+   "openrussian": [
+    "течение",
+    "поток",
+    "ток",
+    "струя",
+    "текущий",
+    "ходячий"
+   ],
+   "statistical_full": [
+    "текущий",
+    "нынешний",
+    "ток",
+    "действовать",
+    "актуальный",
+    "современный"
+   ],
+   "statistical_filtered": []
+  },
+  "bank": {
+   "wikidict": [
+    "Банк"
+   ],
+   "wiktionary": [
+    "отмель",
+    "банка",
+    "банк",
+    "банк",
+    "банкомёт",
+    "берег"
+   ],
+   "openrussian": [
+    "берег",
+    "банк",
+    "вал",
+    "гряда",
+    "отмель"
+   ],
+   "statistical_full": [
+    "банк",
+    "банковский",
+    "берег"
+   ],
+   "statistical_filtered": [
+    "банк"
+   ]
+  },
+  "match": {
+   "wikidict": [
+    "Спичка"
+   ],
+   "wiktionary": [
+    "ровня",
+    "пара",
+    "спичка",
+    "матч",
+    "совпадать",
+    "совпасть"
+   ],
+   "openrussian": [
+    "партия",
+    "встреча",
+    "матч",
+    "состязание",
+    "соответствовать",
+    "совпадать"
+   ],
+   "statistical_full": [
+    "матч",
+    "соответствовать",
+    "совпадать",
+    "соответствие"
+   ],
+   "statistical_filtered": [
+    "матч"
+   ]
+  },
+  "round": {
+   "wikidict": [
+    "Раунд"
+   ],
+   "wiktionary": [
+    "круглый",
+    "округлый",
+    "полный",
+    "круглый",
+    "круглый",
+    "закруглённый"
+   ],
+   "openrussian": [
+    "бедро",
+    "обход",
+    "кон",
+    "ломоть",
+    "дозор",
+    "раунд"
+   ],
+   "statistical_full": [
+    "круглый",
+    "раунд",
+    "тур",
+    "вокруг",
+    "круг"
+   ],
+   "statistical_filtered": []
+  },
+  "record": {
+   "wikidict": [
+    "Рекорд (значения)"
+   ],
+   "wiktionary": [
+    "запись",
+    "запись",
+    "рекорд",
+    "пластинка",
+    "грампластинка",
+    "граммофонная пластинка"
+   ],
+   "openrussian": [
+    "список",
+    "запись",
+    "рекорд",
+    "записать",
+    "записывать",
+    "регистрировать"
+   ],
+   "statistical_full": [
+    "запись",
+    "записать",
+    "рекорд",
+    "записывать",
+    "зарегистрировать",
+    "зафиксировать"
+   ],
+   "statistical_filtered": []
+  },
+  "field": {
+   "wikidict": [
+    "Филд (значения)"
+   ],
+   "wiktionary": [
+    "область",
+    "отрасль",
+    "поле",
+    "луг",
+    "нива",
+    "поле"
+   ],
+   "openrussian": [
+    "поле",
+    "полоса",
+    "нива",
+    "клин",
+    "поприще",
+    "полевой"
+   ],
+   "statistical_full": [
+    "поле",
+    "область",
+    "сфера",
+    "полевой",
+    "месторождение"
+   ],
+   "statistical_filtered": []
+  },
+  "Smith": {
+   "wikidict": [
+    "Смит"
+   ],
+   "wiktionary": [
+    "кузнец",
+    "Смирнов",
+    "Кузнецов",
+    "Ковалёв",
+    "Смит"
+   ],
+   "openrussian": [
+    "кузнец"
+   ],
+   "statistical_full": [
+    "смит"
+   ],
+   "statistical_filtered": [
+    "смит"
+   ]
+  },
+  "London": {
+   "wikidict": [
+    "Лондон"
+   ],
+   "wiktionary": [
+    "Лондон",
+    "Лондон",
+    "лондонский"
+   ],
+   "openrussian": [
+    "Лондон",
+    "лондонский"
+   ],
+   "statistical_full": [
+    "лондон",
+    "лондонский"
+   ],
+   "statistical_filtered": [
+    "лондон"
+   ]
+  },
+  "George": {
+   "wikidict": [
+    "Георге"
+   ],
+   "wiktionary": [
+    "Георгий",
+    "Юрий",
+    "Егор",
+    "Егорий",
+    "Джордж"
+   ],
+   "openrussian": [],
+   "statistical_full": [
+    "джордж",
+    "георгий",
+    "жорж"
+   ],
+   "statistical_filtered": [
+    "джордж"
+   ]
+  },
+  "Washington": {
+   "wikidict": [
+    "Вашингтон"
+   ],
+   "wiktionary": [
+    "Вашингтон"
+   ],
+   "openrussian": [],
+   "statistical_full": [
+    "вашингтон",
+    "вашингтонский"
+   ],
+   "statistical_filtered": [
+    "вашингтон"
+   ]
+  },
+  "New York": {
+   "wikidict": [
+    "Нью-Йорк (штат)"
+   ],
+   "wiktionary": [
+    "нью-йоркский",
+    "штат Нью-Йорк"
+   ],
+   "openrussian": [],
+   "statistical_full": [],
+   "statistical_filtered": []
+  }
+ },
+ "sample_cases": {
+  "Smith": "NOT_FOUND_IN_SAMPLE",
+  "Smyth": "NOT_FOUND_IN_SAMPLE",
+  "New York": "NOT_FOUND_IN_SAMPLE",
+  "London": "NOT_FOUND_IN_SAMPLE",
+  "George": "NOT_FOUND_IN_SAMPLE",
+  "Arsenal": "NOT_FOUND_IN_SAMPLE",
+  "Washington": "NOT_FOUND_IN_SAMPLE",
+  "Yinchuan": "FOUND",
+  "Red Box": "FOUND",
+  "@ Giants": "FOUND",
+  "National Football League Round 6": "FOUND",
+  "current": "FOUND",
+  "Ha-218": "FOUND",
+  "Fashion Magazine": "FOUND",
+  "Student/Model": "FOUND",
+  "Allsvenskan": "FOUND",
+  "Toronto Maple Leafs": "FOUND",
+  "Cooper-Maserati": "FOUND"
+ },
+ "agreement": {},
+ "union_coverage": {
+  "occurrences_with_any_dict_match": 71,
+  "occurrences_matched_by_ge2": 40,
+  "examples": {
+   "e008": {
+    "surface": "lethal injection",
+    "union": [
+     "смертельная инъекция"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "смертельная инъекция"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e009": {
+    "surface": "Residential",
+    "union": [
+     "дом",
+     "жилой"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [
+      "жилой"
+     ],
+     "statistical_full": [
+      "дом",
+      "жилой"
+     ],
+     "statistical_filtered": [
+      "жилой"
+     ]
+    }
+   },
+   "e013": {
+    "surface": "Parent",
+    "union": [
+     "источник",
+     "причина",
+     "родители",
+     "родитель",
+     "родительница"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "родители"
+     ],
+     "wiktionary": [
+      "источник",
+      "причина",
+      "родитель",
+      "родительница"
+     ],
+     "openrussian": [
+      "родитель"
+     ],
+     "statistical_full": [
+      "родитель"
+     ],
+     "statistical_filtered": [
+      "родитель"
+     ]
+    }
+   },
+   "e015": {
+    "surface": "Leo",
+    "union": [
+     "лев",
+     "лео",
+     "леон"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "лео"
+     ],
+     "wiktionary": [
+      "лев",
+      "лео",
+      "леон"
+     ],
+     "openrussian": [
+      "лев"
+     ],
+     "statistical_full": [
+      "лев",
+      "лео"
+     ],
+     "statistical_filtered": [
+      "лео"
+     ]
+    }
+   },
+   "e019": {
+    "surface": "Scattering",
+    "union": [
+     "распыление",
+     "рассеивание",
+     "рассеяние частиц",
+     "россыпь"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "рассеяние частиц"
+     ],
+     "wiktionary": [
+      "рассеивание"
+     ],
+     "openrussian": [
+      "распыление",
+      "рассеивание",
+      "россыпь"
+     ],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e020": {
+    "surface": "Report",
+    "union": [
+     "выстрел",
+     "данные",
+     "доклад",
+     "докладывать",
+     "доложить",
+     "донесение",
+     "доносить",
+     "корреспонденция"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "доклад"
+     ],
+     "wiktionary": [
+      "доклад",
+      "докладывать",
+      "доложить",
+      "отчитаться"
+     ],
+     "openrussian": [
+      "выстрел",
+      "данные",
+      "доклад",
+      "донесение"
+     ],
+     "statistical_full": [
+      "доклад",
+      "отчёт",
+      "отчётность",
+      "отчётный"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e024": {
+    "surface": "Avalon",
+    "union": [
+     "авалон"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "авалон"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "авалон"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e025": {
+    "surface": "Coral",
+    "union": [
+     "коралл",
+     "коралловый",
+     "коралловый риф"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "коралл"
+     ],
+     "wiktionary": [
+      "коралл",
+      "коралловый",
+      "коралловый риф"
+     ],
+     "openrussian": [
+      "коралл",
+      "коралловый"
+     ],
+     "statistical_full": [
+      "коралл",
+      "коралловый"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e028": {
+    "surface": "Away",
+    "union": [
+     "вдали",
+     "вон",
+     "далеко",
+     "далёкий",
+     "долой",
+     "забрать",
+     "недоступно",
+     "отнять"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "вон",
+      "далеко",
+      "долой",
+      "недоступно"
+     ],
+     "openrussian": [
+      "подальше",
+      "прочь"
+     ],
+     "statistical_full": [
+      "вдали",
+      "далеко",
+      "далёкий",
+      "забрать"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e029": {
+    "surface": "Allsvenskan",
+    "union": [
+     "чемпионат швеции по футболу"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "чемпионат швеции по футболу"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e030": {
+    "surface": "Toronto Maple Leafs",
+    "union": [
+     "торонто мейпл лифс"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "торонто мейпл лифс"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e033": {
+    "surface": "Yinchuan",
+    "union": [
+     "иньчуань"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "иньчуань"
+     ],
+     "wiktionary": [
+      "иньчуань"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e037": {
+    "surface": "@ Twins",
+    "union": [
+     "близнецы",
+     "двойня",
+     "двойняшки"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [
+      "близнецы",
+      "двойня",
+      "двойняшки"
+     ],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e038": {
+    "surface": "Cameo",
+    "union": [
+     "гемма",
+     "камео",
+     "камея"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "камея"
+     ],
+     "openrussian": [
+      "гемма",
+      "камея"
+     ],
+     "statistical_full": [
+      "камео"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e039": {
+    "surface": "6th",
+    "union": [
+     "ой"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "ой"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e041": {
+    "surface": "current",
+    "union": [
+     "актуальный",
+     "действовать",
+     "куран",
+     "нынешний",
+     "общеупотребительный",
+     "отчётный",
+     "поток",
+     "современный"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "куран"
+     ],
+     "wiktionary": [
+      "нынешний",
+      "поток",
+      "современный",
+      "текущий"
+     ],
+     "openrussian": [
+      "общеупотребительный",
+      "отчётный",
+      "поток",
+      "струя"
+     ],
+     "statistical_full": [
+      "актуальный",
+      "действовать",
+      "нынешний",
+      "современный"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e043": {
+    "surface": "Cup",
+    "union": [
+     "крюшон",
+     "кубковый",
+     "кубок",
+     "стакан",
+     "стопка",
+     "чара",
+     "чарка",
+     "чаша"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "кубок",
+      "чаша",
+      "чашечка",
+      "чашка"
+     ],
+     "openrussian": [
+      "крюшон",
+      "кубковый",
+      "кубок",
+      "стопка"
+     ],
+     "statistical_full": [
+      "кубок",
+      "стакан",
+      "чаша",
+      "чашечка"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e044": {
+    "surface": "Luftwaffe",
+    "union": [
+     "люфтваффе"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "люфтваффе"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e046": {
+    "surface": "Dan Severn",
+    "union": [
+     "северн, дэн"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "северн, дэн"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e048": {
+    "surface": "Heer",
+    "union": [
+     "хеер"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "хеер"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e059": {
+    "surface": "Oeste Potiguar",
+    "union": [
+     "запад штата риу-гранди-ду-норти (мезорегион)"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "запад штата риу-гранди-ду-норти (мезорегион)"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e061": {
+    "surface": "Walton",
+    "union": [
+     "бич",
+     "уолтон"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "уолтон"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "бич",
+      "уолтон"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e062": {
+    "surface": "Kirkkonummi",
+    "union": [
+     "киркконумми"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "киркконумми"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e067": {
+    "surface": "Changelog",
+    "union": [
+     "журнализация изменений проекта"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "журнализация изменений проекта"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e069": {
+    "surface": "Win",
+    "union": [
+     "выиграть",
+     "выигрывать",
+     "выигрыш",
+     "завоевать",
+     "завоёвывать",
+     "одержать",
+     "отвоёвывать",
+     "победа"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "выиграть",
+      "выигрывать",
+      "выигрыш",
+      "победа"
+     ],
+     "openrussian": [
+      "выиграть",
+      "выигрывать",
+      "завоевать",
+      "завоёвывать"
+     ],
+     "statistical_full": [
+      "выиграть",
+      "выигрывать",
+      "выигрыш",
+      "завоевать"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e075": {
+    "surface": "Finally",
+    "union": [
+     "в конце концов",
+     "вчистую",
+     "итог",
+     "конец",
+     "наконец",
+     "наконецтый",
+     "окончательно"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "в конце концов",
+      "наконец",
+      "окончательно"
+     ],
+     "openrussian": [
+      "вчистую",
+      "наконец",
+      "окончательно"
+     ],
+     "statistical_full": [
+      "итог",
+      "конец",
+      "наконец",
+      "наконецтый"
+     ],
+     "statistical_filtered": [
+      "наконец"
+     ]
+    }
+   },
+   "e082": {
+    "surface": "Michael Andretti",
+    "union": [
+     "андретти, майкл"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "андретти, майкл"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e087": {
+    "surface": "Buffalo Bills",
+    "union": [
+     "баффало биллс"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "баффало биллс"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e088": {
+    "surface": "Liu Shaoqi",
+    "union": [
+     "лю шаоци"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "лю шаоци"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e090": {
+    "surface": "Marathon",
+    "union": [
+     "марафон",
+     "яркий"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "марафон"
+     ],
+     "wiktionary": [
+      "марафон"
+     ],
+     "openrussian": [
+      "марафон"
+     ],
+     "statistical_full": [
+      "марафон",
+      "яркий"
+     ],
+     "statistical_filtered": [
+      "марафон"
+     ]
+    }
+   },
+   "e093": {
+    "surface": "Friendly",
+    "union": [
+     "доброжелательный",
+     "дружелюбно",
+     "дружелюбный",
+     "дружеский",
+     "дружественно",
+     "дружественный",
+     "дружный",
+     "любезно"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "дружелюбно",
+      "дружелюбный",
+      "дружеский",
+      "дружественно"
+     ],
+     "openrussian": [
+      "дружелюбный",
+      "дружеский",
+      "дружественный",
+      "дружный"
+     ],
+     "statistical_full": [
+      "доброжелательный",
+      "дружелюбный",
+      "дружеский",
+      "дружественный"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e101": {
+    "surface": "Giant Slalom",
+    "union": [
+     "гигантский слалом (горнолыжный спорт)"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "гигантский слалом (горнолыжный спорт)"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e105": {
+    "surface": "Draco",
+    "union": [
+     "драко",
+     "дракон"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "драко"
+     ],
+     "wiktionary": [
+      "дракон"
+     ],
+     "openrussian": [],
+     "statistical_full": [
+      "драко"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e106": {
+    "surface": "Olympic Games",
+    "union": [
+     "олимпиада",
+     "олимпийские игры"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "олимпийские игры"
+     ],
+     "wiktionary": [
+      "олимпиада",
+      "олимпийские игры"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e109": {
+    "surface": "Away",
+    "union": [
+     "вдали",
+     "вон",
+     "далеко",
+     "далёкий",
+     "долой",
+     "забрать",
+     "недоступно",
+     "отнять"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "вон",
+      "далеко",
+      "долой",
+      "недоступно"
+     ],
+     "openrussian": [
+      "подальше",
+      "прочь"
+     ],
+     "statistical_full": [
+      "вдали",
+      "далеко",
+      "далёкий",
+      "забрать"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e112": {
+    "surface": "Ode",
+    "union": [
+     "ода"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "ода"
+     ],
+     "wiktionary": [
+      "ода"
+     ],
+     "openrussian": [
+      "ода"
+     ],
+     "statistical_full": [
+      "ода"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e113": {
+    "surface": "Run",
+    "union": [
+     "баллотироваться",
+     "бег",
+     "бегать",
+     "бежать",
+     "вбегать",
+     "вбежать",
+     "везти",
+     "вести"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "баллотироваться",
+      "бег",
+      "бегать",
+      "бежать"
+     ],
+     "openrussian": [
+      "баллотироваться",
+      "бег",
+      "бегать",
+      "бежать"
+     ],
+     "statistical_full": [
+      "бег",
+      "бегать",
+      "бежать",
+      "запустить"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e114": {
+    "surface": "current",
+    "union": [
+     "актуальный",
+     "действовать",
+     "куран",
+     "нынешний",
+     "общеупотребительный",
+     "отчётный",
+     "поток",
+     "современный"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "куран"
+     ],
+     "wiktionary": [
+      "нынешний",
+      "поток",
+      "современный",
+      "текущий"
+     ],
+     "openrussian": [
+      "общеупотребительный",
+      "отчётный",
+      "поток",
+      "струя"
+     ],
+     "statistical_full": [
+      "актуальный",
+      "действовать",
+      "нынешний",
+      "современный"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e115": {
+    "surface": "Left Wing",
+    "union": [
+     "левые"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "левые"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e117": {
+    "surface": "Rita",
+    "union": [
+     "рита"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "рита"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e124": {
+    "surface": "Manchester",
+    "union": [
+     "манчестер",
+     "сити",
+     "юнайтед"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "манчестер"
+     ],
+     "wiktionary": [
+      "манчестер"
+     ],
+     "openrussian": [],
+     "statistical_full": [
+      "манчестер",
+      "сити",
+      "юнайтед"
+     ],
+     "statistical_filtered": [
+      "манчестер"
+     ]
+    }
+   },
+   "e126": {
+    "surface": "Various",
+    "union": [
+     "всевозможный",
+     "различный",
+     "разнообразный",
+     "разнохарактерный",
+     "разный"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "различный",
+      "разный"
+     ],
+     "openrussian": [
+      "всевозможный",
+      "различный",
+      "разнообразный",
+      "разнохарактерный"
+     ],
+     "statistical_full": [
+      "различный",
+      "разнообразный",
+      "разный"
+     ],
+     "statistical_filtered": [
+      "различный"
+     ]
+    }
+   },
+   "e130": {
+    "surface": "Won",
+    "union": [
+     "won (значения)",
+     "вона"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "won (значения)"
+     ],
+     "wiktionary": [
+      "вона"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e131": {
+    "surface": "N/A",
+    "union": [
+     "недоступный",
+     "неприменимый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "недоступный",
+      "неприменимый"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e132": {
+    "surface": "N/A",
+    "union": [
+     "недоступный",
+     "неприменимый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "недоступный",
+      "неприменимый"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e133": {
+    "surface": "Marathon",
+    "union": [
+     "марафон",
+     "яркий"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "марафон"
+     ],
+     "wiktionary": [
+      "марафон"
+     ],
+     "openrussian": [
+      "марафон"
+     ],
+     "statistical_full": [
+      "марафон",
+      "яркий"
+     ],
+     "statistical_filtered": [
+      "марафон"
+     ]
+    }
+   },
+   "e134": {
+    "surface": "INC",
+    "union": [
+     "инк"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "инк"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e136": {
+    "surface": "Yes",
+    "union": [
+     "yes (значения)",
+     "да",
+     "ещё как",
+     "наоборот",
+     "напротив",
+     "так"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "yes (значения)"
+     ],
+     "wiktionary": [
+      "да",
+      "ещё как",
+      "наоборот",
+      "напротив"
+     ],
+     "openrussian": [
+      "да"
+     ],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e138": {
+    "surface": "Private",
+    "union": [
+     "боец",
+     "закрытый",
+     "келейный",
+     "конфиденциальный",
+     "личный",
+     "негласный",
+     "необщедоступный",
+     "прива (значения)"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "прива (значения)"
+     ],
+     "wiktionary": [
+      "закрытый",
+      "личный",
+      "необщедоступный",
+      "приватный"
+     ],
+     "openrussian": [
+      "боец",
+      "келейный",
+      "конфиденциальный",
+      "личный"
+     ],
+     "statistical_full": [
+      "личный",
+      "частное",
+      "частный"
+     ],
+     "statistical_filtered": [
+      "частный"
+     ]
+    }
+   },
+   "e142": {
+    "surface": "Honda",
+    "union": [
+     "хонда"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "хонда"
+     ],
+     "openrussian": [],
+     "statistical_full": [
+      "хонда"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e144": {
+    "surface": "link",
+    "union": [
+     "гиперссылка",
+     "звено",
+     "кулиса",
+     "линк",
+     "ниточка",
+     "связанный",
+     "связать",
+     "связывать"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "линк"
+     ],
+     "wiktionary": [
+      "гиперссылка",
+      "звено",
+      "линк",
+      "связывать"
+     ],
+     "openrussian": [
+      "звено",
+      "кулиса",
+      "ниточка",
+      "связь"
+     ],
+     "statistical_full": [
+      "звено",
+      "связанный",
+      "связать",
+      "связывать"
+     ],
+     "statistical_filtered": [
+      "ссылка"
+     ]
+    }
+   },
+   "e149": {
+    "surface": "Wimbledon",
+    "union": [
+     "уимблдон",
+     "уимблдон (значения)"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "уимблдон (значения)"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "уимблдон"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e153": {
+    "surface": "Jimmy Connors",
+    "union": [
+     "коннорс, джимми"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "коннорс, джимми"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e155": {
+    "surface": "Franz",
+    "union": [
+     "франц"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [
+      "франц"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e157": {
+    "surface": "Havoc",
+    "union": [
+     "havok (значения)",
+     "беспорядок",
+     "опустошение",
+     "разгром",
+     "разрушение",
+     "хаос"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "havok (значения)"
+     ],
+     "wiktionary": [
+      "беспорядок",
+      "опустошение",
+      "разрушение",
+      "хаос"
+     ],
+     "openrussian": [
+      "разгром"
+     ],
+     "statistical_full": [
+      "хаос"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e158": {
+    "surface": "Oil and gas",
+    "union": [
+     "нефтегазовый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [
+      "нефтегазовый"
+     ],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e161": {
+    "surface": "Peter Maxwell Davies",
+    "union": [
+     "дейвис, питер максвелл"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "дейвис, питер максвелл"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e165": {
+    "surface": "Clay",
+    "union": [
+     "глина",
+     "глиняный",
+     "клей",
+     "клэя"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "глина"
+     ],
+     "wiktionary": [
+      "глина"
+     ],
+     "openrussian": [
+      "глина",
+      "глиняный"
+     ],
+     "statistical_full": [
+      "глина",
+      "глиняный",
+      "клей",
+      "клэя"
+     ],
+     "statistical_filtered": [
+      "глина"
+     ]
+    }
+   },
+   "e167": {
+    "surface": "petrol",
+    "union": [
+     "азс",
+     "бензин",
+     "бензиновый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [],
+     "openrussian": [
+      "бензин"
+     ],
+     "statistical_full": [
+      "азс",
+      "бензин",
+      "бензиновый"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e170": {
+    "surface": "Heer",
+    "union": [
+     "хеер"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "хеер"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e176": {
+    "surface": "None",
+    "union": [
+     "нет",
+     "никакой",
+     "никто",
+     "ничего",
+     "один"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "никакой",
+      "никто"
+     ],
+     "openrussian": [
+      "никакой"
+     ],
+     "statistical_full": [
+      "нет",
+      "никто",
+      "ничего",
+      "один"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e177": {
+    "surface": "city",
+    "union": [
+     "астана",
+     "город",
+     "городской",
+     "град",
+     "ньюйорк",
+     "общегородской",
+     "сити"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "город"
+     ],
+     "wiktionary": [
+      "город",
+      "град",
+      "сити"
+     ],
+     "openrussian": [
+      "городской",
+      "общегородской"
+     ],
+     "statistical_full": [
+      "астана",
+      "город",
+      "городской",
+      "ньюйорк"
+     ],
+     "statistical_filtered": [
+      "город"
+     ]
+    }
+   },
+   "e178": {
+    "surface": "lethal injection",
+    "union": [
+     "смертельная инъекция"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "смертельная инъекция"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e180": {
+    "surface": "Michael Cage",
+    "union": [
+     "кейдж, майкл"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "кейдж, майкл"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e184": {
+    "surface": "n/a",
+    "union": [
+     "недоступный",
+     "неприменимый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "недоступный",
+      "неприменимый"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e185": {
+    "surface": "N/A",
+    "union": [
+     "недоступный",
+     "неприменимый"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "недоступный",
+      "неприменимый"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e187": {
+    "surface": "Dave Brubeck",
+    "union": [
+     "брубек, дэйв"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "брубек, дэйв"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e190": {
+    "surface": "Vault",
+    "union": [
+     "арка",
+     "вольтижировать",
+     "опорный прыжок",
+     "перепрыгивать",
+     "перескакивать",
+     "перескочить",
+     "погреб",
+     "подвал"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "арка",
+      "опорный прыжок",
+      "перепрыгивать",
+      "погреб"
+     ],
+     "openrussian": [
+      "вольтижировать",
+      "перескакивать",
+      "перескочить",
+      "погреб"
+     ],
+     "statistical_full": [
+      "свод",
+      "хранилище"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e191": {
+    "surface": "Ayrton Senna",
+    "union": [
+     "сенна, айртон"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "сенна, айртон"
+     ],
+     "wiktionary": [],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   },
+   "e194": {
+    "surface": "Away",
+    "union": [
+     "вдали",
+     "вон",
+     "далеко",
+     "далёкий",
+     "долой",
+     "забрать",
+     "недоступно",
+     "отнять"
+    ],
+    "per_dict": {
+     "wikidict": [],
+     "wiktionary": [
+      "вон",
+      "далеко",
+      "долой",
+      "недоступно"
+     ],
+     "openrussian": [
+      "подальше",
+      "прочь"
+     ],
+     "statistical_full": [
+      "вдали",
+      "далеко",
+      "далёкий",
+      "забрать"
+     ],
+     "statistical_filtered": []
+    }
+   },
+   "e199": {
+    "surface": "Handan",
+    "union": [
+     "ханьдань"
+    ],
+    "per_dict": {
+     "wikidict": [
+      "ханьдань"
+     ],
+     "wiktionary": [
+      "ханьдань"
+     ],
+     "openrussian": [],
+     "statistical_full": [],
+     "statistical_filtered": []
+    }
+   }
+  }
+ },
+ "pairwise_agreement": {
+  "openrussian vs statistical_full": {
+   "overlapping_occurrences": 28,
+   "agreeing": 22,
+   "rate": 0.79
+  },
+  "openrussian vs statistical_filtered": {
+   "overlapping_occurrences": 11,
+   "agreeing": 9,
+   "rate": 0.82
+  },
+  "statistical_full vs statistical_filtered": {
+   "overlapping_occurrences": 12,
+   "agreeing": 12,
+   "rate": 1.0
+  },
+  "wikidict vs wiktionary": {
+   "overlapping_occurrences": 22,
+   "agreeing": 13,
+   "rate": 0.59
+  },
+  "wikidict vs openrussian": {
+   "overlapping_occurrences": 16,
+   "agreeing": 6,
+   "rate": 0.38
+  },
+  "wikidict vs statistical_full": {
+   "overlapping_occurrences": 19,
+   "agreeing": 12,
+   "rate": 0.63
+  },
+  "wikidict vs statistical_filtered": {
+   "overlapping_occurrences": 9,
+   "agreeing": 6,
+   "rate": 0.67
+  },
+  "wiktionary vs openrussian": {
+   "overlapping_occurrences": 28,
+   "agreeing": 26,
+   "rate": 0.93
+  },
+  "wiktionary vs statistical_full": {
+   "overlapping_occurrences": 29,
+   "agreeing": 27,
+   "rate": 0.93
+  },
+  "wiktionary vs statistical_filtered": {
+   "overlapping_occurrences": 11,
+   "agreeing": 11,
+   "rate": 1.0
+  }
+ }
+}

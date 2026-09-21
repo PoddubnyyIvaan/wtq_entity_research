@@ -1,0 +1,13 @@
+{
+ "note": "40 manually tracked entities from previous stage, with PN/WD/Wiki sources",
+ "rows": {
+  "Entity": "Ha-218",
+  "Type": "FALSE_POSITIVE",
+  "ParaNames": null,
+  "pn_match_type": "none",
+  "pn_lookup": "none",
+  "Wikidata": "Берлинские кварталы эпохи модернизма",
+  "Wikipedia": "Берлинские кварталы эпохи модернизма",
+  "Qwen_modeD_retranslate.LL": null
+ }
+}

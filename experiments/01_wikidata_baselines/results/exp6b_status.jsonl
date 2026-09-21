@@ -1,0 +1,200 @@
+{"example_id": "e001", "type": "UNKNOWN", "source": "DIGIT FIVE", "ru_form": "5", "qid": "Q87496073", "status": "SUSPICIOUS", "flags": ["RU form is Latin", "reverse_qid_mismatch"]}
+{"example_id": "e002", "type": "ORGANIZATION", "source": "Red Box", "ru_form": "", "qid": "Q2135903", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e003", "type": "MULTI_WORD", "source": "Not Free", "ru_form": "платно", "qid": "Q24202480", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e004", "type": "ORGANIZATION", "source": "Student/Model", "ru_form": "", "qid": "Q4680749", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e005", "type": "LOCATION", "source": "Fashion Magazine", "ru_form": "журнал мод", "qid": "Q9397629", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_qid_mismatch"]}
+{"example_id": "e006", "type": "SHORT_AMBIGUOUS", "source": "Real-time", "ru_form": "Система реального времени", "qid": "Q347066", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e007", "type": "EVENT_WORK", "source": "National Football League Round 6", "ru_form": "Национальная футбольная лига", "qid": "Q1215884", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e008", "type": "UNKNOWN", "source": "lethal injection", "ru_form": "", "qid": "Q3831046", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e009", "type": "LOCATION", "source": "Residential", "ru_form": "Микрорайон (КНР)", "qid": "Q985488", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e010", "type": "SPORTS_TEAM", "source": "Team Rahal", "ru_form": "Рэйхол, Бобби", "qid": "Q172255", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e011", "type": "SPORTS_TEAM", "source": "KV Racing Technology", "ru_form": "KV Racing Technology", "qid": "Q957647", "status": "VERIFIED", "flags": ["RU form is Latin"]}
+{"example_id": "e012", "type": "EVENT_WORK", "source": "World Indoor Championships", "ru_form": "", "qid": "Q50334785", "status": "AMBIGUOUS", "flags": ["RU form missing", "disambiguation_page", "no_ru_form"]}
+{"example_id": "e013", "type": "SURNAME", "source": "Parent", "ru_form": "Родители", "qid": "Q7566", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e014", "type": "SURNAME", "source": "Cooper-Maserati", "ru_form": "Купер (команда Формулы-1)", "qid": "Q173003", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e015", "type": "LOCATION", "source": "Leo", "ru_form": "Лео", "qid": "Q606764", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e016", "type": "SPORTS_TEAM", "source": "Husqvarna", "ru_form": "", "qid": "Q138797006", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e017", "type": "EVENT_WORK", "source": "Horsemen", "ru_form": "", "qid": "Q65023008", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e018", "type": "EVENT_WORK", "source": "HXD3B0001-HXD3B0500", "ru_form": "", "qid": "Q747325", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e019", "type": "SURNAME", "source": "Scattering", "ru_form": "Рассеяние", "qid": "Q210028", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e020", "type": "SHORT_AMBIGUOUS", "source": "Report", "ru_form": "Доклад", "qid": "Q10870555", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e021", "type": "MULTI_WORD", "source": "+ 3 Laps", "ru_form": "", "qid": "", "status": "UNRESOLVED", "flags": ["no_candidates", "no_ru_form"]}
+{"example_id": "e022", "type": "SHORT_AMBIGUOUS", "source": "Champions", "ru_form": "", "qid": "Q122825626", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e023", "type": "PERSON", "source": "Hon Sol Rosevear", "ru_form": "1944 год в искусстве", "qid": "Q2577846", "status": "VERIFIED", "flags": ["low string match"]}
+{"example_id": "e024", "type": "SHORT_AMBIGUOUS", "source": "Avalon", "ru_form": "", "qid": "Q79204560", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e025", "type": "SURNAME", "source": "Coral", "ru_form": "", "qid": "Q3693328", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e026", "type": "PERSON", "source": "Islahuddin Siddique", "ru_form": "Сиддикуи, Ислахуддин", "qid": "Q6081591", "status": "VERIFIED", "flags": []}
+{"example_id": "e027", "type": "ORGANIZATION", "source": "Game Boy Advance", "ru_form": "Game Boy Advance SP", "qid": "Q842836", "status": "AMBIGUOUS", "flags": ["RU form is Latin", "multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e028", "type": "SHORT_AMBIGUOUS", "source": "Away", "ru_form": "", "qid": "Q107041110", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e029", "type": "EVENT_WORK", "source": "Allsvenskan", "ru_form": "Чемпионат Швеции по футболу", "qid": "Q202243", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e030", "type": "SPORTS_TEAM", "source": "Toronto Maple Leafs", "ru_form": "Торонто Мейпл Лифс", "qid": "Q203384", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e031", "type": "SPORTS_TEAM", "source": "Ware Racing Enterprises", "ru_form": "", "qid": "Q7331848", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e032", "type": "ORGANIZATION", "source": "LFPO", "ru_form": "Париж-Орли (аэропорт)", "qid": "Q223416", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e033", "type": "LOCATION", "source": "Yinchuan", "ru_form": "Иньчуань", "qid": "Q211243", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e034", "type": "SPORTS_TEAM", "source": "@ Giants", "ru_form": "Гиганты", "qid": "Q191192", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_qid_mismatch"]}
+{"example_id": "e035", "type": "PERSON", "source": "Sharp, Marshall", "ru_form": "Маршалловы Острова", "qid": "Q709", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e036", "type": "LOCATION", "source": "Sandhill", "ru_form": "", "qid": "Q28062027", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e037", "type": "UNKNOWN", "source": "@ Twins", "ru_form": "Twins (поп-группа)", "qid": "Q706202", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e038", "type": "SURNAME", "source": "Cameo", "ru_form": "Камео", "qid": "Q191796", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e039", "type": "FALSE_POSITIVE", "source": "6th", "ru_form": "Массачусетс", "qid": "Q771", "status": "NA_ENTITY_QC", "flags": ["reverse_failed"]}
+{"example_id": "e040", "type": "PERSON", "source": "Neil Riser", "ru_form": "", "qid": "Q6989217", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e041", "type": "FALSE_POSITIVE", "source": "current", "ru_form": "течение", "qid": "Q12142910", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e042", "type": "PERSON", "source": "Jerry Bailey", "ru_form": "", "qid": "Q6183416", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e043", "type": "EVENT_WORK", "source": "Cup", "ru_form": "чашка", "qid": "Q81727", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e044", "type": "SURNAME", "source": "Luftwaffe", "ru_form": "Люфтваффе (вермахт)", "qid": "Q2564009", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e045", "type": "EVENT_WORK", "source": "Toyota Cup", "ru_form": "Межконтинентальный кубок по футболу (1960—2004)", "qid": "Q182473", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e046", "type": "PERSON", "source": "Dan Severn", "ru_form": "Северн, Дэн", "qid": "Q2268766", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e047", "type": "PERSON", "source": "Joe Hennessy", "ru_form": "", "qid": "Q6210284", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e048", "type": "SURNAME", "source": "Heer", "ru_form": "Хир", "qid": "Q37553243", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e049", "type": "LOCATION", "source": "#2 NC State", "ru_form": "Университет штата Северная Каролина", "qid": "Q1132346", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e050", "type": "ORGANIZATION", "source": "LFGK", "ru_form": "", "qid": "Q2875488", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e051", "type": "EVENT_WORK", "source": "Come in From the Rain", "ru_form": "", "qid": "Q5151322", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e052", "type": "FALSE_POSITIVE", "source": "TBD", "ru_form": "", "qid": "Q115411607", "status": "NA_ENTITY_QC", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e053", "type": "MULTI_WORD", "source": "Hanyang Private Use", "ru_form": "Ханьянский университет", "qid": "Q40006", "status": "VERIFIED", "flags": ["low string match"]}
+{"example_id": "e054", "type": "ORGANIZATION", "source": "NRL", "ru_form": "", "qid": "Q18030220", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e055", "type": "PERSON", "source": "Besnik Shanaj (34.48 %)", "ru_form": "", "qid": "Q1321726", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e056", "type": "MULTI_WORD", "source": "[Data unknown/missing. You can help!]", "ru_form": "", "qid": "Q5008702", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e057", "type": "MULTI_WORD", "source": "Modern Hot Records", "ru_form": "", "qid": "Q1551705", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e058", "type": "MULTI_WORD", "source": "Best Motion Picture", "ru_form": "премия «Золотая хлопушка» за лучший фильм", "qid": "Q97183923", "status": "VERIFIED", "flags": []}
+{"example_id": "e059", "type": "PERSON", "source": "Oeste Potiguar", "ru_form": "Запад штата Риу-Гранди-ду-Норти (мезорегион)", "qid": "Q2397983", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e060", "type": "EVENT_WORK", "source": "National Football League Round 4", "ru_form": "", "qid": "", "status": "UNRESOLVED", "flags": ["no_candidates", "no_ru_form"]}
+{"example_id": "e061", "type": "LOCATION", "source": "Walton", "ru_form": "Уолтон", "qid": "Q2547568", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_qid_mismatch"]}
+{"example_id": "e062", "type": "LOCATION", "source": "Kirkkonummi", "ru_form": "Киркконумми", "qid": "Q748092", "status": "VERIFIED", "flags": []}
+{"example_id": "e063", "type": "EVENT_WORK", "source": "World Championships", "ru_form": "Чемпионат мира по фигурному катанию", "qid": "Q285389", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e064", "type": "LOCATION", "source": "Queensland Government Railways", "ru_form": "", "qid": "Q379439", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e065", "type": "UNKNOWN", "source": "7ZL", "ru_form": "", "qid": "Q112731210", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e066", "type": "UNKNOWN", "source": "19°56′34″S 146°14′21″E﻿ / ﻿19.94278°S 146.23917°E", "ru_form": "", "qid": "Q6605422", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e067", "type": "SHORT_AMBIGUOUS", "source": "Changelog", "ru_form": "", "qid": "Q135078754", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e068", "type": "LOCATION", "source": "OR 99W northeast of Dayton", "ru_form": "", "qid": "Q2494497", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e069", "type": "SHORT_AMBIGUOUS", "source": "Win", "ru_form": "", "qid": "Q28842058", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e070", "type": "SPORTS_TEAM", "source": "All American Racing", "ru_form": "", "qid": "Q173450", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e071", "type": "MULTI_WORD", "source": "Summer Nights", "ru_form": "", "qid": "Q100878604", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e072", "type": "MULTI_WORD", "source": "Club Play Singles", "ru_form": "Dance Club Songs", "qid": "Q1638075", "status": "SUSPICIOUS", "flags": ["RU form is Latin", "low string match", "reverse_failed"]}
+{"example_id": "e073", "type": "FALSE_POSITIVE", "source": "Ha-218", "ru_form": "Берлинские кварталы эпохи модернизма", "qid": "Q19094", "status": "NA_ENTITY_QC", "flags": ["low string match"]}
+{"example_id": "e074", "type": "MULTI_WORD", "source": "I Like It", "ru_form": "I Like It (песня Карди Би, Бэда Банни и Джея Бальвина)", "qid": "Q54805365", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e075", "type": "EVENT_WORK", "source": "Finally", "ru_form": "", "qid": "Q17772162", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e076", "type": "UNKNOWN", "source": "Civil parish", "ru_form": "община Шотландии", "qid": "Q5124673", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e077", "type": "LOCATION", "source": "Much Wenlock", "ru_form": "Мач-Уэнлок", "qid": "Q201114", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e078", "type": "EVENT_WORK", "source": "World Cup Final - third place playoff", "ru_form": "Матч за третье место", "qid": "Q1910276", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e079", "type": "EVENT_WORK", "source": "Super League XIII", "ru_form": "", "qid": "Q7642538", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e080", "type": "EVENT_WORK", "source": "World Junior Championships", "ru_form": "", "qid": "Q11783047", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e081", "type": "EVENT_WORK", "source": "If You Were a Woman and I Was a Man", "ru_form": "If You Were a Woman (And I Was a Man)", "qid": "Q1095938", "status": "UNRESOLVED", "flags": ["RU form is Latin", "reverse_failed"]}
+{"example_id": "e082", "type": "PERSON", "source": "Michael Andretti", "ru_form": "Андретти, Майкл", "qid": "Q171519", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e083", "type": "ORGANIZATION", "source": "Sasebo Naval Arsenal", "ru_form": "Военно-морской арсенал в Сасебо", "qid": "Q2754053", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e084", "type": "SPORTS_TEAM", "source": "Aylesbury United", "ru_form": "", "qid": "Q4831369", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e085", "type": "LOCATION", "source": "Seybertown", "ru_form": "", "qid": "", "status": "UNRESOLVED", "flags": ["no_candidates", "no_ru_form"]}
+{"example_id": "e086", "type": "MULTI_WORD", "source": "1st Round", "ru_form": "", "qid": "Q3597956", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e087", "type": "LOCATION", "source": "Buffalo Bills", "ru_form": "Баффало Биллс", "qid": "Q221626", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e088", "type": "PERSON", "source": "Liu Shaoqi", "ru_form": "Лю Шаоци", "qid": "Q16988", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e089", "type": "LOCATION", "source": "Healy Park, Omagh", "ru_form": "", "qid": "Q3783904", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e090", "type": "SHORT_AMBIGUOUS", "source": "Marathon", "ru_form": "Марафон", "qid": "Q40244", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e091", "type": "SPORTS_TEAM", "source": "Lola Cars Ltd. / Team Surtees", "ru_form": "Lola Cars", "qid": "Q172857", "status": "VERIFIED", "flags": ["RU form is Latin", "low string match"]}
+{"example_id": "e092", "type": "SPORTS_TEAM", "source": "Edgewood Eagles", "ru_form": "", "qid": "Q104973866", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e093", "type": "EVENT_WORK", "source": "Friendly", "ru_form": "", "qid": "Q19902292", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e094", "type": "ORGANIZATION", "source": "MCX: LKOH", "ru_form": "Лукойл", "qid": "Q329347", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e095", "type": "SPORTS_TEAM", "source": "BMW Motorsport GmbH", "ru_form": "BMW M", "qid": "Q173339", "status": "VERIFIED", "flags": ["RU form is Latin"]}
+{"example_id": "e096", "type": "MULTI_WORD", "source": "Pref. Aut.", "ru_form": "", "qid": "Q5010041", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e097", "type": "SPORTS_TEAM", "source": "@ Braves", "ru_form": "", "qid": "Q122787421", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e098", "type": "SPORTS_TEAM", "source": "Circle Bar Racing", "ru_form": "", "qid": "Q5121389", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e099", "type": "LOCATION", "source": "Big 12", "ru_form": "Конференция Big 12", "qid": "Q858430", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e100", "type": "LOCATION", "source": "Grays Harbor", "ru_form": "", "qid": "Q1544076", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e101", "type": "MULTI_WORD", "source": "Giant Slalom", "ru_form": "Гигантский слалом", "qid": "Q338208", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e102", "type": "ORGANIZATION", "source": "RTP Payload Format for the Speex Codec", "ru_form": "", "qid": "Q47455198", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e103", "type": "SPORTS_TEAM", "source": "PacWest Racing Group", "ru_form": "", "qid": "Q4347246", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e104", "type": "EVENT_WORK", "source": "Pan Arab Games", "ru_form": "Арабские игры", "qid": "Q1150550", "status": "VERIFIED", "flags": []}
+{"example_id": "e105", "type": "LOCATION", "source": "Draco", "ru_form": "Дракон (созвездие)", "qid": "Q8675", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e106", "type": "EVENT_WORK", "source": "Olympic Games", "ru_form": "Олимпийские игры", "qid": "Q5389", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e107", "type": "ORGANIZATION", "source": "Keith Miller (1/2)", "ru_form": "Миллер, Кит Харви", "qid": "Q881854", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e108", "type": "EVENT_WORK", "source": "Euro/African Zone Group I, Quarterfinals", "ru_form": "", "qid": "Q593630", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e109", "type": "SHORT_AMBIGUOUS", "source": "Away", "ru_form": "", "qid": "Q107041110", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e110", "type": "MULTI_WORD", "source": "Minimum to High", "ru_form": "", "qid": "Q96393296", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e111", "type": "FALSE_POSITIVE", "source": "U+0026", "ru_form": "Амперсанд", "qid": "Q11213", "status": "NA_ENTITY_QC", "flags": []}
+{"example_id": "e112", "type": "SURNAME", "source": "Ode", "ru_form": "Оде", "qid": "Q37243543", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e113", "type": "EVENT_WORK", "source": "Run", "ru_form": "Run (песня Snow Patrol)", "qid": "Q1508815", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e114", "type": "FALSE_POSITIVE", "source": "current", "ru_form": "течение", "qid": "Q12142910", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e115", "type": "MULTI_WORD", "source": "Left Wing", "ru_form": "", "qid": "Q66115689", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e116", "type": "PERSON", "source": "1804 (completed)", "ru_form": "1804", "qid": "Q19241407", "status": "AMBIGUOUS", "flags": ["RU form is Latin", "multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e117", "type": "SURNAME", "source": "Rita", "ru_form": "Рита Кадиллак", "qid": "Q112832", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e118", "type": "PERSON", "source": "H. C. McNeile", "ru_form": "Херман С. МакНил", "qid": "Q3134064", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e119", "type": "EVENT_WORK", "source": "National Football League Round 1", "ru_form": "Национальная футбольная лига", "qid": "Q1215884", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e120", "type": "FALSE_POSITIVE", "source": "U+0043", "ru_form": "C", "qid": "Q87496163", "status": "NA_ENTITY_QC", "flags": ["RU form is Latin", "reverse_failed"]}
+{"example_id": "e121", "type": "MULTI_WORD", "source": "F♯m, C♯m, E, E♭m", "ru_form": "Буквенно-цифровое обозначение аккорда", "qid": "Q1504804", "status": "VERIFIED", "flags": ["low string match"]}
+{"example_id": "e122", "type": "ORGANIZATION", "source": "LSE: BP", "ru_form": "BP", "qid": "Q152057", "status": "SUSPICIOUS", "flags": ["RU form is Latin", "low string match", "reverse_failed"]}
+{"example_id": "e123", "type": "LOCATION", "source": "FAU Stadium, Miami, USA", "ru_form": "", "qid": "Q5513195", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e124", "type": "LOCATION", "source": "Manchester", "ru_form": "Манчестер", "qid": "Q18125", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e125", "type": "UNKNOWN", "source": "54.43 m", "ru_form": "", "qid": "Q2908482", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e126", "type": "SURNAME", "source": "Various", "ru_form": "различные исполнители", "qid": "Q3108914", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e127", "type": "PERSON", "source": "Horse trainer", "ru_form": "тренер лошадей", "qid": "Q466640", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e128", "type": "LOCATION", "source": "Soritor", "ru_form": "", "qid": "Q27194589", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e129", "type": "FALSE_POSITIVE", "source": "14th", "ru_form": "14 ноября", "qid": "Q2983", "status": "NA_ENTITY_QC", "flags": ["low string match"]}
+{"example_id": "e130", "type": "SHORT_AMBIGUOUS", "source": "Won", "ru_form": "", "qid": "Q16967828", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e131", "type": "FALSE_POSITIVE", "source": "N/A", "ru_form": "значение отсутствует (личное имя)", "qid": "Q929804", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e132", "type": "FALSE_POSITIVE", "source": "N/A", "ru_form": "значение отсутствует (личное имя)", "qid": "Q929804", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e133", "type": "SHORT_AMBIGUOUS", "source": "Marathon", "ru_form": "Марафон", "qid": "Q40244", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e134", "type": "ORGANIZATION", "source": "INC", "ru_form": "Inc. (журнал)", "qid": "Q954455", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e135", "type": "SHORT_AMBIGUOUS", "source": "Brown/White", "ru_form": "Коричневый сахар", "qid": "Q11190742", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e136", "type": "SHORT_AMBIGUOUS", "source": "Yes", "ru_form": "Yes (группа)", "qid": "Q184386", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e137", "type": "PERSON", "source": "Joseph Lamb", "ru_form": "Лэмб, Джозеф", "qid": "Q1066908", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e138", "type": "SHORT_AMBIGUOUS", "source": "Private", "ru_form": "Рядовой", "qid": "Q158668", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e139", "type": "SURNAME", "source": "Skimo", "ru_form": "", "qid": "Q3284369", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e140", "type": "PERSON", "source": "Der bleiche Zauberer", "ru_form": "", "qid": "Q6631759", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e141", "type": "SHORT_AMBIGUOUS", "source": "Sportnet.hr", "ru_form": "", "qid": "Q7579619", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e142", "type": "ORGANIZATION", "source": "Honda", "ru_form": "Honda", "qid": "Q9584", "status": "VERIFIED", "flags": ["RU form is Latin", "multiple plausible QIDs"]}
+{"example_id": "e143", "type": "SPORTS_TEAM", "source": "Société des Automobiles Alpine", "ru_form": "Alpine Renault", "qid": "Q26944", "status": "VERIFIED", "flags": ["RU form is Latin"]}
+{"example_id": "e144", "type": "FALSE_POSITIVE", "source": "link", "ru_form": "Линк (персонаж)", "qid": "Q568553", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e145", "type": "PERSON", "source": "NZR Addington", "ru_form": "", "qid": "Q6956172", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e146", "type": "SPORTS_TEAM", "source": "Stewart-Haas Racing", "ru_form": "", "qid": "Q511684", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e147", "type": "PERSON", "source": "Dan Mackinnon", "ru_form": "", "qid": "Q5218021", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e148", "type": "ORGANIZATION", "source": "ESPN", "ru_form": "ESPN", "qid": "Q217776", "status": "VERIFIED", "flags": ["RU form is Latin", "multiple plausible QIDs"]}
+{"example_id": "e149", "type": "SPORTS_TEAM", "source": "Wimbledon", "ru_form": "Уимблдон (футбольный клуб, 2002)", "qid": "Q48851", "status": "UNRESOLVED", "flags": ["reverse_failed"]}
+{"example_id": "e150", "type": "PERSON", "source": "Jerry York", "ru_form": "", "qid": "Q16107179", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e151", "type": "LOCATION", "source": "Recettear: An Item Shop's Tale", "ru_form": "Recettear: An Item Shop's Tale", "qid": "Q5962782", "status": "VERIFIED", "flags": ["RU form is Latin"]}
+{"example_id": "e152", "type": "SURNAME", "source": "Stromae", "ru_form": "Stromae", "qid": "Q313453", "status": "UNRESOLVED", "flags": ["RU form is Latin", "reverse_failed"]}
+{"example_id": "e153", "type": "PERSON", "source": "Jimmy Connors", "ru_form": "Коннорс, Джимми", "qid": "Q53393", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e154", "type": "PERSON", "source": "1860 (established)", "ru_form": "1860", "qid": "Q19241494", "status": "AMBIGUOUS", "flags": ["RU form is Latin", "multiple plausible QIDs", "reverse_qid_mismatch"]}
+{"example_id": "e155", "type": "SURNAME", "source": "Franz", "ru_form": "Франц", "qid": "Q4925932", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e156", "type": "PERSON", "source": "Andy Suhy", "ru_form": "", "qid": "", "status": "UNRESOLVED", "flags": ["no_candidates", "no_ru_form"]}
+{"example_id": "e157", "type": "SURNAME", "source": "Havoc", "ru_form": "", "qid": "Q56273812", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e158", "type": "UNKNOWN", "source": "Oil and gas", "ru_form": "", "qid": "Q26989041", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e159", "type": "UNKNOWN", "source": "Strings of my guitar", "ru_form": "While My Guitar Gently Weeps", "qid": "Q548046", "status": "VERIFIED", "flags": ["RU form is Latin", "low string match"]}
+{"example_id": "e160", "type": "PERSON", "source": "Dino Lusuardi", "ru_form": "", "qid": "Q4600180", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e161", "type": "PERSON", "source": "Peter Maxwell Davies", "ru_form": "Дейвис, Питер Максвелл", "qid": "Q139223", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e162", "type": "MULTI_WORD", "source": "Rooftop/Outside Terrace", "ru_form": "Терраса (архитектура)", "qid": "Q641406", "status": "SUSPICIOUS", "flags": ["low string match", "reverse_failed"]}
+{"example_id": "e163", "type": "SPORTS_TEAM", "source": "Davis Racing", "ru_form": "", "qid": "Q18466138", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e164", "type": "PERSON", "source": "Marc Coleselli", "ru_form": "", "qid": "Q1140286", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e165", "type": "SHORT_AMBIGUOUS", "source": "Clay", "ru_form": "Клей (однофамильцы)", "qid": "Q12787061", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e166", "type": "SHORT_AMBIGUOUS", "source": "Concertante", "ru_form": "", "qid": "Q2749069", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e167", "type": "FALSE_POSITIVE", "source": "petrol", "ru_form": "", "qid": "Q10348999", "status": "NA_ENTITY_QC", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e168", "type": "MULTI_WORD", "source": "'Lock And Key'", "ru_form": "", "qid": "Q8047", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e169", "type": "PERSON", "source": "BMW M1", "ru_form": "BMW M1", "qid": "Q796574", "status": "VERIFIED", "flags": ["RU form is Latin", "multiple plausible QIDs"]}
+{"example_id": "e170", "type": "SURNAME", "source": "Heer", "ru_form": "Хир", "qid": "Q37553243", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e171", "type": "ORGANIZATION", "source": "HH Bridge", "ru_form": "", "qid": "Q4992697", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e172", "type": "PERSON", "source": "Robert Smith", "ru_form": "Смит, Роберт (музыкант)", "qid": "Q491252", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e173", "type": "ORGANIZATION", "source": "LFJU", "ru_form": "", "qid": "Q2755482", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e174", "type": "EVENT_WORK", "source": "Friendly match", "ru_form": "Товарищеский матч", "qid": "Q493386", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e175", "type": "MULTI_WORD", "source": "Ambassador Extraordinary and Plenipotentiary", "ru_form": "Чрезвычайный и полномочный посол", "qid": "Q20068736", "status": "SUSPICIOUS", "flags": ["reverse_qid_mismatch"]}
+{"example_id": "e176", "type": "LOCATION", "source": "None", "ru_form": "Ноне", "qid": "Q9512", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e177", "type": "FALSE_POSITIVE", "source": "city", "ru_form": "Город", "qid": "Q515", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e178", "type": "UNKNOWN", "source": "lethal injection", "ru_form": "", "qid": "Q3831046", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e179", "type": "LOCATION", "source": "U.S. Route 97", "ru_form": "", "qid": "Q410849", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e180", "type": "PERSON", "source": "Michael Cage", "ru_form": "Кейдж, Майкл", "qid": "Q1469007", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e181", "type": "ORGANIZATION", "source": "Carroll D. Kearns", "ru_form": "", "qid": "Q5046552", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e182", "type": "SHORT_AMBIGUOUS", "source": "Nominated", "ru_form": "", "qid": "Q2936270", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e183", "type": "EVENT_WORK", "source": "European Team Championships", "ru_form": "", "qid": "Q1630626", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e184", "type": "FALSE_POSITIVE", "source": "n/a", "ru_form": "значение отсутствует (личное имя)", "qid": "Q929804", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e185", "type": "FALSE_POSITIVE", "source": "N/A", "ru_form": "значение отсутствует (личное имя)", "qid": "Q929804", "status": "NA_ENTITY_QC", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e186", "type": "EVENT_WORK", "source": "If You Were a Woman and I Was a Man", "ru_form": "If You Were a Woman (And I Was a Man)", "qid": "Q1095938", "status": "UNRESOLVED", "flags": ["RU form is Latin", "reverse_failed"]}
+{"example_id": "e187", "type": "ORGANIZATION", "source": "Dave Brubeck", "ru_form": "Брубек, Дейв", "qid": "Q108597", "status": "ACCEPTABLE_WITHOUT_ENTITY_ID", "flags": ["reverse_failed"]}
+{"example_id": "e188", "type": "EVENT_WORK", "source": "FA Cup / 4th QF (replay)", "ru_form": "Кубок Англии по футболу 2006/2007", "qid": "Q1386662", "status": "VERIFIED", "flags": ["low string match"]}
+{"example_id": "e189", "type": "ORGANIZATION", "source": "Internazionali BNL d'Italia", "ru_form": "Открытый чемпионат Италии по теннису 2009", "qid": "Q1460380", "status": "VERIFIED", "flags": ["low string match"]}
+{"example_id": "e190", "type": "SHORT_AMBIGUOUS", "source": "Vault", "ru_form": "", "qid": "Q129054", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e191", "type": "PERSON", "source": "Ayrton Senna", "ru_form": "Сенна, Айртон", "qid": "Q10490", "status": "VERIFIED", "flags": ["multiple plausible QIDs"]}
+{"example_id": "e192", "type": "LOCATION", "source": "Ranking member of the Rules Committee", "ru_form": "", "qid": "Q2495353", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e193", "type": "MULTI_WORD", "source": "Busy Doin' Nothin'", "ru_form": "", "qid": "Q15898846", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e194", "type": "SHORT_AMBIGUOUS", "source": "Away", "ru_form": "", "qid": "Q107041110", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}
+{"example_id": "e195", "type": "PERSON", "source": "P.S. Appu", "ru_form": "", "qid": "", "status": "UNRESOLVED", "flags": ["no_candidates", "no_ru_form"]}
+{"example_id": "e196", "type": "SPORTS_TEAM", "source": "Madison Mustangs", "ru_form": "", "qid": "Q25207279", "status": "SUSPICIOUS", "flags": ["RU form missing", "low string match", "no_ru_form"]}
+{"example_id": "e197", "type": "SPORTS_TEAM", "source": "Dreyer & Reinbold Racing", "ru_form": "", "qid": "Q1258857", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e198", "type": "ORGANIZATION", "source": "patrol flying boat", "ru_form": "", "qid": "Q104884373", "status": "UNRESOLVED", "flags": ["RU form missing", "no_ru_form"]}
+{"example_id": "e199", "type": "LOCATION", "source": "Handan", "ru_form": "Ханьдань", "qid": "Q58570", "status": "AMBIGUOUS", "flags": ["multiple plausible QIDs", "reverse_failed"]}
+{"example_id": "e200", "type": "MULTI_WORD", "source": "Nursing Homes", "ru_form": "", "qid": "Q27712331", "status": "AMBIGUOUS", "flags": ["RU form missing", "multiple plausible QIDs", "no_ru_form"]}

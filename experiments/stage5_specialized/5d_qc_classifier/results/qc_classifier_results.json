@@ -1,0 +1,122 @@
+{
+ "features": [
+  "identity_verified",
+  "reverse_mismatch",
+  "resolver_score",
+  "lex_match_en",
+  "ru_cyrillic",
+  "ru_source_sitelink",
+  "header_keyword_team",
+  "header_keyword_country",
+  "pn_match",
+  "pn_type_matches",
+  "dict_agreement_max",
+  "llm_confidence",
+  "llm_conf_sq",
+  "status_flag_ambiguous",
+  "is_entity_stratum"
+ ],
+ "target": "manual needs_review (40)",
+ "results": {
+  "logreg": {
+   "loo_accuracy": 0.55,
+   "loo_f1": 0.625,
+   "confusion": [
+    [
+     7,
+     11
+    ],
+    [
+     7,
+     15
+    ]
+   ],
+   "pred_review_rate": 0.65
+  },
+  "feature_importance_logreg": [
+   [
+    "pn_match",
+    1.24
+   ],
+   [
+    "is_entity_stratum",
+    0.97
+   ],
+   [
+    "status_flag_ambiguous",
+    0.68
+   ],
+   [
+    "ru_source_sitelink",
+    -0.44
+   ],
+   [
+    "header_keyword_team",
+    0.44
+   ],
+   [
+    "lex_match_en",
+    -0.43
+   ],
+   [
+    "pn_type_matches",
+    -0.37
+   ],
+   [
+    "reverse_mismatch",
+    0.36
+   ],
+   [
+    "ru_cyrillic",
+    -0.26
+   ],
+   [
+    "header_keyword_country",
+    0.18
+   ],
+   [
+    "dict_agreement_max",
+    0.16
+   ],
+   [
+    "resolver_score",
+    -0.13
+   ],
+   [
+    "llm_conf_sq",
+    0.09
+   ],
+   [
+    "llm_confidence",
+    0.05
+   ],
+   [
+    "identity_verified",
+    0.03
+   ]
+  ],
+  "gradboost": {
+   "loo_accuracy": 0.65,
+   "loo_f1": 0.682,
+   "confusion": [
+    [
+     11,
+     7
+    ],
+    [
+     7,
+     15
+    ]
+   ],
+   "pred_review_rate": 0.55
+  },
+  "baseline_rule": {
+   "loo_accuracy": 0.55,
+   "pred_review_rate": 0.4
+  },
+  "baseline_llm_judge_3b": {
+   "agreement": 0.55,
+   "pred_review_rate": 0.85
+  }
+ }
+}

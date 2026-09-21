@@ -1,0 +1,34 @@
+# Raw data
+experiments/**/raw/
+experiments/paranames/raw/
+
+# Models
+experiments/**/models/
+*.safetensors
+*.pt
+*.ckpt
+
+# Caches
+experiments/**/cache/
+experiments/**/.cache/
+
+# Large intermediate
+experiments/stage5_specialized/5a_ne_translit/results/pn_per_split.json
+
+# Large file extensions
+*.tsv.gz
+*.parquet
+*.dsl
+*.dz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Local cache
+cache/

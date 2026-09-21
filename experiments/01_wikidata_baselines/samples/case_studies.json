@@ -1,0 +1,129 @@
+[
+ {
+  "case": "ambiguous_without_header",
+  "example_id": "e002",
+  "source": "Red Box",
+  "evidence": "WD desc 'British band' vs generic box; column header 'Band' in page context resolves it",
+  "lesson": "cell value alone never sufficient"
+ },
+ {
+  "case": "question_resolves",
+  "example_id": "e006",
+  "source": "Chisu",
+  "question": "does adele or chisu have the highest number of sales?",
+  "evidence": "PERSON in utterance; WD QID found; surname transliteration acceptable",
+  "note": "WTQ utterance mentions the cell value"
+ },
+ {
+  "case": "row_helps_question_not",
+  "example_id": "e034",
+  "source": "@ Giants",
+  "question": "which date had the most attendance?",
+  "row": "102 | July 24 | @ Giants | 1-0 | Cain (6-8)",
+  "evidence": "WD linked Greek myth Giants (harmful); baseball row context (@ Giants, season table) required; '@' marker important",
+  "lesson": "ROW context more valuable than the question here"
+ },
+ {
+  "case": "context_needed_gaa_vs_nfl",
+  "example_id": "e007",
+  "source": "National Football League Round 6",
+  "row": "Cork - Parnell Park, Dublin",
+  "evidence": "WD top-1 = American NFL; the cell means the Irish GAA league; WITHOUT row context resolution is wrong",
+  "lesson": "type-informed candidate ranking required"
+ },
+ {
+  "case": "wd_poor_result_substitution",
+  "example_id": "e095",
+  "source": "BMW Motorsport GmbH",
+  "wd": "BMW M",
+  "evidence": "current-day name substitution; historical team name lost",
+  "lesson": "FYI staleness/naming mismatch in WD is common for GOT renamed entities"
+ },
+ {
+  "case": "wd_service_title",
+  "example_id": "e134",
+  "source": "Husqvarna",
+  "wd_forms": [
+   "Husqvarna (multiple qids)"
+  ],
+  "evidence": "no ru sitelink; label/aliases split across Husqvarna group/motorcycles chain saws",
+  "note": "WD label equals EN (Latin), RU missing -> flag 'RU form is Latin'"
+ },
+ {
+  "case": "ru_form_ok_roundtrip_fails",
+  "example_id": "e033",
+  "source": "Yinchuan",
+  "ru": "Иньчуань",
+  "evidence": "good rus form; EN->RU->EN back-translation cannot recover 'Yinchuan' without entity id",
+  "lesson": "round-trip exact match penalizes good translations"
+ },
+ {
+  "case": "roundtrip_passes_translation_dubious",
+  "example_id": "e114",
+  "source": "current",
+  "ru": "течение",
+  "evidence": "round-trip 'течение'->'current' succeeds while for this row ('current' = up to now) the noun translation is wrong",
+  "lesson": "round-trip can pass on wrong translations"
+ },
+ {
+  "case": "harweak_niche_team",
+  "example_id": "e070",
+  "source": "All American Racing",
+  "wd": "All American Racers (Q173450)",
+  "evidence": "surface form differs from official name; string-match score low, only fallback found it",
+  "note": "normalization/alias needed for WTQ team spellings"
+ },
+ {
+  "case": "u000_template_junk",
+  "example_id": "e056",
+  "source": "[Data unknown/missing. You can help!]",
+  "evidence": "template junk; must be preserved verbatim",
+  "lesson": "filter class exists beyond numbers/dates"
+ },
+ {
+  "case": "payoff_inconsistent",
+  "example_id": "e029",
+  "source": "Allsvenskan",
+  "ru": "Чемпионат Швеции по футболу",
+  "evidence": "correct entity, WD RU label is descriptive; natural RU name is 'Алльсвенскан'",
+  "lesson": "WD RU labels sometimes describe rather than name"
+ },
+ {
+  "case": "u123_surname_or_team",
+  "example_id": "e014",
+  "source": "Cooper-Maserati",
+  "ru": "Купер (команда Формулы-1)",
+  "evidence": "WD RU label contains disambiguating parenthetical - flag __ok (need strip)"
+ },
+ {
+  "case": "non_latin_zip",
+  "example_id": "n/a (pool filter)",
+  "source": "בני ברק",
+  "evidence": "non-Latin source scripts occur in WTQ cells (397 cyr in pool scan) but excluded from eval sample; pipeline needs script detection"
+ },
+ {
+  "case": "mandatory_smith_smyth",
+  "source": "Smith / Smyth",
+  "evidence": "both transliterate to 'Смит' (collision); round-trip cannot restore; only entity id distinguishes"
+ },
+ {
+  "case": "mandatory_new_york",
+  "source": "New York",
+  "evidence": "traditional 'Нью-Йорк'; pure rules give 'Нев Йорк' (bad); dict required for traditional forms"
+ },
+ {
+  "case": "mandatory_london",
+  "source": "London",
+  "evidence": "traditional 'Лондон' from dict not from rules"
+ },
+ {
+  "case": "mandatory_george",
+  "source": "George",
+  "evidence": "first-name dict required: rules give 'Дорд'"
+ },
+ {
+  "case": "mandatory_washington",
+  "source": "Washington",
+  "evidence": "'Вашингтон' for person/city/state alike; type differences do not change the RU form"
+ }
+]

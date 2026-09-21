@@ -1,0 +1,32 @@
+{
+ "n": 200,
+ "candidates_dist": {
+  "1": 39,
+  "0": 84,
+  "3": 27,
+  "2": 42,
+  "4": 8
+ },
+ "silver_levels": {
+  "4": 6,
+  "0": 150,
+  "3": 7,
+  "1": 23,
+  "2": 14
+ },
+ "identity_gold": {
+  "available": 50,
+  "unknown": 115,
+  "ambiguous": 35
+ },
+ "surface_gold": {
+  "unknown": 163,
+  "available": 37
+ },
+ "sources": {
+  "wikidata": 108,
+  "": 84,
+  "paranames,wikidata": 7,
+  "paranames": 1
+ }
+}

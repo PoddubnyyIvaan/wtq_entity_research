@@ -1,0 +1,229 @@
+{
+ "e001": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "literal is right for unicode name"
+ },
+ "e002": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "band translated as box"
+ },
+ "e004": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "occupation literal ok"
+ },
+ "e005": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "'Мода' loses magazine"
+ },
+ "e007": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "GAA league -> NFL, drops Round 6"
+ },
+ "e014": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "typo 'Коупер' but recognizable"
+ },
+ "e026": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e029": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "Алсвенскан vs Алльсвенскан"
+ },
+ "e030": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e033": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Йинчжоу is a wrong place form; WD gave Иньчуань"
+ },
+ "e034": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "@ Гэйнзс wrong team transliteration"
+ },
+ "e042": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e046": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e056": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "template translated; must stay verbatim"
+ },
+ "e065": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "callsign latin preferred"
+ },
+ "e067": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "garbage"
+ },
+ "e068": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "northeast -> юго-западнее flips direction"
+ },
+ "e070": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "garbage"
+ },
+ "e073": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "copy is right"
+ },
+ "e076": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "guberniya != civil parish"
+ },
+ "e082": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "Андетти typo (Андретти)"
+ },
+ "e087": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Buffalo Bills -> Бронкос: substitution"
+ },
+ "e095": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "garbled"
+ },
+ "e101": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e103": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e106": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e114": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "'deleted: current' = до настоящего времени"
+ },
+ "e115": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "position: 'левый крайний'"
+ },
+ "e119": {
+  "harmful": true,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "same as e007"
+ },
+ "e121": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e122": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "LSE: BP tolerable (BP stays Latin)"
+ },
+ "e129": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e131": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e140": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "title translation debatable, prefer translit"
+ },
+ "e158": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e169": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false,
+  "note": "БМВ М1 acceptable (brand cyrillic fine)"
+ },
+ "e180": {
+  "harmful": false,
+  "semantic_ok": false,
+  "needs_review": true,
+  "note": "Cage -> Кэсси misspelling not substitution"
+ },
+ "e181": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e182": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": false
+ },
+ "e197": {
+  "harmful": false,
+  "semantic_ok": true,
+  "needs_review": true,
+  "note": "Ринборт typo (Рейнбольд)"
+ }
+}

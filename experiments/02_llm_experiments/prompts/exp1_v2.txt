@@ -1,0 +1,40 @@
+Translate one cell of an English table into Russian.
+
+IMPORTANT — YOUR TASK is to translate the CELL text written below. Do NOT
+answer the question and do NOT translate the question. The column header,
+row and question are given ONLY to disambiguate what the cell refers to.
+Respond in English or Russian only (never Chinese).
+
+Rules:
+- Preserve the identity and meaning of named entities.
+- If the cell contains a named entity, output the natural Russian surface
+  form (transliteration or traditional form). The Russian form does not
+  need to be spelled like the English one.
+- Do not invent an entity; if the context is insufficient, set
+  "needs_review": true and put your best guess under "translation".
+- Target Russian: use the conventional Russian written form.
+- Return JSON only, no other text.
+
+Return JSON only, exactly:
+{"source": "<exact cell>", "translation": "<russian>",
+ "is_entity": true|false,
+ "entity_type": "PERSON|LOCATION|ORGANIZATION|SPORTS_TEAM|EVENT_WORK|OTHER|NONE|UNKNOWN",
+ "interpretation": "<short explanation>",
+ "confidence": 0.0-1.0, "needs_review": true|false}
+
+CELL:
+{cell}
+
+COLUMN HEADER:
+{column}
+
+ROW (pipe-separated values):
+{row}
+
+WTQ QUESTION:
+{question}
+
+TABLE TITLE:
+{title}
+
+Now translate the CELL. Remember: translate the CELL, not the question.

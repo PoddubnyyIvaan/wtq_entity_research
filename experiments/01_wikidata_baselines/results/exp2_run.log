@@ -1,0 +1,21 @@
+exp2: 0/200 interval=0.55s
+exp2: 10/200 interval=2.51s
+exp2: 20/200 interval=1.08s
+exp2: 30/200 interval=2.62s
+exp2: 40/200 interval=3.60s
+exp2: 50/200 interval=2.92s
+exp2: 60/200 interval=4.00s
+exp2: 70/200 interval=3.24s
+exp2: 80/200 interval=1.39s
+exp2: 90/200 interval=2.62s
+exp2: 100/200 interval=2.13s
+exp2: 110/200 interval=3.24s
+exp2: 120/200 interval=1.72s
+exp2: 130/200 interval=2.92s
+exp2: 140/200 interval=4.00s
+exp2: 150/200 interval=2.13s
+exp2: 160/200 interval=1.72s
+exp2: 170/200 interval=4.00s
+exp2: 180/200 interval=1.39s
+exp2: 190/200 interval=2.36s
+exp2 done: {'n': 200, 'candidate_coverage': 0.975, 'russian_form_coverage': 0.56, 'ru_source_dist': {'ru_label_latin': 5, '': 88, 'ru_label': 19, 'ru_sitelink': 84, 'ru_alias': 4}, 'flag_distribution': {'RU form is Latin': 19, 'RU form missing': 83, 'multiple plausible QIDs': 93, 'low string match': 43, 'disambiguation_page': 1, 'no_candidates': 5}, 'score_mean': 0.82785, 'score_ge_0.8': 0.71}

@@ -1,0 +1,26 @@
+{
+ "pool_counts_per_stratum": {
+  "LOCATION": 83742,
+  "PERSON": 21703,
+  "UNKNOWN": 23445,
+  "ORGANIZATION": 11663,
+  "SHORT_AMBIGUOUS": 9054,
+  "MULTI_WORD": 3505,
+  "SURNAME": 3459,
+  "FALSE_POSITIVE": 8488,
+  "EVENT_WORK": 1361,
+  "SPORTS_TEAM": 892
+ },
+ "quotas": {
+  "PERSON": 30,
+  "SURNAME": 15,
+  "LOCATION": 25,
+  "ORGANIZATION": 20,
+  "SPORTS_TEAM": 20,
+  "EVENT_WORK": 25,
+  "MULTI_WORD": 20,
+  "SHORT_AMBIGUOUS": 20,
+  "FALSE_POSITIVE": 15,
+  "UNKNOWN": 10
+ }
+}

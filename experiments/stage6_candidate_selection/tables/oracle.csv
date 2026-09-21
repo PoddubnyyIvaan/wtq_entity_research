@@ -1,0 +1,3 @@
+method,attempted,correct,wrong,false_positive,correct_abstain,missed_candidate,invalid,selection_agreement,no_match_rate
+ORACLE_Qwen3B,116,18,0,0,62,36,0,1.0,0.845
+ORACLE_Qwen7B,116,34,0,0,50,32,0,1.0,0.707

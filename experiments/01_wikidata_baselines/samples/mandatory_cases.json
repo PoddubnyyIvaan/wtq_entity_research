@@ -1,0 +1,30 @@
+[
+ {
+  "value": "Smith",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "Smyth",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "New York",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "Arsenal",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "Washington",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "London",
+  "note": "mandatory synthetic case"
+ },
+ {
+  "value": "George",
+  "note": "mandatory synthetic case"
+ }
+]

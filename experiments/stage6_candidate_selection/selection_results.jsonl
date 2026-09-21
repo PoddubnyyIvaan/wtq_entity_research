@@ -1,0 +1,375 @@
+{"id": "e001", "method": "B0_first", "selection": "candidate_01", "selected_ru": "5", "status": "SELECTED"}
+{"id": "e001", "method": "B1_score", "selection": "candidate_01", "selected_ru": "5", "status": "SELECTED"}
+{"id": "e003", "method": "B0_first", "selection": "candidate_01", "selected_ru": "платно", "status": "SELECTED"}
+{"id": "e003", "method": "B1_score", "selection": "candidate_01", "selected_ru": "платно", "status": "SELECTED"}
+{"id": "e005", "method": "B0_first", "selection": "candidate_01", "selected_ru": "журнал мод", "status": "SELECTED"}
+{"id": "e005", "method": "B1_score", "selection": "candidate_01", "selected_ru": "журнал мод", "status": "SELECTED"}
+{"id": "e006", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Система реального времени", "status": "SELECTED"}
+{"id": "e006", "method": "B1_score", "selection": "candidate_02", "selected_ru": "реальное время", "status": "SELECTED"}
+{"id": "e007", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED"}
+{"id": "e007", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED"}
+{"id": "e009", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Микрорайон (КНР)", "status": "SELECTED"}
+{"id": "e009", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Микрорайон (КНР)", "status": "SELECTED"}
+{"id": "e010", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Рэйхол, Бобби", "status": "SELECTED"}
+{"id": "e010", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Рэйхол, Бобби", "status": "SELECTED"}
+{"id": "e011", "method": "B0_first", "selection": "candidate_01", "selected_ru": "KV Racing Technology", "status": "SELECTED"}
+{"id": "e011", "method": "B1_score", "selection": "candidate_01", "selected_ru": "KV Racing Technology", "status": "SELECTED"}
+{"id": "e013", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Родители", "status": "SELECTED"}
+{"id": "e013", "method": "B1_score", "selection": "candidate_02", "selected_ru": "родитель", "status": "SELECTED"}
+{"id": "e014", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Купер (команда Формулы-1)", "status": "SELECTED"}
+{"id": "e014", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Купер (команда Формулы-1)", "status": "SELECTED"}
+{"id": "e015", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Лео", "status": "SELECTED"}
+{"id": "e015", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Лео", "status": "SELECTED"}
+{"id": "e019", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Рассеяние", "status": "SELECTED"}
+{"id": "e019", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Рассеяние", "status": "SELECTED"}
+{"id": "e020", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Доклад", "status": "SELECTED"}
+{"id": "e020", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Доклад", "status": "SELECTED"}
+{"id": "e023", "method": "B0_first", "selection": "candidate_01", "selected_ru": "1944 год в искусстве", "status": "SELECTED"}
+{"id": "e023", "method": "B1_score", "selection": "candidate_01", "selected_ru": "1944 год в искусстве", "status": "SELECTED"}
+{"id": "e024", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Avalon", "status": "SELECTED"}
+{"id": "e024", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Avalon", "status": "SELECTED"}
+{"id": "e026", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Сиддикуи, Ислахуддин", "status": "SELECTED"}
+{"id": "e026", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Ислахуддин Сиддикуи", "status": "SELECTED"}
+{"id": "e027", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Game Boy Advance SP", "status": "SELECTED"}
+{"id": "e027", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Game Boy Advance SP", "status": "SELECTED"}
+{"id": "e029", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Чемпионат Швеции по футболу", "status": "SELECTED"}
+{"id": "e029", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Чемпионат Швеции по футболу", "status": "SELECTED"}
+{"id": "e030", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Торонто Мейпл Лифс", "status": "SELECTED"}
+{"id": "e030", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Торонто Мейпл Лифс", "status": "SELECTED"}
+{"id": "e032", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Париж-Орли (аэропорт)", "status": "SELECTED"}
+{"id": "e032", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Париж-Орли", "status": "SELECTED"}
+{"id": "e033", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Иньчуань", "status": "SELECTED"}
+{"id": "e033", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Иньчуань", "status": "SELECTED"}
+{"id": "e034", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Гиганты", "status": "SELECTED"}
+{"id": "e034", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Гиганты", "status": "SELECTED"}
+{"id": "e035", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Маршалловы Острова", "status": "SELECTED"}
+{"id": "e035", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Маршалловы Острова", "status": "SELECTED"}
+{"id": "e037", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Twins (поп-группа)", "status": "SELECTED"}
+{"id": "e037", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Twins", "status": "SELECTED"}
+{"id": "e038", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Камео", "status": "SELECTED"}
+{"id": "e038", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Камео", "status": "SELECTED"}
+{"id": "e039", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Массачусетс", "status": "SELECTED"}
+{"id": "e039", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Массачусетс", "status": "SELECTED"}
+{"id": "e041", "method": "B0_first", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED"}
+{"id": "e041", "method": "B1_score", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED"}
+{"id": "e043", "method": "B0_first", "selection": "candidate_01", "selected_ru": "чашка", "status": "SELECTED"}
+{"id": "e043", "method": "B1_score", "selection": "candidate_01", "selected_ru": "чашка", "status": "SELECTED"}
+{"id": "e044", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Люфтваффе (вермахт)", "status": "SELECTED"}
+{"id": "e044", "method": "B1_score", "selection": "candidate_02", "selected_ru": "люфтваффе", "status": "SELECTED"}
+{"id": "e045", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Межконтинентальный кубок по футболу (1960—2004)", "status": "SELECTED"}
+{"id": "e045", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Межконтинентальный кубок по футболу", "status": "SELECTED"}
+{"id": "e046", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Северн, Дэн", "status": "SELECTED"}
+{"id": "e046", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Дэн Северн", "status": "SELECTED"}
+{"id": "e048", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED"}
+{"id": "e048", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED"}
+{"id": "e049", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Университет штата Северная Каролина", "status": "SELECTED"}
+{"id": "e049", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Университет штата Северная Каролина", "status": "SELECTED"}
+{"id": "e053", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Ханьянский университет", "status": "SELECTED"}
+{"id": "e053", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Ханьянский университет", "status": "SELECTED"}
+{"id": "e058", "method": "B0_first", "selection": "candidate_01", "selected_ru": "премия «Золотая хлопушка» за лучший фильм", "status": "SELECTED"}
+{"id": "e058", "method": "B1_score", "selection": "candidate_01", "selected_ru": "премия «Золотая хлопушка» за лучший фильм", "status": "SELECTED"}
+{"id": "e059", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Запад штата Риу-Гранди-ду-Норти (мезорегион)", "status": "SELECTED"}
+{"id": "e059", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Запад штата Риу-Гранди-ду-Норти", "status": "SELECTED"}
+{"id": "e061", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Уолтон", "status": "SELECTED"}
+{"id": "e061", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Уолтон", "status": "SELECTED"}
+{"id": "e062", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Киркконумми", "status": "SELECTED"}
+{"id": "e062", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Киркконумми", "status": "SELECTED"}
+{"id": "e063", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Чемпионат мира по фигурному катанию", "status": "SELECTED"}
+{"id": "e063", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Чемпионат мира по фигурному катанию", "status": "SELECTED"}
+{"id": "e069", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Win", "status": "SELECTED"}
+{"id": "e069", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Win", "status": "SELECTED"}
+{"id": "e072", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Dance Club Songs", "status": "SELECTED"}
+{"id": "e072", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Dance Club Songs", "status": "SELECTED"}
+{"id": "e073", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Берлинские кварталы эпохи модернизма", "status": "SELECTED"}
+{"id": "e073", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Берлинские кварталы эпохи модернизма", "status": "SELECTED"}
+{"id": "e074", "method": "B0_first", "selection": "candidate_01", "selected_ru": "I Like It (песня Карди Би, Бэда Банни и Джея Бальвина)", "status": "SELECTED"}
+{"id": "e074", "method": "B1_score", "selection": "candidate_02", "selected_ru": "I Like It", "status": "SELECTED"}
+{"id": "e076", "method": "B0_first", "selection": "candidate_01", "selected_ru": "община Шотландии", "status": "SELECTED"}
+{"id": "e076", "method": "B1_score", "selection": "candidate_01", "selected_ru": "община Шотландии", "status": "SELECTED"}
+{"id": "e077", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Мач-Уэнлок", "status": "SELECTED"}
+{"id": "e077", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Мач-Уэнлок", "status": "SELECTED"}
+{"id": "e078", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Матч за третье место", "status": "SELECTED"}
+{"id": "e078", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Матч за третье место", "status": "SELECTED"}
+{"id": "e081", "method": "B0_first", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED"}
+{"id": "e081", "method": "B1_score", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED"}
+{"id": "e082", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Андретти, Майкл", "status": "SELECTED"}
+{"id": "e082", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Майкл Андретти", "status": "SELECTED"}
+{"id": "e083", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Военно-морской арсенал в Сасебо", "status": "SELECTED"}
+{"id": "e083", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Арсенал флота в Сасэбо", "status": "SELECTED"}
+{"id": "e087", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Баффало Биллс", "status": "SELECTED"}
+{"id": "e087", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Буффало Биллс", "status": "SELECTED"}
+{"id": "e088", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Лю Шаоци", "status": "SELECTED"}
+{"id": "e088", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Лю Шаоци", "status": "SELECTED"}
+{"id": "e090", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED"}
+{"id": "e090", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED"}
+{"id": "e091", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Lola Cars", "status": "SELECTED"}
+{"id": "e091", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Lola Cars", "status": "SELECTED"}
+{"id": "e094", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Лукойл", "status": "SELECTED"}
+{"id": "e094", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Лукойл", "status": "SELECTED"}
+{"id": "e095", "method": "B0_first", "selection": "candidate_01", "selected_ru": "BMW M", "status": "SELECTED"}
+{"id": "e095", "method": "B1_score", "selection": "candidate_01", "selected_ru": "BMW M", "status": "SELECTED"}
+{"id": "e099", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Конференция Big 12", "status": "SELECTED"}
+{"id": "e099", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Конференция Big 12", "status": "SELECTED"}
+{"id": "e101", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Гигантский слалом", "status": "SELECTED"}
+{"id": "e101", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Гигантский слалом", "status": "SELECTED"}
+{"id": "e104", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Арабские игры", "status": "SELECTED"}
+{"id": "e104", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Арабские игры", "status": "SELECTED"}
+{"id": "e105", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Дракон (созвездие)", "status": "SELECTED"}
+{"id": "e105", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Дракон", "status": "SELECTED"}
+{"id": "e106", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Олимпийские игры", "status": "SELECTED"}
+{"id": "e106", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Олимпийские игры", "status": "SELECTED"}
+{"id": "e107", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Миллер, Кит Харви", "status": "SELECTED"}
+{"id": "e107", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Кит Харви Миллер", "status": "SELECTED"}
+{"id": "e111", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Амперсанд", "status": "SELECTED"}
+{"id": "e111", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Амперсанд", "status": "SELECTED"}
+{"id": "e112", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Оде", "status": "SELECTED"}
+{"id": "e112", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Оде", "status": "SELECTED"}
+{"id": "e113", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Run (песня Snow Patrol)", "status": "SELECTED"}
+{"id": "e113", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Run", "status": "SELECTED"}
+{"id": "e114", "method": "B0_first", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED"}
+{"id": "e114", "method": "B1_score", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED"}
+{"id": "e116", "method": "B0_first", "selection": "candidate_01", "selected_ru": "1804", "status": "SELECTED"}
+{"id": "e116", "method": "B1_score", "selection": "candidate_01", "selected_ru": "1804", "status": "SELECTED"}
+{"id": "e117", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Рита Кадиллак", "status": "SELECTED"}
+{"id": "e117", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Рита Кадиллак", "status": "SELECTED"}
+{"id": "e118", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Херман С. МакНил", "status": "SELECTED"}
+{"id": "e118", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Херман С. МакНил", "status": "SELECTED"}
+{"id": "e119", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED"}
+{"id": "e119", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED"}
+{"id": "e120", "method": "B0_first", "selection": "candidate_01", "selected_ru": "C", "status": "SELECTED"}
+{"id": "e120", "method": "B1_score", "selection": "candidate_01", "selected_ru": "C", "status": "SELECTED"}
+{"id": "e121", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Буквенно-цифровое обозначение аккорда", "status": "SELECTED"}
+{"id": "e121", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Буквенно-цифровое обозначение аккорда", "status": "SELECTED"}
+{"id": "e122", "method": "B0_first", "selection": "candidate_01", "selected_ru": "BP", "status": "SELECTED"}
+{"id": "e122", "method": "B1_score", "selection": "candidate_01", "selected_ru": "BP", "status": "SELECTED"}
+{"id": "e124", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Манчестер", "status": "SELECTED"}
+{"id": "e124", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Манчестер", "status": "SELECTED"}
+{"id": "e126", "method": "B0_first", "selection": "candidate_01", "selected_ru": "различные исполнители", "status": "SELECTED"}
+{"id": "e126", "method": "B1_score", "selection": "candidate_01", "selected_ru": "различные исполнители", "status": "SELECTED"}
+{"id": "e127", "method": "B0_first", "selection": "candidate_01", "selected_ru": "тренер лошадей", "status": "SELECTED"}
+{"id": "e127", "method": "B1_score", "selection": "candidate_01", "selected_ru": "тренер лошадей", "status": "SELECTED"}
+{"id": "e129", "method": "B0_first", "selection": "candidate_01", "selected_ru": "14 ноября", "status": "SELECTED"}
+{"id": "e129", "method": "B1_score", "selection": "candidate_01", "selected_ru": "14 ноября", "status": "SELECTED"}
+{"id": "e131", "method": "B0_first", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e131", "method": "B1_score", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e132", "method": "B0_first", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e132", "method": "B1_score", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e133", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED"}
+{"id": "e133", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED"}
+{"id": "e134", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Inc. (журнал)", "status": "SELECTED"}
+{"id": "e134", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Inc.", "status": "SELECTED"}
+{"id": "e135", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Коричневый сахар", "status": "SELECTED"}
+{"id": "e135", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Коричневый сахар", "status": "SELECTED"}
+{"id": "e136", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Yes (группа)", "status": "SELECTED"}
+{"id": "e136", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Yes", "status": "SELECTED"}
+{"id": "e137", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Лэмб, Джозеф", "status": "SELECTED"}
+{"id": "e137", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Джозеф Лэмб", "status": "SELECTED"}
+{"id": "e138", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Рядовой", "status": "SELECTED"}
+{"id": "e138", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Рядовой", "status": "SELECTED"}
+{"id": "e142", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Honda", "status": "SELECTED"}
+{"id": "e142", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Honda", "status": "SELECTED"}
+{"id": "e143", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Alpine Renault", "status": "SELECTED"}
+{"id": "e143", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Alpine Renault", "status": "SELECTED"}
+{"id": "e144", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Линк (персонаж)", "status": "SELECTED"}
+{"id": "e144", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Линк", "status": "SELECTED"}
+{"id": "e148", "method": "B0_first", "selection": "candidate_01", "selected_ru": "ESPN", "status": "SELECTED"}
+{"id": "e148", "method": "B1_score", "selection": "candidate_01", "selected_ru": "ESPN", "status": "SELECTED"}
+{"id": "e149", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Уимблдон (футбольный клуб, 2002)", "status": "SELECTED"}
+{"id": "e149", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Уимблдон", "status": "SELECTED"}
+{"id": "e151", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Recettear: An Item Shop's Tale", "status": "SELECTED"}
+{"id": "e151", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Recettear: An Item Shop's Tale", "status": "SELECTED"}
+{"id": "e152", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Stromae", "status": "SELECTED"}
+{"id": "e152", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Stromae", "status": "SELECTED"}
+{"id": "e153", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Коннорс, Джимми", "status": "SELECTED"}
+{"id": "e153", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Джимми Коннорс", "status": "SELECTED"}
+{"id": "e154", "method": "B0_first", "selection": "candidate_01", "selected_ru": "1860", "status": "SELECTED"}
+{"id": "e154", "method": "B1_score", "selection": "candidate_01", "selected_ru": "1860", "status": "SELECTED"}
+{"id": "e155", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Франц", "status": "SELECTED"}
+{"id": "e155", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Франц", "status": "SELECTED"}
+{"id": "e157", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Хэвок", "status": "SELECTED"}
+{"id": "e157", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Хэвок", "status": "SELECTED"}
+{"id": "e159", "method": "B0_first", "selection": "candidate_01", "selected_ru": "While My Guitar Gently Weeps", "status": "SELECTED"}
+{"id": "e159", "method": "B1_score", "selection": "candidate_01", "selected_ru": "While My Guitar Gently Weeps", "status": "SELECTED"}
+{"id": "e161", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Дейвис, Питер Максвелл", "status": "SELECTED"}
+{"id": "e161", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Питер Максвелл Дэвис", "status": "SELECTED"}
+{"id": "e162", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Терраса (архитектура)", "status": "SELECTED"}
+{"id": "e162", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Терраса (архитектура)", "status": "SELECTED"}
+{"id": "e165", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Клей (однофамильцы)", "status": "SELECTED"}
+{"id": "e165", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Клей", "status": "SELECTED"}
+{"id": "e168", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Ферменты", "status": "SELECTED"}
+{"id": "e168", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Ферменты", "status": "SELECTED"}
+{"id": "e169", "method": "B0_first", "selection": "candidate_01", "selected_ru": "BMW M1", "status": "SELECTED"}
+{"id": "e169", "method": "B1_score", "selection": "candidate_01", "selected_ru": "BMW M1", "status": "SELECTED"}
+{"id": "e170", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED"}
+{"id": "e170", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED"}
+{"id": "e172", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Смит, Роберт (музыкант)", "status": "SELECTED"}
+{"id": "e172", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Роберт Смит", "status": "SELECTED"}
+{"id": "e174", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Товарищеский матч", "status": "SELECTED"}
+{"id": "e174", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Товарищеский матч", "status": "SELECTED"}
+{"id": "e175", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Чрезвычайный и полномочный посол", "status": "SELECTED"}
+{"id": "e175", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Чрезвычайный и полномочный посол", "status": "SELECTED"}
+{"id": "e176", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Ноне", "status": "SELECTED"}
+{"id": "e176", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Ноне", "status": "SELECTED"}
+{"id": "e177", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Город", "status": "SELECTED"}
+{"id": "e177", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Город", "status": "SELECTED"}
+{"id": "e180", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Кейдж, Майкл", "status": "SELECTED"}
+{"id": "e180", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Майкл Кейдж", "status": "SELECTED"}
+{"id": "e184", "method": "B0_first", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e184", "method": "B1_score", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e185", "method": "B0_first", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e185", "method": "B1_score", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED"}
+{"id": "e186", "method": "B0_first", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED"}
+{"id": "e186", "method": "B1_score", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED"}
+{"id": "e187", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Брубек, Дейв", "status": "SELECTED"}
+{"id": "e187", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Дейв Брубек", "status": "SELECTED"}
+{"id": "e188", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Кубок Англии по футболу 2006/2007", "status": "SELECTED"}
+{"id": "e188", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Кубок Англии по футболу 2006/2007", "status": "SELECTED"}
+{"id": "e189", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Открытый чемпионат Италии по теннису 2009", "status": "SELECTED"}
+{"id": "e189", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Открытый чемпионат Италии по теннису 2009", "status": "SELECTED"}
+{"id": "e191", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Сенна, Айртон", "status": "SELECTED"}
+{"id": "e191", "method": "B1_score", "selection": "candidate_02", "selected_ru": "Айртон Сенна", "status": "SELECTED"}
+{"id": "e199", "method": "B0_first", "selection": "candidate_01", "selected_ru": "Ханьдань", "status": "SELECTED"}
+{"id": "e199", "method": "B1_score", "selection": "candidate_01", "selected_ru": "Ханьдань", "status": "SELECTED"}
+{"id": "e019", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рассеяние", "status": "SELECTED", "score": 1.0}
+{"id": "e041", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED", "score": 0.998}
+{"id": "e044", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Люфтваффе (вермахт)", "status": "SELECTED", "score": 1.0}
+{"id": "e049", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Университет штата Северная Каролина", "status": "SELECTED", "score": 1.0}
+{"id": "e058", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "премия «Золотая хлопушка» за лучший фильм", "status": "SELECTED", "score": 0.999}
+{"id": "e059", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Запад штата Риу-Гранди-ду-Норти (мезорегион)", "status": "SELECTED", "score": 1.0}
+{"id": "e062", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Киркконумми", "status": "SELECTED", "score": 1.0}
+{"id": "e063", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Чемпионат мира по фигурному катанию", "status": "SELECTED", "score": 1.0}
+{"id": "e077", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Мач-Уэнлок", "status": "SELECTED", "score": 1.0}
+{"id": "e083", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Военно-морской арсенал в Сасебо", "status": "SELECTED", "score": 1.0}
+{"id": "e088", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лю Шаоци", "status": "SELECTED", "score": 1.0}
+{"id": "e090", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED", "score": 1.0}
+{"id": "e104", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Арабские игры", "status": "SELECTED", "score": 1.0}
+{"id": "e111", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Амперсанд", "status": "SELECTED", "score": 1.0}
+{"id": "e118", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Херман С. МакНил", "status": "SELECTED", "score": 0.999}
+{"id": "e124", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Манчестер", "status": "SELECTED", "score": 1.0}
+{"id": "e126", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "различные исполнители", "status": "SELECTED", "score": 0.999}
+{"id": "e133", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED", "score": 1.0}
+{"id": "e137", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лэмб, Джозеф", "status": "SELECTED", "score": 0.998}
+{"id": "e138", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рядовой", "status": "SELECTED", "score": 1.0}
+{"id": "e153", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Коннорс, Джимми", "status": "SELECTED", "score": 1.0}
+{"id": "e155", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Франц", "status": "SELECTED", "score": 1.0}
+{"id": "e176", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ноне", "status": "SELECTED", "score": 1.0}
+{"id": "e177", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Город", "status": "SELECTED", "score": 1.0}
+{"id": "e187", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Брубек, Дейв", "status": "SELECTED", "score": 0.998}
+{"id": "e191", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Сенна, Айртон", "status": "SELECTED", "score": 1.0}
+{"id": "e199", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ханьдань", "status": "SELECTED", "score": 1.0}
+{"id": "e001", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "5", "status": "SELECTED", "score": 0.998}
+{"id": "e003", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "платно", "status": "SELECTED", "score": 0.998}
+{"id": "e005", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "журнал мод", "status": "SELECTED", "score": 0.998}
+{"id": "e006", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Система реального времени", "status": "SELECTED", "score": 1.0}
+{"id": "e007", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED", "score": 1.0}
+{"id": "e009", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Микрорайон (КНР)", "status": "SELECTED", "score": 1.0}
+{"id": "e010", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рэйхол, Бобби", "status": "SELECTED", "score": 1.0}
+{"id": "e011", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "KV Racing Technology", "status": "SELECTED", "score": 1.0}
+{"id": "e013", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Родители", "status": "SELECTED", "score": 1.0}
+{"id": "e014", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Купер (команда Формулы-1)", "status": "SELECTED", "score": 1.0}
+{"id": "e015", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лео", "status": "SELECTED", "score": 0.998}
+{"id": "e019", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рассеяние", "status": "SELECTED", "score": 1.0}
+{"id": "e020", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Доклад", "status": "SELECTED", "score": 1.0}
+{"id": "e023", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "1944 год в искусстве", "status": "SELECTED", "score": 0.999}
+{"id": "e024", "method": "B2_gbm", "selection": "candidate_02", "selected_ru": "Авалон", "status": "SELECTED", "score": 0.002}
+{"id": "e026", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Сиддикуи, Ислахуддин", "status": "SELECTED", "score": 1.0}
+{"id": "e027", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Game Boy Advance SP", "status": "SELECTED", "score": 1.0}
+{"id": "e029", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Чемпионат Швеции по футболу", "status": "SELECTED", "score": 1.0}
+{"id": "e030", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Торонто Мейпл Лифс", "status": "SELECTED", "score": 1.0}
+{"id": "e032", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Париж-Орли (аэропорт)", "status": "SELECTED", "score": 1.0}
+{"id": "e033", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Иньчуань", "status": "SELECTED", "score": 1.0}
+{"id": "e034", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Гиганты", "status": "SELECTED", "score": 1.0}
+{"id": "e035", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Маршалловы Острова", "status": "SELECTED", "score": 1.0}
+{"id": "e037", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Twins (поп-группа)", "status": "SELECTED", "score": 1.0}
+{"id": "e038", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Камео", "status": "SELECTED", "score": 1.0}
+{"id": "e039", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Массачусетс", "status": "SELECTED", "score": 1.0}
+{"id": "e041", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED", "score": 0.998}
+{"id": "e043", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "чашка", "status": "SELECTED", "score": 0.998}
+{"id": "e044", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Люфтваффе (вермахт)", "status": "SELECTED", "score": 1.0}
+{"id": "e045", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Межконтинентальный кубок по футболу (1960—2004)", "status": "SELECTED", "score": 1.0}
+{"id": "e046", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Северн, Дэн", "status": "SELECTED", "score": 1.0}
+{"id": "e048", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED", "score": 0.998}
+{"id": "e049", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Университет штата Северная Каролина", "status": "SELECTED", "score": 1.0}
+{"id": "e053", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ханьянский университет", "status": "SELECTED", "score": 0.999}
+{"id": "e058", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "премия «Золотая хлопушка» за лучший фильм", "status": "SELECTED", "score": 0.999}
+{"id": "e059", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Запад штата Риу-Гранди-ду-Норти (мезорегион)", "status": "SELECTED", "score": 1.0}
+{"id": "e061", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Уолтон", "status": "SELECTED", "score": 0.998}
+{"id": "e062", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Киркконумми", "status": "SELECTED", "score": 1.0}
+{"id": "e063", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Чемпионат мира по фигурному катанию", "status": "SELECTED", "score": 1.0}
+{"id": "e069", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Win", "status": "SELECTED", "score": 0.001}
+{"id": "e072", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Dance Club Songs", "status": "SELECTED", "score": 1.0}
+{"id": "e073", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Берлинские кварталы эпохи модернизма", "status": "SELECTED", "score": 1.0}
+{"id": "e074", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "I Like It (песня Карди Би, Бэда Банни и Джея Бальвина)", "status": "SELECTED", "score": 1.0}
+{"id": "e076", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "община Шотландии", "status": "SELECTED", "score": 0.999}
+{"id": "e077", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Мач-Уэнлок", "status": "SELECTED", "score": 1.0}
+{"id": "e078", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Матч за третье место", "status": "SELECTED", "score": 1.0}
+{"id": "e081", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED", "score": 1.0}
+{"id": "e082", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Андретти, Майкл", "status": "SELECTED", "score": 1.0}
+{"id": "e083", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Военно-морской арсенал в Сасебо", "status": "SELECTED", "score": 1.0}
+{"id": "e087", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Баффало Биллс", "status": "SELECTED", "score": 1.0}
+{"id": "e088", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лю Шаоци", "status": "SELECTED", "score": 1.0}
+{"id": "e090", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED", "score": 1.0}
+{"id": "e091", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Lola Cars", "status": "SELECTED", "score": 1.0}
+{"id": "e094", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лукойл", "status": "SELECTED", "score": 1.0}
+{"id": "e095", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "BMW M", "status": "SELECTED", "score": 1.0}
+{"id": "e099", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Конференция Big 12", "status": "SELECTED", "score": 1.0}
+{"id": "e101", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Гигантский слалом", "status": "SELECTED", "score": 1.0}
+{"id": "e104", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Арабские игры", "status": "SELECTED", "score": 1.0}
+{"id": "e105", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Дракон (созвездие)", "status": "SELECTED", "score": 1.0}
+{"id": "e106", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Олимпийские игры", "status": "SELECTED", "score": 1.0}
+{"id": "e107", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Миллер, Кит Харви", "status": "SELECTED", "score": 1.0}
+{"id": "e111", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Амперсанд", "status": "SELECTED", "score": 1.0}
+{"id": "e112", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Оде", "status": "SELECTED", "score": 0.998}
+{"id": "e113", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Run (песня Snow Patrol)", "status": "SELECTED", "score": 1.0}
+{"id": "e114", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "течение", "status": "SELECTED", "score": 0.998}
+{"id": "e116", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "1804", "status": "SELECTED", "score": 0.998}
+{"id": "e117", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рита Кадиллак", "status": "SELECTED", "score": 0.251}
+{"id": "e118", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Херман С. МакНил", "status": "SELECTED", "score": 0.999}
+{"id": "e119", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Национальная футбольная лига", "status": "SELECTED", "score": 1.0}
+{"id": "e120", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "C", "status": "SELECTED", "score": 0.998}
+{"id": "e121", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Буквенно-цифровое обозначение аккорда", "status": "SELECTED", "score": 1.0}
+{"id": "e122", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "BP", "status": "SELECTED", "score": 1.0}
+{"id": "e124", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Манчестер", "status": "SELECTED", "score": 1.0}
+{"id": "e126", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "различные исполнители", "status": "SELECTED", "score": 0.999}
+{"id": "e127", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "тренер лошадей", "status": "SELECTED", "score": 0.999}
+{"id": "e129", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "14 ноября", "status": "SELECTED", "score": 1.0}
+{"id": "e131", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED", "score": 0.998}
+{"id": "e132", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED", "score": 0.998}
+{"id": "e133", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Марафон", "status": "SELECTED", "score": 1.0}
+{"id": "e134", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Inc. (журнал)", "status": "SELECTED", "score": 1.0}
+{"id": "e135", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Коричневый сахар", "status": "SELECTED", "score": 1.0}
+{"id": "e136", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Yes (группа)", "status": "SELECTED", "score": 0.998}
+{"id": "e137", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Лэмб, Джозеф", "status": "SELECTED", "score": 0.998}
+{"id": "e138", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Рядовой", "status": "SELECTED", "score": 1.0}
+{"id": "e142", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Honda", "status": "SELECTED", "score": 1.0}
+{"id": "e143", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Alpine Renault", "status": "SELECTED", "score": 1.0}
+{"id": "e144", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Линк (персонаж)", "status": "SELECTED", "score": 1.0}
+{"id": "e148", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "ESPN", "status": "SELECTED", "score": 1.0}
+{"id": "e149", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Уимблдон (футбольный клуб, 2002)", "status": "SELECTED", "score": 1.0}
+{"id": "e151", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Recettear: An Item Shop's Tale", "status": "SELECTED", "score": 0.999}
+{"id": "e152", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Stromae", "status": "SELECTED", "score": 1.0}
+{"id": "e153", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Коннорс, Джимми", "status": "SELECTED", "score": 1.0}
+{"id": "e154", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "1860", "status": "SELECTED", "score": 0.998}
+{"id": "e155", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Франц", "status": "SELECTED", "score": 1.0}
+{"id": "e157", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Хэвок", "status": "SELECTED", "score": 0.002}
+{"id": "e159", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "While My Guitar Gently Weeps", "status": "SELECTED", "score": 1.0}
+{"id": "e161", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Дейвис, Питер Максвелл", "status": "SELECTED", "score": 1.0}
+{"id": "e162", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Терраса (архитектура)", "status": "SELECTED", "score": 1.0}
+{"id": "e165", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Клей (однофамильцы)", "status": "SELECTED", "score": 1.0}
+{"id": "e168", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ферменты", "status": "SELECTED", "score": 1.0}
+{"id": "e169", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "BMW M1", "status": "SELECTED", "score": 1.0}
+{"id": "e170", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Хир", "status": "SELECTED", "score": 0.998}
+{"id": "e172", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Смит, Роберт (музыкант)", "status": "SELECTED", "score": 1.0}
+{"id": "e174", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Товарищеский матч", "status": "SELECTED", "score": 1.0}
+{"id": "e175", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Чрезвычайный и полномочный посол", "status": "SELECTED", "score": 0.999}
+{"id": "e176", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ноне", "status": "SELECTED", "score": 1.0}
+{"id": "e177", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Город", "status": "SELECTED", "score": 1.0}
+{"id": "e180", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Кейдж, Майкл", "status": "SELECTED", "score": 0.998}
+{"id": "e184", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED", "score": 0.998}
+{"id": "e185", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "N/A", "status": "SELECTED", "score": 0.998}
+{"id": "e186", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "If You Were a Woman (And I Was a Man)", "status": "SELECTED", "score": 1.0}
+{"id": "e187", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Брубек, Дейв", "status": "SELECTED", "score": 0.998}
+{"id": "e188", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Кубок Англии по футболу 2006/2007", "status": "SELECTED", "score": 1.0}
+{"id": "e189", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Открытый чемпионат Италии по теннису 2009", "status": "SELECTED", "score": 1.0}
+{"id": "e191", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Сенна, Айртон", "status": "SELECTED", "score": 1.0}
+{"id": "e199", "method": "B2_gbm", "selection": "candidate_01", "selected_ru": "Ханьдань", "status": "SELECTED", "score": 1.0}

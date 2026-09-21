@@ -1,0 +1,10 @@
+model,mode,attempted,correct,wrong,false_positive,correct_abstain,missed_candidate,invalid,selection_agreement,no_match_rate
+Qwen7B,A,116,58,0,0,42,16,0,1.0,0.5
+Qwen7B,B,116,51,0,0,44,21,0,1.0,0.56
+Qwen7B,C,116,41,0,0,48,27,0,1.0,0.647
+Qwen7B,D,116,34,0,0,50,32,0,1.0,0.707
+Qwen7B,E,116,32,0,0,54,30,0,1.0,0.724
+Qwen3B,A,116,27,0,0,54,35,0,1.0,0.767
+Qwen3B,B,116,21,0,0,57,38,0,1.0,0.819
+Qwen3B,C,116,27,0,0,59,30,0,1.0,0.767
+Qwen3B,D,116,18,0,0,62,36,0,1.0,0.845

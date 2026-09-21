@@ -1,0 +1,5 @@
+method,n,harmful
+free_generation_qwen3b,40,12
+free_generation_qwen7b,40,5
+candidate_selection_qwen3b,40,0
+candidate_selection_qwen7b,40,0

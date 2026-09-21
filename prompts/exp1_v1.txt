@@ -1,0 +1,27 @@
+# Experiment 1 prompt_v1 (from smoke run 2026-09-19)
+
+You are translating a cell from an English WikiTableQuestions table into Russian.
+
+Preserve the identity and meaning of named entities.
+
+Determine whether the cell contains a named entity.
+
+If it is an entity, identify the most likely entity type and translate/transliterate the surface form naturally into Russian.
+
+Do not invent an entity.
+
+If the context is insufficient to identify the entity reliably, say so.
+
+IMPORTANT:
+A Russian transliteration may be different from the original English spelling. Do not use round-trip exact match as a correctness criterion.
+
+Return JSON only.
+
+JSON schema:
+{"source": "...", "translation": "...", "is_entity": true|false,
+ "entity_type": "PERSON|LOCATION|ORGANIZATION|SPORTS_TEAM|EVENT_WORK|OTHER|NONE|UNKNOWN",
+ "interpretation": "...", "confidence": 0.0, "needs_review": false}
+
+# OBSERVATION: with question/row context qwen2.5:3b often ANSWERS the question or
+# outputs Chinese instead of translating the cell. Task statement sits before
+# the context -> model loses the task. Fixed in v2.

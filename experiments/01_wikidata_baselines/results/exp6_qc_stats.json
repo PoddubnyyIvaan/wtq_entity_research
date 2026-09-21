@@ -1,0 +1,27 @@
+{
+ "n": 200,
+ "linked_qids": 195,
+ "A_roundtrip_exact_ru_vs_source": {
+  "note": "diagnostic only: RU form rarely equals the EN source string for proper entities",
+  "ru_forms": 112,
+  "exact": 6
+ },
+ "B_normalized_lexical": {
+  "en_label_coverage": 0.9948717948717949,
+  "match_rate_among_linked_with_label": 0.5773195876288659
+ },
+ "C_entity_identity": {
+  "reverse_attempted": 112,
+  "reverse_found": 45,
+  "identity_verified": 39,
+  "identity_verified_rate": 0.3482142857142857,
+  "reverse_qid_mismatch": 6,
+  "identity_unresolved": 67
+ },
+ "D_tm_consistency": {
+  "unique_surface_values": 190,
+  "repeated_surface_values": 7,
+  "inconsistent_ru_for_same_value": 0
+ },
+ "E_llm_judge_status": "NOT RUN: no LLM API credentials available in environment"
+}

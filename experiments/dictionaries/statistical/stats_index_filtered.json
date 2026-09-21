@@ -1,0 +1,42 @@
+{
+ "total": 200,
+ "unique_forms": 190,
+ "match_type": {
+  "none": 188,
+  "single": 12
+ },
+ "decision": {
+  "NO_MATCH": 188,
+  "SINGLE_CANDIDATE": 12
+ },
+ "category": {
+  "UNKNOWN": 7,
+  "NAMED_ENTITY": 121,
+  "COMMON_WORD": 48,
+  "JUNK": 24
+ },
+ "category_match": {
+  "COMMON_WORD": {
+   "matched": 6,
+   "n": 48
+  },
+  "NAMED_ENTITY": {
+   "matched": 6,
+   "n": 121
+  },
+  "NUMBER": {
+   "matched": 0,
+   "n": 0
+  },
+  "JUNK": {
+   "matched": 0,
+   "n": 24
+  },
+  "UNKNOWN": {
+   "matched": 0,
+   "n": 7
+  }
+ },
+ "mean_candidate_count": 1.0,
+ "mean_top1_probability": 0.7362666666666667
+}

@@ -1,0 +1,419 @@
+{
+ "comparison_subset": {
+  "note": "agreement with WD RU form on sample NAMED_ENTITY occurrences where WD has RU (not accuracy)",
+  "n": 78,
+  "byt5_agreement": 0.141,
+  "bgn_rule_agreement": 0.077
+ },
+ "mandatory_probes_byt5": {
+  "Smith": "Смит",
+  "Smyth": "Смит",
+  "New York": "Нью Йорк",
+  "London": "Лондон",
+  "George": "Джордж",
+  "Arsenal": "Арсенал",
+  "Washington": "Вашингтон"
+ },
+ "rows": [
+  {
+   "id": "e005",
+   "surface": "Fashion Magazine",
+   "wd_ru": "журнал мод",
+   "byt5": "Фашион Магазин",
+   "bgn": "Фашион Магазин",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e007",
+   "surface": "National Football League Round 6",
+   "wd_ru": "Национальная футбольная лига",
+   "byt5": "Нейтболл Лиг Раунд 6-й герцог Раунд",
+   "bgn": "Нашонал Футбалл Лигу Раунд 6",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e009",
+   "surface": "Residential",
+   "wd_ru": "Микрорайон (КНР)",
+   "byt5": "Резиденциал",
+   "bgn": "Ресиднтиал",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e010",
+   "surface": "Team Rahal",
+   "wd_ru": "Рэйхол, Бобби",
+   "byt5": "Тим Рахал",
+   "bgn": "Тим Рахал",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e011",
+   "surface": "KV Racing Technology",
+   "wd_ru": "KV Racing Technology",
+   "byt5": "Квинт Расинг Технологи",
+   "bgn": "Кв Расинг Течнолоджи",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e013",
+   "surface": "Parent",
+   "wd_ru": "Родители",
+   "byt5": "Парент",
+   "bgn": "Парент",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e014",
+   "surface": "Cooper-Maserati",
+   "wd_ru": "Купер (команда Формулы-1)",
+   "byt5": "Купер-Мазерати",
+   "bgn": "Cooper-Maserati",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e015",
+   "surface": "Leo",
+   "wd_ru": "Лео",
+   "byt5": "Лео",
+   "bgn": "Лео",
+   "byt5_match": true,
+   "bgn_match": true,
+   "wd_has_form": true
+  },
+  {
+   "id": "e019",
+   "surface": "Scattering",
+   "wd_ru": "Рассеяние",
+   "byt5": "Скаттеринг",
+   "bgn": "Скаттеринг",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e023",
+   "surface": "Hon Sol Rosevear",
+   "wd_ru": "1944 год в искусстве",
+   "byt5": "Хон Сол Роузвир",
+   "bgn": "Хон Сол Росевир",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e026",
+   "surface": "Islahuddin Siddique",
+   "wd_ru": "Сиддикуи, Ислахуддин",
+   "byt5": "Ислахуддин Сиддик",
+   "bgn": "Ислахуддин Сиддикв",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e027",
+   "surface": "Game Boy Advance",
+   "wd_ru": "Game Boy Advance SP",
+   "byt5": "Гейм Бой Эдванс",
+   "bgn": "Гам Бой Адванс",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e029",
+   "surface": "Allsvenskan",
+   "wd_ru": "Чемпионат Швеции по футболу",
+   "byt5": "Аллсвенскан",
+   "bgn": "Аллсвенскан",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e030",
+   "surface": "Toronto Maple Leafs",
+   "wd_ru": "Торонто Мейпл Лифс",
+   "byt5": "Торонто Мэпл Лифс",
+   "bgn": "Торонто Мапл Лифс",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e032",
+   "surface": "LFPO",
+   "wd_ru": "Париж-Орли (аэропорт)",
+   "byt5": "Льфпо",
+   "bgn": "Лфпо",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e033",
+   "surface": "Yinchuan",
+   "wd_ru": "Иньчуань",
+   "byt5": "Иньчуань",
+   "bgn": "Йинчуан",
+   "byt5_match": true,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e034",
+   "surface": "@ Giants",
+   "wd_ru": "Гиганты",
+   "byt5": "Джантс, Джон",
+   "bgn": "@ Джиантс",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e035",
+   "surface": "Sharp, Marshall",
+   "wd_ru": "Маршалловы Острова",
+   "byt5": "Шарп, Маршалл",
+   "bgn": "Sharp, Маршалл",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e038",
+   "surface": "Cameo",
+   "wd_ru": "Камео",
+   "byt5": "Камео",
+   "bgn": "Камео",
+   "byt5_match": true,
+   "bgn_match": true,
+   "wd_has_form": true
+  },
+  {
+   "id": "e043",
+   "surface": "Cup",
+   "wd_ru": "чашка",
+   "byt5": "Куп",
+   "bgn": "Куп",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e044",
+   "surface": "Luftwaffe",
+   "wd_ru": "Люфтваффе (вермахт)",
+   "byt5": "Люфтваффе",
+   "bgn": "Луфтвафф",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e045",
+   "surface": "Toyota Cup",
+   "wd_ru": "Межконтинентальный кубок по футболу (1960—2004)",
+   "byt5": "Тоёта Кап",
+   "bgn": "Тойота Куп",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e046",
+   "surface": "Dan Severn",
+   "wd_ru": "Северн, Дэн",
+   "byt5": "Дэн Северн",
+   "bgn": "Дан Северн",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e048",
+   "surface": "Heer",
+   "wd_ru": "Хир",
+   "byt5": "Хер",
+   "bgn": "Хир",
+   "byt5_match": false,
+   "bgn_match": true,
+   "wd_has_form": true
+  },
+  {
+   "id": "e049",
+   "surface": "#2 NC State",
+   "wd_ru": "Университет штата Северная Каролина",
+   "byt5": "Николай Стейт",
+   "bgn": "#2 Нк Стат",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e059",
+   "surface": "Oeste Potiguar",
+   "wd_ru": "Запад штата Риу-Гранди-ду-Норти (мезорегион)",
+   "byt5": "Эсте Потигуар",
+   "bgn": "Оест Потигуар",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e061",
+   "surface": "Walton",
+   "wd_ru": "Уолтон",
+   "byt5": "Уолтон",
+   "bgn": "Валтон",
+   "byt5_match": true,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e062",
+   "surface": "Kirkkonummi",
+   "wd_ru": "Киркконумми",
+   "byt5": "Киркконумми",
+   "bgn": "Киркконумми",
+   "byt5_match": true,
+   "bgn_match": true,
+   "wd_has_form": true
+  },
+  {
+   "id": "e063",
+   "surface": "World Championships",
+   "wd_ru": "Чемпионат мира по фигурному катанию",
+   "byt5": "Уорльд Чэмпионшипс",
+   "bgn": "Ворлд Чампионшипс",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e077",
+   "surface": "Much Wenlock",
+   "wd_ru": "Мач-Уэнлок",
+   "byt5": "Мюх Уэнлок",
+   "bgn": "Муч Венлок",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e078",
+   "surface": "World Cup Final - third place playoff",
+   "wd_ru": "Матч за третье место",
+   "byt5": "Уорльд Кап Финал - Тирд Плейс",
+   "bgn": "Ворлд Куп Финал --- тирд плас плэйофф",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e081",
+   "surface": "If You Were a Woman and I Was a Man",
+   "wd_ru": "If You Were a Woman (And I Was a Man)",
+   "byt5": "Иф Ян Вере авоман и Воман",
+   "bgn": "Иф Йау Вер а Воман and И Вас а Ман",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e082",
+   "surface": "Michael Andretti",
+   "wd_ru": "Андретти, Майкл",
+   "byt5": "Майкл Андретти",
+   "bgn": "Мичаел Андретти",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e083",
+   "surface": "Sasebo Naval Arsenal",
+   "wd_ru": "Военно-морской арсенал в Сасебо",
+   "byt5": "Сасебо Наваль Арсеналь",
+   "bgn": "Сасебо Навал Арсенал",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e087",
+   "surface": "Buffalo Bills",
+   "wd_ru": "Баффало Биллс",
+   "byt5": "Баффало Биллс",
+   "bgn": "Буффало Биллс",
+   "byt5_match": true,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e088",
+   "surface": "Liu Shaoqi",
+   "wd_ru": "Лю Шаоци",
+   "byt5": "Лю Шаоци",
+   "bgn": "Лиу Шаоки",
+   "byt5_match": true,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e091",
+   "surface": "Lola Cars Ltd. / Team Surtees",
+   "wd_ru": "Lola Cars",
+   "byt5": "Лола Карс Лтд. Тим Сертис",
+   "bgn": "Лола Карс Ltd. / Тим Суртис",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e094",
+   "surface": "MCX: LKOH",
+   "wd_ru": "Лукойл",
+   "byt5": "Макс Лко",
+   "bgn": "MCX: Лкох",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e095",
+   "surface": "BMW Motorsport GmbH",
+   "wd_ru": "BMW M",
+   "byt5": "Богдан Моторспорт",
+   "bgn": "Бмв Моторспорт Гмбх",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  },
+  {
+   "id": "e099",
+   "surface": "Big 12",
+   "wd_ru": "Конференция Big 12",
+   "byt5": "Биг Роберт Биг",
+   "bgn": "Биг 12",
+   "byt5_match": false,
+   "bgn_match": false,
+   "wd_has_form": true
+  }
+ ]
+}
