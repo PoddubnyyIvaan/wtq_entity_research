@@ -1,0 +1,213 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "auto_collapse_reasoning": true,
+  "terminal_command_display": "collapsed",
+  "mcp": {
+    "context7": {
+      "type": "remote",
+      "url": "https://mcp.context7.com/mcp"
+    }
+  },
+  "permission": {
+    "read": {
+      "*": "allow",
+      "*.env": "ask",
+      "*.env.*": "ask",
+      "*.env.example": "allow"
+    },
+    "edit": {
+      "*": "allow"
+    },
+    "glob": {
+      "*": "allow"
+    },
+    "grep": {
+      "*": "allow"
+    },
+    "list": "allow",
+    "bash": {
+      "*": "allow",
+      "cat *": "allow",
+      "head *": "allow",
+      "tail *": "allow",
+      "less *": "allow",
+      "ls *": "allow",
+      "tree *": "allow",
+      "pwd *": "allow",
+      "echo *": "allow",
+      "wc *": "allow",
+      "which *": "allow",
+      "type *": "allow",
+      "file *": "allow",
+      "diff *": "allow",
+      "du *": "allow",
+      "df *": "allow",
+      "date *": "allow",
+      "uname *": "allow",
+      "whoami *": "allow",
+      "printenv *": "allow",
+      "man *": "allow",
+      "grep *": "allow",
+      "rg *": "allow",
+      "ag *": "allow",
+      "uniq *": "allow",
+      "cut *": "allow",
+      "tr *": "allow",
+      "jq *": "allow",
+      "*>*": "ask",
+      "git log *": "allow",
+      "git branch *": "allow",
+      "mkdir *": "allow",
+      "touch *": "allow",
+      "rmdir *": "allow",
+      "python3 *": "allow",
+      "pip install *": "allow",
+      "sed *": "allow",
+      "git add *": "deny",
+      "git commit *": "deny"
+    },
+    "external_directory": "deny",
+    "question": "allow",
+    "webfetch": "allow",
+    "websearch": "allow",
+    "doom_loop": "ask",
+    "*": "ask",
+    "codesearch": "allow",
+    "todowrite": "allow",
+    "task": {
+      "*": "allow"
+    }
+  },
+  "model": "routerai/~deepseek/deepseek-v4-flash-latest",
+  "small_model": "routerai/qwen/qwen3.7-flash",
+  "disabled_providers": [],
+  "provider": {
+    "routerai": {
+      "name": "RouterAI",
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "baseURL": "https://routerai.ru/api/v1"
+      },
+      "models": {
+        "qwen/qwen3.7-flash": {
+          "name": "Qwen: Qwen3.7 Flash",
+          "reasoning": true,
+          "modalities": {
+            "input": [
+              "text",
+              "image"
+            ]
+          }
+        },
+        "deepseek/deepseek-v4-flash-0731": {
+          "name": "DeepSeek: DeepSeek V4 Flash 0731",
+          "reasoning": true,
+          "modalities": {
+            "input": [
+              "text",
+              "image"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "agent": {
+    "code": {
+      "disable": false,
+      "prompt": "Ты — **Spec-First Developer**, разработчик, который работает через спецификации (Spec-Driven Development). Твоя задача — писать спецификации и реализовывать код строго по спецификациям строго следуя Constitution проекта.\n\n## Твоя работа делится на две фазы:\n\n### Фаза 1: Написание спецификации\n- Пишешь спецификацию по шаблонам из Constitution\n- Спецификация должна быть **достаточной для реализации** — другой разработчик должен понять, *что* и *как* делать, без чтения существующего кода\n- Следуешь критериям готовности из Constitution\n### Фаза 2: Реализация по спецификации\n- Реализуешь код, строго соответствующий утверждённой спецификации и Constitution\n- Код, не соответствующий спецификации — баг\n- Если в процессе реализации выявляется необходимость изменений — **сначала обновляешь спецификацию**\n\n**Что ты НЕ делаешь:**\n- Не рефакторишь существующий код без спецификации \n- Не меняешь поведение, не описанное в спецификации\n- Не вносишь изменения в сервисы, не относящиеся к твоей задаче\n\n\n---\n\n## SDD Workflow (как ты работаешь)\n\n### При получении задачи:\n\n1. **Прочитай Constitution**  — убедись, что понимаешь все принципы\n2. **Изучи существующий код** сервиса, к которому относится задача:\n   - Структуру модулей (`api.py`, `manager.py`, `dtype/`, `config/`)\n   - Существующие Pydantic-модели (`dtype/`)\n   - Существующие эндпоинты (FastAPI routes)\n   - Существующие Neo4j-запросы и схемы узлов/связей\n3. **Определи тип спецификации** — Feature, Model, Pipeline, или комбинацию\n4. **Напиши спецификацию** — заполни ВСЕ секции шаблона, без placeholder'ов `...` или `TODO`\n5. **Проверь соответствие Constitution**\n6. **Проверь критерии готовности** по Constitution \n7. **Реализуй код**\n8. **Верифицируй**:\n   - `pytest` — все существующие тесты проходят\n   - Сверь код со спецификацией — каждое требование из spec реализовано\n   - Убедись, что не затронул другие сервисы без необходимости\n\n### При расхождении кода и спецификации в процессе реализации:\n- НЕ правь только код втихую\n- Обнови спецификацию, задокументируй причину изменения\n- Убедись, что изменение не нарушает Constitution \n\n\n\n## 7. Чеклист качества спецификации\n\nПеред тем как считать спецификацию готовой, проверь:\n\n- [ ] Все секции шаблона заполнены (нет `...`, `TODO`, placeholder'ов)\n- [ ] Motivation объясняет, ЗАЧЕМ нужна фича\n- [ ] Input описан с типами и валидацией\n- [ ] Processing — пошаговый алгоритм, понятный другому разработчику\n- [ ] Output — формат, типы, коды ошибок\n- [ ] API Contract (для эндпоинтов) — OpenAPI-фрагмент с method, path, status codes\n- [ ] Data Flow — какие хранилища затрагиваются, в каком порядке\n- [ ] LLM Interactions (если есть) — ссылки на файлы промптов с метаданными\n- [ ] LLM Model Requirements (если есть) — тип модели, контекст, язык, формат выхода\n- [ ] Error Handling — все известные failure modes\n- [ ] Testing — конкретные тест-кейсы, включая граничные случаи\n- [ ] Dependencies — какие сервисы/модули используются\n- [ ] Exceptions — пусто или обоснованные отклонения от Constitution\n- [ ] Проверка на соответствие Constitution\n- [ ] Спецификация достаточна для реализации без чтения кода\n\n---\n\n## 8. Чеклист качества реализации\n\nПеред тем как считать реализацию готовой, проверь:\n\n- [ ] Код соответствует спецификации  (каждый пункт Processing реализован)\n- [ ] Все Pydantic-модели из спецификации созданы в `dtype/`\n- [ ] Все эндпоинты из API Contract реализованы в `api.py`\n- [ ] `pytest` проходит\n- [ ] Стиль кода соответствует существующему в сервисе\n- [ ] Комментарии на русском, идентификаторы на английском\n"
+    },
+    "git-manager": {
+      "permission": {
+        "bash": {
+          "*": "deny",
+          "git *": "allow"
+        },
+        "edit": "deny",
+        "glob": "allow",
+        "grep": "deny",
+        "list": "allow",
+        "task": "deny",
+        "skill": "allow",
+        "todoread": "allow",
+        "todowrite": "allow",
+        "websearch": "deny",
+        "webfetch": "deny"
+      }
+    },
+    "orcestrator": {
+      "permission": {
+        "external_directory": "deny",
+        "read": {
+          "*": "deny",
+          "**/CONSTITUTION.md": "allow"
+        },
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "allow",
+        "list": "deny",
+        "task": "allow",
+        "skill": "allow",
+        "lsp": "allow",
+        "todoread": "allow",
+        "todowrite": "allow",
+        "websearch": "ask",
+        "webfetch": "ask"
+      }
+    },
+    "spec-first-coder": {
+      "permission": {
+        "external_directory": "deny",
+        "bash": "allow",
+        "read": "allow",
+        "edit": "allow",
+        "glob": "allow",
+        "grep": "allow",
+        "list": "allow",
+        "skill": "allow",
+        "lsp": "allow",
+        "todoread": "allow",
+        "todowrite": "allow",
+        "websearch": "ask",
+        "webfetch": "ask",
+        "task": "deny"
+      }
+    },
+    "spec-first-developer": {
+      "permission": {
+        "external_directory": "deny",
+        "read": "allow",
+        "edit": "allow",
+        "glob": "allow",
+        "grep": "allow",
+        "list": "allow",
+        "bash": "ask",
+        "task": "deny",
+        "skill": "allow",
+        "lsp": "allow",
+        "todoread": "allow",
+        "todowrite": "allow",
+        "websearch": "ask",
+        "webfetch": "ask"
+      }
+    },
+    "ci-infra-agent": {
+      "permission": {
+        "external_directory": "deny",
+        "bash": "allow",
+        "read": "allow",
+        "edit": "allow",
+        "glob": "allow",
+        "grep": "allow",
+        "list": "allow",
+        "task": "deny",
+        "skill": "allow",
+        "lsp": "allow",
+        "todoread": "allow",
+        "todowrite": "allow",
+        "websearch": "ask",
+        "webfetch": "ask"
+      }
+    }
+  }
+}
