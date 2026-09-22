@@ -28,15 +28,27 @@ Parallelism / API-safety notes:
   - Http takes an exclusive cache lock: a second parallel run of this script
     refuses to start instead of exceeding the per-IP rate cap.
 
-Progress is shown by a tqdm bar (with rpm/interval/errors in the postfix)
-when tqdm is installed; otherwise the script falls back to plain text lines,
-so it stays runnable without dependencies.
+Running a slice on several machines (per-IP cap backoff):
+
+  - The 200 rpm ceiling is per external IP across ALL Wikimedia hosts
+    (wikidata.org + en.wikipedia.org). Splitting the sample (see
+    scripts/split_sample.py) and running each part on a machine with its own
+    external IP multiplies the aggregate rate by the number of machines without
+    violating the per-IP limit.
+  - Give every run its own cache name: cache/wikidata.json holds one global
+    flock, so any two runs sharing a filesystem would block each other.
+    ``--cache-name wikidata_partK`` isolates lock *and* cache per part.
+  - Each machine writes its own results/ files; rename them (e.g. to
+    exp2_wikidata_partK.jsonl) before collecting or merging.
 
 Usage:
-    python exp2_wikidata.py [--workers N] [--rpm R] [limit]
+    python exp2_wikidata.py [--workers N] [--rpm R] [--input PATH] [--cache-name NAME] [limit]
     python exp2_wikidata.py --workers 3 --rpm 200               # full sample at full cap
     python exp2_wikidata.py --rpm 170                          # margin
     python exp2_wikidata.py --rpm 200 200                      # pilot, 200 rows
+    python exp2_wikidata.py --workers 3 --rpm 200 \
+        --input samples/sample200_part2.jsonl \
+        --cache-name wikidata_part2                            # part 2 on its own machine
 """
 from __future__ import annotations
 
@@ -186,22 +198,44 @@ def resolve(it, http):
     }
 
 
-def main():
-    root = Path(__file__).resolve().parents[1]
-    items = [json.loads(l) for l in (root / "samples" / "sample200.jsonl").open()]
-    limit, workers, rpm = len(items), 3, 200
-    args = list(sys.argv[1:])
+def parse_args(raw):
+    """Разбирает sys.argv[1:]: (input_path, limit, workers, rpm, cache_name).
+
+    --workers N, --rpm R, --input PATH, --cache-name NAME; единственный
+    позиционный аргумент — limit (префикс выборки, как раньше; по умолчанию
+    берутся все строки входного файла). Совместимо с прежним CLI.
+    """
+    limit, workers, rpm = None, 3, 200
+    input_path, cache_name = "samples/sample200.jsonl", "wikidata"
+    args = list(raw)
     while args:
         a = args.pop(0)
         if a == "--workers":
             workers = int(args.pop(0))
         elif a == "--rpm":
             rpm = int(args.pop(0))
+        elif a == "--input":
+            input_path = args.pop(0)
+        elif a == "--cache-name":
+            cache_name = args.pop(0)
         else:
             limit = int(a)
-    items = items[:limit]
+    return input_path, limit, workers, rpm, cache_name
+
+
+def main():
+    root = Path(__file__).resolve().parents[1]
+    input_path, limit, workers, rpm, cache_name = parse_args(sys.argv[1:])
+    try:
+        items = [json.loads(l) for l in (root / input_path).open()]
+    except FileNotFoundError:
+        print(f"ошибка: входной файл не найден: {root / input_path}",
+              file=sys.stderr)
+        raise SystemExit(2)
+    if limit is not None:
+        items = items[:limit]
     n = len(items)
-    http = Http("wikidata", min_interval=60 / rpm)
+    http = Http(cache_name, min_interval=60 / rpm)
 
     results = [None] * n
     lock = threading.Lock()
